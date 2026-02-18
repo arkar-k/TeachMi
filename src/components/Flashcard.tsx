@@ -4,18 +4,17 @@ import type { Card } from "../types"
 
 interface FlashcardProps {
   card: Card
-  onFlip?: () => void
+  onFlipChange?: (flipped: boolean) => void
 }
 
-export function Flashcard({ card, onFlip }: FlashcardProps) {
+export function Flashcard({ card, onFlipChange }: FlashcardProps) {
   const [isFlipped, setIsFlipped] = useState(false)
   const backRef = useRef<HTMLDivElement>(null)
 
   const handleFlip = () => {
-    if (!isFlipped) {
-      setIsFlipped(true)
-      onFlip?.()
-    }
+    const next = !isFlipped
+    setIsFlipped(next)
+    onFlipChange?.(next)
   }
 
   const handleAnimationComplete = useCallback(() => {

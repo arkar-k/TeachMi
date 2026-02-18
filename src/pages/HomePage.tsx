@@ -90,7 +90,7 @@ export function HomePage({
             >
               <Flashcard
                 card={currentCard}
-                onFlip={() => setIsFlipped(true)}
+                onFlipChange={setIsFlipped}
               />
             </motion.div>
           )}
