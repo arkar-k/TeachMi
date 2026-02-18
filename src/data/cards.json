@@ -1,0 +1,443 @@
+[
+  {
+    "id": "1",
+    "sentence": "京都の紅葉は世界中から観光客を集める。",
+    "sentence_furigana": "<ruby>京都<rt>きょうと</rt></ruby>の<ruby>紅葉<rt>こうよう</rt></ruby>は<ruby>世界中<rt>せかいじゅう</rt></ruby>から<ruby>観光客<rt>かんこうきゃく</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>める。",
+    "sentence_en": "The autumn leaves of Kyoto attract tourists from all over the world.",
+    "word_kanji": "観光客",
+    "word_furigana": "かんこうきゃく",
+    "word_en": "tourist; sightseer",
+    "extra_kanji": [
+      { "kanji": "京都", "furigana": "きょうと", "en": "Kyoto" },
+      { "kanji": "紅葉", "furigana": "こうよう", "en": "autumn leaves" },
+      { "kanji": "世界中", "furigana": "せかいじゅう", "en": "all over the world" },
+      { "kanji": "集める", "furigana": "あつめる", "en": "to gather; to collect" }
+    ]
+  },
+  {
+    "id": "2",
+    "sentence": "日本の温泉に入る前に体を洗う必要がある。",
+    "sentence_furigana": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>体<rt>からだ</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>う<ruby>必要<rt>ひつよう</rt></ruby>がある。",
+    "sentence_en": "You need to wash your body before entering a Japanese hot spring.",
+    "word_kanji": "必要",
+    "word_furigana": "ひつよう",
+    "word_en": "necessary; essential",
+    "extra_kanji": [
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "温泉", "furigana": "おんせん", "en": "hot spring" },
+      { "kanji": "入る", "furigana": "はいる", "en": "to enter" },
+      { "kanji": "前", "furigana": "まえ", "en": "before" },
+      { "kanji": "体", "furigana": "からだ", "en": "body" },
+      { "kanji": "洗う", "furigana": "あらう", "en": "to wash" }
+    ]
+  },
+  {
+    "id": "3",
+    "sentence": "お祭りで金魚すくいに挑戦した。",
+    "sentence_furigana": "お<ruby>祭<rt>まつ</rt></ruby>りで<ruby>金魚<rt>きんぎょ</rt></ruby>すくいに<ruby>挑戦<rt>ちょうせん</rt></ruby>した。",
+    "sentence_en": "I tried goldfish scooping at the festival.",
+    "word_kanji": "挑戦",
+    "word_furigana": "ちょうせん",
+    "word_en": "challenge; attempt",
+    "extra_kanji": [
+      { "kanji": "祭り", "furigana": "まつり", "en": "festival" },
+      { "kanji": "金魚", "furigana": "きんぎょ", "en": "goldfish" }
+    ]
+  },
+  {
+    "id": "4",
+    "sentence": "この寿司屋は新鮮な魚を使っている。",
+    "sentence_furigana": "この<ruby>寿司屋<rt>すしや</rt></ruby>は<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>魚<rt>さかな</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っている。",
+    "sentence_en": "This sushi restaurant uses fresh fish.",
+    "word_kanji": "新鮮",
+    "word_furigana": "しんせん",
+    "word_en": "fresh",
+    "extra_kanji": [
+      { "kanji": "寿司屋", "furigana": "すしや", "en": "sushi restaurant" },
+      { "kanji": "魚", "furigana": "さかな", "en": "fish" },
+      { "kanji": "使う", "furigana": "つかう", "en": "to use" }
+    ]
+  },
+  {
+    "id": "5",
+    "sentence": "桜の季節になると公園は花見客でにぎわう。",
+    "sentence_furigana": "<ruby>桜<rt>さくら</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>になると<ruby>公園<rt>こうえん</rt></ruby>は<ruby>花見<rt>はなみ</rt></ruby><ruby>客<rt>きゃく</rt></ruby>でにぎわう。",
+    "sentence_en": "When cherry blossom season comes, parks are bustling with hanami visitors.",
+    "word_kanji": "季節",
+    "word_furigana": "きせつ",
+    "word_en": "season",
+    "extra_kanji": [
+      { "kanji": "桜", "furigana": "さくら", "en": "cherry blossom" },
+      { "kanji": "公園", "furigana": "こうえん", "en": "park" },
+      { "kanji": "花見", "furigana": "はなみ", "en": "flower viewing" },
+      { "kanji": "客", "furigana": "きゃく", "en": "guest; visitor" }
+    ]
+  },
+  {
+    "id": "6",
+    "sentence": "日本では靴を脱いでから家に入る習慣がある。",
+    "sentence_furigana": "<ruby>日本<rt>にほん</rt></ruby>では<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いでから<ruby>家<rt>いえ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>習慣<rt>しゅうかん</rt></ruby>がある。",
+    "sentence_en": "In Japan, there is a custom of taking off your shoes before entering a house.",
+    "word_kanji": "習慣",
+    "word_furigana": "しゅうかん",
+    "word_en": "habit; custom",
+    "extra_kanji": [
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "靴", "furigana": "くつ", "en": "shoes" },
+      { "kanji": "脱ぐ", "furigana": "ぬぐ", "en": "to take off" },
+      { "kanji": "家", "furigana": "いえ", "en": "house" },
+      { "kanji": "入る", "furigana": "はいる", "en": "to enter" }
+    ]
+  },
+  {
+    "id": "7",
+    "sentence": "新幹線は東京から大阪まで約二時間半で届く。",
+    "sentence_furigana": "<ruby>新幹線<rt>しんかんせん</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>大阪<rt>おおさか</rt></ruby>まで<ruby>約<rt>やく</rt></ruby><ruby>二<rt>に</rt></ruby><ruby>時間半<rt>じかんはん</rt></ruby>で<ruby>届<rt>とど</rt></ruby>く。",
+    "sentence_en": "The bullet train reaches Osaka from Tokyo in about two and a half hours.",
+    "word_kanji": "届く",
+    "word_furigana": "とどく",
+    "word_en": "to reach; to arrive",
+    "extra_kanji": [
+      { "kanji": "新幹線", "furigana": "しんかんせん", "en": "bullet train" },
+      { "kanji": "東京", "furigana": "とうきょう", "en": "Tokyo" },
+      { "kanji": "大阪", "furigana": "おおさか", "en": "Osaka" },
+      { "kanji": "約", "furigana": "やく", "en": "approximately" },
+      { "kanji": "時間半", "furigana": "じかんはん", "en": "hour and a half" }
+    ]
+  },
+  {
+    "id": "8",
+    "sentence": "味噌汁は日本の朝ごはんに欠かせない。",
+    "sentence_furigana": "<ruby>味噌汁<rt>みそしる</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>ごはんに<ruby>欠<rt>か</rt></ruby>かせない。",
+    "sentence_en": "Miso soup is essential for a Japanese breakfast.",
+    "word_kanji": "欠かせない",
+    "word_furigana": "かかせない",
+    "word_en": "indispensable; essential",
+    "extra_kanji": [
+      { "kanji": "味噌汁", "furigana": "みそしる", "en": "miso soup" },
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "朝", "furigana": "あさ", "en": "morning" }
+    ]
+  },
+  {
+    "id": "9",
+    "sentence": "富士山に登る経験は一生忘れられない。",
+    "sentence_furigana": "<ruby>富士山<rt>ふじさん</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>る<ruby>経験<rt>けいけん</rt></ruby>は<ruby>一生<rt>いっしょう</rt></ruby><ruby>忘<rt>わす</rt></ruby>れられない。",
+    "sentence_en": "The experience of climbing Mount Fuji is unforgettable for a lifetime.",
+    "word_kanji": "経験",
+    "word_furigana": "けいけん",
+    "word_en": "experience",
+    "extra_kanji": [
+      { "kanji": "富士山", "furigana": "ふじさん", "en": "Mount Fuji" },
+      { "kanji": "登る", "furigana": "のぼる", "en": "to climb" },
+      { "kanji": "一生", "furigana": "いっしょう", "en": "lifetime" },
+      { "kanji": "忘れる", "furigana": "わすれる", "en": "to forget" }
+    ]
+  },
+  {
+    "id": "10",
+    "sentence": "日本の電車は時刻通りに到着することで有名だ。",
+    "sentence_furigana": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>は<ruby>時刻<rt>じこく</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>到着<rt>とうちゃく</rt></ruby>することで<ruby>有名<rt>ゆうめい</rt></ruby>だ。",
+    "sentence_en": "Japanese trains are famous for arriving on time.",
+    "word_kanji": "到着",
+    "word_furigana": "とうちゃく",
+    "word_en": "arrival",
+    "extra_kanji": [
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "電車", "furigana": "でんしゃ", "en": "train" },
+      { "kanji": "時刻", "furigana": "じこく", "en": "time; hour" },
+      { "kanji": "通り", "furigana": "どおり", "en": "as; according to" },
+      { "kanji": "有名", "furigana": "ゆうめい", "en": "famous" }
+    ]
+  },
+  {
+    "id": "11",
+    "sentence": "祖母は毎年お正月におせち料理を準備する。",
+    "sentence_furigana": "<ruby>祖母<rt>そぼ</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>お<ruby>正月<rt>しょうがつ</rt></ruby>におせち<ruby>料理<rt>りょうり</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>する。",
+    "sentence_en": "My grandmother prepares osechi cuisine every New Year.",
+    "word_kanji": "準備",
+    "word_furigana": "じゅんび",
+    "word_en": "preparation",
+    "extra_kanji": [
+      { "kanji": "祖母", "furigana": "そぼ", "en": "grandmother" },
+      { "kanji": "毎年", "furigana": "まいとし", "en": "every year" },
+      { "kanji": "正月", "furigana": "しょうがつ", "en": "New Year" },
+      { "kanji": "料理", "furigana": "りょうり", "en": "cooking; cuisine" }
+    ]
+  },
+  {
+    "id": "12",
+    "sentence": "この神社は安全を祈るために多くの人が訪れる。",
+    "sentence_furigana": "この<ruby>神社<rt>じんじゃ</rt></ruby>は<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>祈<rt>いの</rt></ruby>るために<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れる。",
+    "sentence_en": "Many people visit this shrine to pray for safety.",
+    "word_kanji": "安全",
+    "word_furigana": "あんぜん",
+    "word_en": "safety; security",
+    "extra_kanji": [
+      { "kanji": "神社", "furigana": "じんじゃ", "en": "shrine" },
+      { "kanji": "祈る", "furigana": "いのる", "en": "to pray" },
+      { "kanji": "多く", "furigana": "おおく", "en": "many" },
+      { "kanji": "人", "furigana": "ひと", "en": "person" },
+      { "kanji": "訪れる", "furigana": "おとずれる", "en": "to visit" }
+    ]
+  },
+  {
+    "id": "13",
+    "sentence": "抹茶アイスは外国人にも人気がある。",
+    "sentence_furigana": "<ruby>抹茶<rt>まっちゃ</rt></ruby>アイスは<ruby>外国人<rt>がいこくじん</rt></ruby>にも<ruby>人気<rt>にんき</rt></ruby>がある。",
+    "sentence_en": "Matcha ice cream is popular even among foreigners.",
+    "word_kanji": "人気",
+    "word_furigana": "にんき",
+    "word_en": "popularity; popular",
+    "extra_kanji": [
+      { "kanji": "抹茶", "furigana": "まっちゃ", "en": "matcha; green tea" },
+      { "kanji": "外国人", "furigana": "がいこくじん", "en": "foreigner" }
+    ]
+  },
+  {
+    "id": "14",
+    "sentence": "日本語の敬語は場面によって使い分ける。",
+    "sentence_furigana": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>敬語<rt>けいご</rt></ruby>は<ruby>場面<rt>ばめん</rt></ruby>によって<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>ける。",
+    "sentence_en": "Japanese honorific language is used differently depending on the situation.",
+    "word_kanji": "場面",
+    "word_furigana": "ばめん",
+    "word_en": "scene; situation",
+    "extra_kanji": [
+      { "kanji": "日本語", "furigana": "にほんご", "en": "Japanese language" },
+      { "kanji": "敬語", "furigana": "けいご", "en": "honorific language" },
+      { "kanji": "使い分ける", "furigana": "つかいわける", "en": "to use differently" }
+    ]
+  },
+  {
+    "id": "15",
+    "sentence": "地震が起きたとき、まず安全な場所に避難する。",
+    "sentence_furigana": "<ruby>地震<rt>じしん</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたとき、まず<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>避難<rt>ひなん</rt></ruby>する。",
+    "sentence_en": "When an earthquake happens, first evacuate to a safe place.",
+    "word_kanji": "避難",
+    "word_furigana": "ひなん",
+    "word_en": "evacuation; refuge",
+    "extra_kanji": [
+      { "kanji": "地震", "furigana": "じしん", "en": "earthquake" },
+      { "kanji": "起きる", "furigana": "おきる", "en": "to occur; to happen" },
+      { "kanji": "安全", "furigana": "あんぜん", "en": "safe; safety" },
+      { "kanji": "場所", "furigana": "ばしょ", "en": "place; location" }
+    ]
+  },
+  {
+    "id": "16",
+    "sentence": "ラーメン屋で注文してから五分で届いた。",
+    "sentence_furigana": "ラーメン<ruby>屋<rt>や</rt></ruby>で<ruby>注文<rt>ちゅうもん</rt></ruby>してから<ruby>五<rt>ご</rt></ruby><ruby>分<rt>ふん</rt></ruby>で<ruby>届<rt>とど</rt></ruby>いた。",
+    "sentence_en": "At the ramen shop, it arrived five minutes after ordering.",
+    "word_kanji": "注文",
+    "word_furigana": "ちゅうもん",
+    "word_en": "order (for food, goods)",
+    "extra_kanji": [
+      { "kanji": "屋", "furigana": "や", "en": "shop; store" },
+      { "kanji": "五分", "furigana": "ごふん", "en": "five minutes" },
+      { "kanji": "届く", "furigana": "とどく", "en": "to arrive" }
+    ]
+  },
+  {
+    "id": "17",
+    "sentence": "浴衣を着て夏祭りに参加するのは楽しい。",
+    "sentence_furigana": "<ruby>浴衣<rt>ゆかた</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>夏祭<rt>なつまつ</rt></ruby>りに<ruby>参加<rt>さんか</rt></ruby>するのは<ruby>楽<rt>たの</rt></ruby>しい。",
+    "sentence_en": "It's fun to participate in the summer festival wearing a yukata.",
+    "word_kanji": "参加",
+    "word_furigana": "さんか",
+    "word_en": "participation",
+    "extra_kanji": [
+      { "kanji": "浴衣", "furigana": "ゆかた", "en": "yukata; light kimono" },
+      { "kanji": "着る", "furigana": "きる", "en": "to wear" },
+      { "kanji": "夏祭り", "furigana": "なつまつり", "en": "summer festival" },
+      { "kanji": "楽しい", "furigana": "たのしい", "en": "fun; enjoyable" }
+    ]
+  },
+  {
+    "id": "18",
+    "sentence": "この地域では米作りが盛んだ。",
+    "sentence_furigana": "この<ruby>地域<rt>ちいき</rt></ruby>では<ruby>米<rt>こめ</rt></ruby><ruby>作<rt>づく</rt></ruby>りが<ruby>盛<rt>さか</rt></ruby>んだ。",
+    "sentence_en": "Rice farming is thriving in this region.",
+    "word_kanji": "地域",
+    "word_furigana": "ちいき",
+    "word_en": "area; region",
+    "extra_kanji": [
+      { "kanji": "米", "furigana": "こめ", "en": "rice" },
+      { "kanji": "作り", "furigana": "づくり", "en": "making; production" },
+      { "kanji": "盛ん", "furigana": "さかん", "en": "thriving; prosperous" }
+    ]
+  },
+  {
+    "id": "19",
+    "sentence": "日本の伝統的な家には畳の部屋がある。",
+    "sentence_furigana": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>伝統的<rt>でんとうてき</rt></ruby>な<ruby>家<rt>いえ</rt></ruby>には<ruby>畳<rt>たたみ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>がある。",
+    "sentence_en": "Traditional Japanese houses have tatami rooms.",
+    "word_kanji": "伝統的",
+    "word_furigana": "でんとうてき",
+    "word_en": "traditional",
+    "extra_kanji": [
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "家", "furigana": "いえ", "en": "house" },
+      { "kanji": "畳", "furigana": "たたみ", "en": "tatami mat" },
+      { "kanji": "部屋", "furigana": "へや", "en": "room" }
+    ]
+  },
+  {
+    "id": "20",
+    "sentence": "彼は留学中に日本文化に興味を持った。",
+    "sentence_furigana": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>留学中<rt>りゅうがくちゅう</rt></ruby>に<ruby>日本<rt>にほん</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>った。",
+    "sentence_en": "He became interested in Japanese culture while studying abroad.",
+    "word_kanji": "興味",
+    "word_furigana": "きょうみ",
+    "word_en": "interest",
+    "extra_kanji": [
+      { "kanji": "彼", "furigana": "かれ", "en": "he; him" },
+      { "kanji": "留学中", "furigana": "りゅうがくちゅう", "en": "while studying abroad" },
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "文化", "furigana": "ぶんか", "en": "culture" },
+      { "kanji": "持つ", "furigana": "もつ", "en": "to hold; to have" }
+    ]
+  },
+  {
+    "id": "21",
+    "sentence": "駅の案内板は外国語でも表示されている。",
+    "sentence_furigana": "<ruby>駅<rt>えき</rt></ruby>の<ruby>案内板<rt>あんないばん</rt></ruby>は<ruby>外国語<rt>がいこくご</rt></ruby>でも<ruby>表示<rt>ひょうじ</rt></ruby>されている。",
+    "sentence_en": "The station information boards are displayed in foreign languages too.",
+    "word_kanji": "表示",
+    "word_furigana": "ひょうじ",
+    "word_en": "display; indication",
+    "extra_kanji": [
+      { "kanji": "駅", "furigana": "えき", "en": "station" },
+      { "kanji": "案内板", "furigana": "あんないばん", "en": "information board" },
+      { "kanji": "外国語", "furigana": "がいこくご", "en": "foreign language" }
+    ]
+  },
+  {
+    "id": "22",
+    "sentence": "お花見のとき、友達と弁当を持って集まる。",
+    "sentence_furigana": "お<ruby>花見<rt>はなみ</rt></ruby>のとき、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>集<rt>あつ</rt></ruby>まる。",
+    "sentence_en": "During hanami, we gather with friends bringing bento boxes.",
+    "word_kanji": "集まる",
+    "word_furigana": "あつまる",
+    "word_en": "to gather; to assemble",
+    "extra_kanji": [
+      { "kanji": "花見", "furigana": "はなみ", "en": "flower viewing" },
+      { "kanji": "友達", "furigana": "ともだち", "en": "friend" },
+      { "kanji": "弁当", "furigana": "べんとう", "en": "bento; packed lunch" },
+      { "kanji": "持つ", "furigana": "もつ", "en": "to hold; to carry" }
+    ]
+  },
+  {
+    "id": "23",
+    "sentence": "納豆は健康に良いと言われている。",
+    "sentence_furigana": "<ruby>納豆<rt>なっとう</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>に<ruby>良<rt>よ</rt></ruby>いと<ruby>言<rt>い</rt></ruby>われている。",
+    "sentence_en": "Natto is said to be good for your health.",
+    "word_kanji": "健康",
+    "word_furigana": "けんこう",
+    "word_en": "health; healthy",
+    "extra_kanji": [
+      { "kanji": "納豆", "furigana": "なっとう", "en": "natto; fermented soybeans" },
+      { "kanji": "良い", "furigana": "よい", "en": "good" },
+      { "kanji": "言う", "furigana": "いう", "en": "to say" }
+    ]
+  },
+  {
+    "id": "24",
+    "sentence": "東京タワーの周辺には美しい景色が広がる。",
+    "sentence_furigana": "<ruby>東京<rt>とうきょう</rt></ruby>タワーの<ruby>周辺<rt>しゅうへん</rt></ruby>には<ruby>美<rt>うつく</rt></ruby>しい<ruby>景色<rt>けしき</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がる。",
+    "sentence_en": "Beautiful scenery spreads around Tokyo Tower.",
+    "word_kanji": "景色",
+    "word_furigana": "けしき",
+    "word_en": "scenery; landscape",
+    "extra_kanji": [
+      { "kanji": "東京", "furigana": "とうきょう", "en": "Tokyo" },
+      { "kanji": "周辺", "furigana": "しゅうへん", "en": "surroundings; vicinity" },
+      { "kanji": "美しい", "furigana": "うつくしい", "en": "beautiful" },
+      { "kanji": "広がる", "furigana": "ひろがる", "en": "to spread; to extend" }
+    ]
+  },
+  {
+    "id": "25",
+    "sentence": "七夕には願い事を短冊に書く。",
+    "sentence_furigana": "<ruby>七夕<rt>たなばた</rt></ruby>には<ruby>願<rt>ねが</rt></ruby>い<ruby>事<rt>ごと</rt></ruby>を<ruby>短冊<rt>たんざく</rt></ruby>に<ruby>書<rt>か</rt></ruby>く。",
+    "sentence_en": "On Tanabata, you write your wishes on paper strips.",
+    "word_kanji": "願い事",
+    "word_furigana": "ねがいごと",
+    "word_en": "wish; desire",
+    "extra_kanji": [
+      { "kanji": "七夕", "furigana": "たなばた", "en": "Tanabata; Star Festival" },
+      { "kanji": "短冊", "furigana": "たんざく", "en": "paper strip" },
+      { "kanji": "書く", "furigana": "かく", "en": "to write" }
+    ]
+  },
+  {
+    "id": "26",
+    "sentence": "日本のコンビニは品揃えが豊富で便利だ。",
+    "sentence_furigana": "<ruby>日本<rt>にほん</rt></ruby>のコンビニは<ruby>品揃<rt>しなぞろ</rt></ruby>えが<ruby>豊富<rt>ほうふ</rt></ruby>で<ruby>便利<rt>べんり</rt></ruby>だ。",
+    "sentence_en": "Japanese convenience stores have a rich selection and are very convenient.",
+    "word_kanji": "豊富",
+    "word_furigana": "ほうふ",
+    "word_en": "abundant; rich",
+    "extra_kanji": [
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "品揃え", "furigana": "しなぞろえ", "en": "selection; assortment" },
+      { "kanji": "便利", "furigana": "べんり", "en": "convenient" }
+    ]
+  },
+  {
+    "id": "27",
+    "sentence": "茶道を通じて礼儀を学ぶことができる。",
+    "sentence_furigana": "<ruby>茶道<rt>さどう</rt></ruby>を<ruby>通<rt>つう</rt></ruby>じて<ruby>礼儀<rt>れいぎ</rt></ruby>を<ruby>学<rt>まな</rt></ruby>ぶことができる。",
+    "sentence_en": "You can learn etiquette through the tea ceremony.",
+    "word_kanji": "礼儀",
+    "word_furigana": "れいぎ",
+    "word_en": "manners; etiquette",
+    "extra_kanji": [
+      { "kanji": "茶道", "furigana": "さどう", "en": "tea ceremony" },
+      { "kanji": "通じる", "furigana": "つうじる", "en": "through; via" },
+      { "kanji": "学ぶ", "furigana": "まなぶ", "en": "to learn" }
+    ]
+  },
+  {
+    "id": "28",
+    "sentence": "台風の影響で電車が遅れている。",
+    "sentence_furigana": "<ruby>台風<rt>たいふう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れている。",
+    "sentence_en": "The trains are delayed due to the typhoon's influence.",
+    "word_kanji": "影響",
+    "word_furigana": "えいきょう",
+    "word_en": "influence; effect",
+    "extra_kanji": [
+      { "kanji": "台風", "furigana": "たいふう", "en": "typhoon" },
+      { "kanji": "電車", "furigana": "でんしゃ", "en": "train" },
+      { "kanji": "遅れる", "furigana": "おくれる", "en": "to be delayed" }
+    ]
+  },
+  {
+    "id": "29",
+    "sentence": "旅館に泊まると和食の朝ごはんが出る。",
+    "sentence_furigana": "<ruby>旅館<rt>りょかん</rt></ruby>に<ruby>泊<rt>と</rt></ruby>まると<ruby>和食<rt>わしょく</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>ごはんが<ruby>出<rt>で</rt></ruby>る。",
+    "sentence_en": "When you stay at a ryokan, you get a Japanese-style breakfast.",
+    "word_kanji": "和食",
+    "word_furigana": "わしょく",
+    "word_en": "Japanese food; Japanese cuisine",
+    "extra_kanji": [
+      { "kanji": "旅館", "furigana": "りょかん", "en": "Japanese-style inn" },
+      { "kanji": "泊まる", "furigana": "とまる", "en": "to stay (overnight)" },
+      { "kanji": "朝", "furigana": "あさ", "en": "morning" },
+      { "kanji": "出る", "furigana": "でる", "en": "to come out; to appear" }
+    ]
+  },
+  {
+    "id": "30",
+    "sentence": "この問題を解決するために会議を開いた。",
+    "sentence_furigana": "この<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>するために<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いた。",
+    "sentence_en": "We held a meeting to solve this problem.",
+    "word_kanji": "解決",
+    "word_furigana": "かいけつ",
+    "word_en": "solution; resolution",
+    "extra_kanji": [
+      { "kanji": "問題", "furigana": "もんだい", "en": "problem; question" },
+      { "kanji": "会議", "furigana": "かいぎ", "en": "meeting; conference" },
+      { "kanji": "開く", "furigana": "ひらく", "en": "to open; to hold" }
+    ]
+  }
+]
