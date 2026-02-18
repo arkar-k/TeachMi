@@ -1,4 +1,4 @@
-import { useState } from "react"
+import { useState, useRef, useCallback } from "react"
 import { motion } from "framer-motion"
 import type { Card } from "../types"
 
@@ -9,6 +9,7 @@ interface FlashcardProps {
 
 export function Flashcard({ card, onFlip }: FlashcardProps) {
   const [isFlipped, setIsFlipped] = useState(false)
+  const backRef = useRef<HTMLDivElement>(null)
 
   const handleFlip = () => {
     if (!isFlipped) {
@@ -16,6 +17,12 @@ export function Flashcard({ card, onFlip }: FlashcardProps) {
       onFlip?.()
     }
   }
+
+  const handleAnimationComplete = useCallback(() => {
+    if (isFlipped && backRef.current) {
+      backRef.current.scrollTop = 0
+    }
+  }, [isFlipped])
 
   return (
     <div
@@ -28,6 +35,7 @@ export function Flashcard({ card, onFlip }: FlashcardProps) {
         style={{ transformStyle: "preserve-3d" }}
         animate={{ rotateY: isFlipped ? 180 : 0 }}
         transition={{ duration: 0.45, ease: "easeInOut" }}
+        onAnimationComplete={handleAnimationComplete}
       >
         {/* Front */}
         <div
@@ -41,7 +49,8 @@ export function Flashcard({ card, onFlip }: FlashcardProps) {
 
         {/* Back */}
         <div
-          className="bg-white rounded-3xl shadow-lg px-6 pb-6 pt-8 min-h-[280px] absolute inset-0 flex flex-col justify-center gap-4 overflow-y-auto"
+          ref={backRef}
+          className="bg-white rounded-3xl shadow-lg px-6 py-10 min-h-[280px] absolute inset-0 flex flex-col justify-start gap-4 overflow-y-auto"
           style={{
             backfaceVisibility: "hidden",
             transform: "rotateY(180deg)",
