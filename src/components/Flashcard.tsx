@@ -41,7 +41,7 @@ export function Flashcard({ card, onFlip }: FlashcardProps) {
 
         {/* Back */}
         <div
-          className="bg-white rounded-3xl shadow-lg p-6 min-h-[280px] absolute inset-0 flex flex-col justify-center gap-4 overflow-y-auto"
+          className="bg-white rounded-3xl shadow-lg px-6 pb-6 pt-8 min-h-[280px] absolute inset-0 flex flex-col justify-center gap-4 overflow-y-auto"
           style={{
             backfaceVisibility: "hidden",
             transform: "rotateY(180deg)",
