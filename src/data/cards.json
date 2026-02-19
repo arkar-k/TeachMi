@@ -439,5 +439,983 @@
       { "kanji": "会議", "furigana": "かいぎ", "en": "meeting; conference" },
       { "kanji": "開く", "furigana": "ひらく", "en": "to open; to hold" }
     ]
+  },
+  {
+    "id": "31",
+    "sentence": "日本の四季の変化はとても美しい。",
+    "sentence_furigana": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>四季<rt>しき</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>はとても<ruby>美<rt>うつく</rt></ruby>しい。",
+    "sentence_en": "The changes of Japan's four seasons are very beautiful.",
+    "word_kanji": "変化",
+    "word_furigana": "へんか",
+    "word_en": "change; transformation",
+    "extra_kanji": [
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "四季", "furigana": "しき", "en": "four seasons" },
+      { "kanji": "美しい", "furigana": "うつくしい", "en": "beautiful" }
+    ]
+  },
+  {
+    "id": "32",
+    "sentence": "最近、日本語を勉強する外国人が増えている。",
+    "sentence_furigana": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>する<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている。",
+    "sentence_en": "Recently, the number of foreigners studying Japanese has been increasing.",
+    "word_kanji": "増える",
+    "word_furigana": "ふえる",
+    "word_en": "to increase; to grow",
+    "extra_kanji": [
+      { "kanji": "最近", "furigana": "さいきん", "en": "recently" },
+      { "kanji": "日本語", "furigana": "にほんご", "en": "Japanese language" },
+      { "kanji": "勉強", "furigana": "べんきょう", "en": "study" },
+      { "kanji": "外国人", "furigana": "がいこくじん", "en": "foreigner" }
+    ]
+  },
+  {
+    "id": "33",
+    "sentence": "沖縄は一年中暖かい気候だ。",
+    "sentence_furigana": "<ruby>沖縄<rt>おきなわ</rt></ruby>は<ruby>一年中<rt>いちねんじゅう</rt></ruby><ruby>暖<rt>あたた</rt></ruby>かい<ruby>気候<rt>きこう</rt></ruby>だ。",
+    "sentence_en": "Okinawa has a warm climate throughout the year.",
+    "word_kanji": "気候",
+    "word_furigana": "きこう",
+    "word_en": "climate; weather",
+    "extra_kanji": [
+      { "kanji": "沖縄", "furigana": "おきなわ", "en": "Okinawa" },
+      { "kanji": "一年中", "furigana": "いちねんじゅう", "en": "throughout the year" },
+      { "kanji": "暖かい", "furigana": "あたたかい", "en": "warm" }
+    ]
+  },
+  {
+    "id": "34",
+    "sentence": "バスカードを利用すると乗り換えが便利だ。",
+    "sentence_furigana": "バスカードを<ruby>利用<rt>りよう</rt></ruby>すると<ruby>乗<rt>の</rt></ruby>り<ruby>換<rt>か</rt></ruby>えが<ruby>便利<rt>べんり</rt></ruby>だ。",
+    "sentence_en": "Using a bus card makes transfers convenient.",
+    "word_kanji": "利用",
+    "word_furigana": "りよう",
+    "word_en": "use; utilization",
+    "extra_kanji": [
+      { "kanji": "乗り換え", "furigana": "のりかえ", "en": "transfer; connection" },
+      { "kanji": "便利", "furigana": "べんり", "en": "convenient" }
+    ]
+  },
+  {
+    "id": "35",
+    "sentence": "来年の旅行の計画を立てている。",
+    "sentence_furigana": "<ruby>来年<rt>らいねん</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てている。",
+    "sentence_en": "I am making plans for next year's trip.",
+    "word_kanji": "計画",
+    "word_furigana": "けいかく",
+    "word_en": "plan; project",
+    "extra_kanji": [
+      { "kanji": "来年", "furigana": "らいねん", "en": "next year" },
+      { "kanji": "旅行", "furigana": "りょこう", "en": "travel; trip" },
+      { "kanji": "立てる", "furigana": "たてる", "en": "to make; to establish" }
+    ]
+  },
+  {
+    "id": "36",
+    "sentence": "日本とアメリカの関係は長い歴史がある。",
+    "sentence_furigana": "<ruby>日本<rt>にほん</rt></ruby>とアメリカの<ruby>関係<rt>かんけい</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い<ruby>歴史<rt>れきし</rt></ruby>がある。",
+    "sentence_en": "The relationship between Japan and America has a long history.",
+    "word_kanji": "関係",
+    "word_furigana": "かんけい",
+    "word_en": "relation; connection",
+    "extra_kanji": [
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "長い", "furigana": "ながい", "en": "long" },
+      { "kanji": "歴史", "furigana": "れきし", "en": "history" }
+    ]
+  },
+  {
+    "id": "37",
+    "sentence": "卒業の記念に友達と写真を撮った。",
+    "sentence_furigana": "<ruby>卒業<rt>そつぎょう</rt></ruby>の<ruby>記念<rt>きねん</rt></ruby>に<ruby>友達<rt>ともだち</rt></ruby>と<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>った。",
+    "sentence_en": "I took a photo with friends to commemorate graduation.",
+    "word_kanji": "記念",
+    "word_furigana": "きねん",
+    "word_en": "commemoration; memory",
+    "extra_kanji": [
+      { "kanji": "卒業", "furigana": "そつぎょう", "en": "graduation" },
+      { "kanji": "友達", "furigana": "ともだち", "en": "friend" },
+      { "kanji": "写真", "furigana": "しゃしん", "en": "photograph" },
+      { "kanji": "撮る", "furigana": "とる", "en": "to take (a photo)" }
+    ]
+  },
+  {
+    "id": "38",
+    "sentence": "店員の笑顔でお店の印象が良くなる。",
+    "sentence_furigana": "<ruby>店員<rt>てんいん</rt></ruby>の<ruby>笑顔<rt>えがお</rt></ruby>でお<ruby>店<rt>みせ</rt></ruby>の<ruby>印象<rt>いんしょう</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くなる。",
+    "sentence_en": "The shop's impression improves with the staff's smiling faces.",
+    "word_kanji": "笑顔",
+    "word_furigana": "えがお",
+    "word_en": "smiling face; smile",
+    "extra_kanji": [
+      { "kanji": "店員", "furigana": "てんいん", "en": "shop staff; clerk" },
+      { "kanji": "店", "furigana": "みせ", "en": "shop; store" },
+      { "kanji": "印象", "furigana": "いんしょう", "en": "impression" },
+      { "kanji": "良い", "furigana": "よい", "en": "good" }
+    ]
+  },
+  {
+    "id": "39",
+    "sentence": "道に迷ったとき、親切な人が案内してくれた。",
+    "sentence_furigana": "<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>ったとき、<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>が<ruby>案内<rt>あんない</rt></ruby>してくれた。",
+    "sentence_en": "When I got lost, a kind person guided me.",
+    "word_kanji": "親切",
+    "word_furigana": "しんせつ",
+    "word_en": "kind; kindness",
+    "extra_kanji": [
+      { "kanji": "道", "furigana": "みち", "en": "road; way" },
+      { "kanji": "迷う", "furigana": "まよう", "en": "to get lost; to be confused" },
+      { "kanji": "人", "furigana": "ひと", "en": "person" },
+      { "kanji": "案内", "furigana": "あんない", "en": "guidance; directions" }
+    ]
+  },
+  {
+    "id": "40",
+    "sentence": "会議で自分の意見をはっきり言うことが大切だ。",
+    "sentence_furigana": "<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>をはっきり<ruby>言<rt>い</rt></ruby>うことが<ruby>大切<rt>たいせつ</rt></ruby>だ。",
+    "sentence_en": "It's important to clearly state your own opinion in meetings.",
+    "word_kanji": "意見",
+    "word_furigana": "いけん",
+    "word_en": "opinion; view",
+    "extra_kanji": [
+      { "kanji": "会議", "furigana": "かいぎ", "en": "meeting; conference" },
+      { "kanji": "自分", "furigana": "じぶん", "en": "oneself" },
+      { "kanji": "言う", "furigana": "いう", "en": "to say" },
+      { "kanji": "大切", "furigana": "たいせつ", "en": "important; precious" }
+    ]
+  },
+  {
+    "id": "41",
+    "sentence": "日本のお土産を何にするか、いつも選ぶのが難しい。",
+    "sentence_furigana": "<ruby>日本<rt>にほん</rt></ruby>のお<ruby>土産<rt>みやげ</rt></ruby>を<ruby>何<rt>なに</rt></ruby>にするか、いつも<ruby>選<rt>えら</rt></ruby>ぶのが<ruby>難<rt>むずか</rt></ruby>しい。",
+    "sentence_en": "It's always hard to choose what to get as a Japanese souvenir.",
+    "word_kanji": "選ぶ",
+    "word_furigana": "えらぶ",
+    "word_en": "to choose; to select",
+    "extra_kanji": [
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "土産", "furigana": "みやげ", "en": "souvenir; gift" },
+      { "kanji": "何", "furigana": "なに", "en": "what" },
+      { "kanji": "難しい", "furigana": "むずかしい", "en": "difficult" }
+    ]
+  },
+  {
+    "id": "42",
+    "sentence": "毎日練習を続けることで上達できる。",
+    "sentence_furigana": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることで<ruby>上達<rt>じょうたつ</rt></ruby>できる。",
+    "sentence_en": "By continuing to practice every day, you can improve.",
+    "word_kanji": "続ける",
+    "word_furigana": "つづける",
+    "word_en": "to continue; to keep up",
+    "extra_kanji": [
+      { "kanji": "毎日", "furigana": "まいにち", "en": "every day" },
+      { "kanji": "練習", "furigana": "れんしゅう", "en": "practice" },
+      { "kanji": "上達", "furigana": "じょうたつ", "en": "improvement; progress" }
+    ]
+  },
+  {
+    "id": "43",
+    "sentence": "先生はひらがなの書き方を丁寧に説明してくれた。",
+    "sentence_furigana": "<ruby>先生<rt>せんせい</rt></ruby>はひらがなの<ruby>書<rt>か</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>してくれた。",
+    "sentence_en": "The teacher carefully explained how to write hiragana.",
+    "word_kanji": "説明",
+    "word_furigana": "せつめい",
+    "word_en": "explanation",
+    "extra_kanji": [
+      { "kanji": "先生", "furigana": "せんせい", "en": "teacher" },
+      { "kanji": "書き方", "furigana": "かきかた", "en": "way of writing" },
+      { "kanji": "丁寧", "furigana": "ていねい", "en": "polite; careful" }
+    ]
+  },
+  {
+    "id": "44",
+    "sentence": "遅刻した理由を正直に話した。",
+    "sentence_furigana": "<ruby>遅刻<rt>ちこく</rt></ruby>した<ruby>理由<rt>りゆう</rt></ruby>を<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>話<rt>はな</rt></ruby>した。",
+    "sentence_en": "I honestly explained the reason for being late.",
+    "word_kanji": "理由",
+    "word_furigana": "りゆう",
+    "word_en": "reason; cause",
+    "extra_kanji": [
+      { "kanji": "遅刻", "furigana": "ちこく", "en": "being late; tardiness" },
+      { "kanji": "正直", "furigana": "しょうじき", "en": "honest; frankly" },
+      { "kanji": "話す", "furigana": "はなす", "en": "to speak; to tell" }
+    ]
+  },
+  {
+    "id": "45",
+    "sentence": "日本語を話す機会を増やしたい。",
+    "sentence_furigana": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>す<ruby>機会<rt>きかい</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やしたい。",
+    "sentence_en": "I want to increase opportunities to speak Japanese.",
+    "word_kanji": "機会",
+    "word_furigana": "きかい",
+    "word_en": "opportunity; chance",
+    "extra_kanji": [
+      { "kanji": "日本語", "furigana": "にほんご", "en": "Japanese language" },
+      { "kanji": "話す", "furigana": "はなす", "en": "to speak" },
+      { "kanji": "増やす", "furigana": "ふやす", "en": "to increase" }
+    ]
+  },
+  {
+    "id": "46",
+    "sentence": "努力すれば夢は必ず叶う。",
+    "sentence_furigana": "<ruby>努力<rt>どりょく</rt></ruby>すれば<ruby>夢<rt>ゆめ</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<ruby>叶<rt>かな</rt></ruby>う。",
+    "sentence_en": "If you make an effort, your dreams will surely come true.",
+    "word_kanji": "努力",
+    "word_furigana": "どりょく",
+    "word_en": "effort; endeavor",
+    "extra_kanji": [
+      { "kanji": "夢", "furigana": "ゆめ", "en": "dream" },
+      { "kanji": "必ず", "furigana": "かならず", "en": "surely; certainly" },
+      { "kanji": "叶う", "furigana": "かなう", "en": "to come true" }
+    ]
+  },
+  {
+    "id": "47",
+    "sentence": "料理で失敗しても、また挑戦することが大事だ。",
+    "sentence_furigana": "<ruby>料理<rt>りょうり</rt></ruby>で<ruby>失敗<rt>しっぱい</rt></ruby>しても、また<ruby>挑戦<rt>ちょうせん</rt></ruby>することが<ruby>大事<rt>だいじ</rt></ruby>だ。",
+    "sentence_en": "Even if you fail at cooking, it's important to try again.",
+    "word_kanji": "失敗",
+    "word_furigana": "しっぱい",
+    "word_en": "failure; mistake",
+    "extra_kanji": [
+      { "kanji": "料理", "furigana": "りょうり", "en": "cooking; cuisine" },
+      { "kanji": "挑戦", "furigana": "ちょうせん", "en": "challenge; attempt" },
+      { "kanji": "大事", "furigana": "だいじ", "en": "important" }
+    ]
+  },
+  {
+    "id": "48",
+    "sentence": "チームの努力のおかげで試合に成功した。",
+    "sentence_furigana": "チームの<ruby>努力<rt>どりょく</rt></ruby>のおかげで<ruby>試合<rt>しあい</rt></ruby>に<ruby>成功<rt>せいこう</rt></ruby>した。",
+    "sentence_en": "Thanks to the team's efforts, we succeeded in the match.",
+    "word_kanji": "成功",
+    "word_furigana": "せいこう",
+    "word_en": "success",
+    "extra_kanji": [
+      { "kanji": "努力", "furigana": "どりょく", "en": "effort; endeavor" },
+      { "kanji": "試合", "furigana": "しあい", "en": "match; game" }
+    ]
+  },
+  {
+    "id": "49",
+    "sentence": "台風が来るので、家族のことが心配だった。",
+    "sentence_furigana": "<ruby>台風<rt>たいふう</rt></ruby>が<ruby>来<rt>く</rt></ruby>るので、<ruby>家族<rt>かぞく</rt></ruby>のことが<ruby>心配<rt>しんぱい</rt></ruby>だった。",
+    "sentence_en": "Since the typhoon was coming, I was worried about my family.",
+    "word_kanji": "心配",
+    "word_furigana": "しんぱい",
+    "word_en": "worry; concern",
+    "extra_kanji": [
+      { "kanji": "台風", "furigana": "たいふう", "en": "typhoon" },
+      { "kanji": "来る", "furigana": "くる", "en": "to come" },
+      { "kanji": "家族", "furigana": "かぞく", "en": "family" }
+    ]
+  },
+  {
+    "id": "50",
+    "sentence": "友達の声を聞いて安心した。",
+    "sentence_furigana": "<ruby>友達<rt>ともだち</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて<ruby>安心<rt>あんしん</rt></ruby>した。",
+    "sentence_en": "I felt relieved when I heard my friend's voice.",
+    "word_kanji": "安心",
+    "word_furigana": "あんしん",
+    "word_en": "relief; peace of mind",
+    "extra_kanji": [
+      { "kanji": "友達", "furigana": "ともだち", "en": "friend" },
+      { "kanji": "声", "furigana": "こえ", "en": "voice" },
+      { "kanji": "聞く", "furigana": "きく", "en": "to hear; to listen" }
+    ]
+  },
+  {
+    "id": "51",
+    "sentence": "お世話になった先生に感謝の手紙を書いた。",
+    "sentence_furigana": "お<ruby>世話<rt>せわ</rt></ruby>になった<ruby>先生<rt>せんせい</rt></ruby>に<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いた。",
+    "sentence_en": "I wrote a letter of gratitude to the teacher who took care of me.",
+    "word_kanji": "感謝",
+    "word_furigana": "かんしゃ",
+    "word_en": "gratitude; thanks",
+    "extra_kanji": [
+      { "kanji": "世話", "furigana": "せわ", "en": "care; looking after" },
+      { "kanji": "先生", "furigana": "せんせい", "en": "teacher" },
+      { "kanji": "手紙", "furigana": "てがみ", "en": "letter" },
+      { "kanji": "書く", "furigana": "かく", "en": "to write" }
+    ]
+  },
+  {
+    "id": "52",
+    "sentence": "毎日三十分、ピアノを練習している。",
+    "sentence_furigana": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>三十分<rt>さんじゅっぷん</rt></ruby>、ピアノを<ruby>練習<rt>れんしゅう</rt></ruby>している。",
+    "sentence_en": "I practice piano for thirty minutes every day.",
+    "word_kanji": "練習",
+    "word_furigana": "れんしゅう",
+    "word_en": "practice; training",
+    "extra_kanji": [
+      { "kanji": "毎日", "furigana": "まいにち", "en": "every day" },
+      { "kanji": "三十分", "furigana": "さんじゅっぷん", "en": "thirty minutes" }
+    ]
+  },
+  {
+    "id": "53",
+    "sentence": "日本では普通、電車の中では電話をしない。",
+    "sentence_furigana": "<ruby>日本<rt>にほん</rt></ruby>では<ruby>普通<rt>ふつう</rt></ruby>、<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>電話<rt>でんわ</rt></ruby>をしない。",
+    "sentence_en": "In Japan, it's normally not done to talk on the phone on the train.",
+    "word_kanji": "普通",
+    "word_furigana": "ふつう",
+    "word_en": "ordinary; normal; usually",
+    "extra_kanji": [
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "電車", "furigana": "でんしゃ", "en": "train" },
+      { "kanji": "中", "furigana": "なか", "en": "inside" },
+      { "kanji": "電話", "furigana": "でんわ", "en": "telephone; phone call" }
+    ]
+  },
+  {
+    "id": "54",
+    "sentence": "結婚記念日には特別なレストランで食事をする。",
+    "sentence_furigana": "<ruby>結婚<rt>けっこん</rt></ruby><ruby>記念日<rt>きねんび</rt></ruby>には<ruby>特別<rt>とくべつ</rt></ruby>なレストランで<ruby>食事<rt>しょくじ</rt></ruby>をする。",
+    "sentence_en": "On our wedding anniversary, we have dinner at a special restaurant.",
+    "word_kanji": "特別",
+    "word_furigana": "とくべつ",
+    "word_en": "special; particular",
+    "extra_kanji": [
+      { "kanji": "結婚", "furigana": "けっこん", "en": "marriage; wedding" },
+      { "kanji": "記念日", "furigana": "きねんび", "en": "anniversary; memorial day" },
+      { "kanji": "食事", "furigana": "しょくじ", "en": "meal; dining" }
+    ]
+  },
+  {
+    "id": "55",
+    "sentence": "週末は自由な時間に読書をする。",
+    "sentence_furigana": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>自由<rt>じゆう</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>に<ruby>読書<rt>どくしょ</rt></ruby>をする。",
+    "sentence_en": "On weekends, I read books in my free time.",
+    "word_kanji": "自由",
+    "word_furigana": "じゆう",
+    "word_en": "freedom; free",
+    "extra_kanji": [
+      { "kanji": "週末", "furigana": "しゅうまつ", "en": "weekend" },
+      { "kanji": "時間", "furigana": "じかん", "en": "time" },
+      { "kanji": "読書", "furigana": "どくしょ", "en": "reading (books)" }
+    ]
+  },
+  {
+    "id": "56",
+    "sentence": "北海道の自然はとても豊かだ。",
+    "sentence_furigana": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>自然<rt>しぜん</rt></ruby>はとても<ruby>豊<rt>ゆた</rt></ruby>かだ。",
+    "sentence_en": "The nature of Hokkaido is very rich.",
+    "word_kanji": "自然",
+    "word_furigana": "しぜん",
+    "word_en": "nature; natural",
+    "extra_kanji": [
+      { "kanji": "北海道", "furigana": "ほっかいどう", "en": "Hokkaido" },
+      { "kanji": "豊か", "furigana": "ゆたか", "en": "rich; abundant" }
+    ]
+  },
+  {
+    "id": "57",
+    "sentence": "ゴミを減らして環境を守ることが大切だ。",
+    "sentence_furigana": "ゴミを<ruby>減<rt>へ</rt></ruby>らして<ruby>環境<rt>かんきょう</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることが<ruby>大切<rt>たいせつ</rt></ruby>だ。",
+    "sentence_en": "It's important to reduce garbage and protect the environment.",
+    "word_kanji": "環境",
+    "word_furigana": "かんきょう",
+    "word_en": "environment",
+    "extra_kanji": [
+      { "kanji": "減らす", "furigana": "へらす", "en": "to reduce; to decrease" },
+      { "kanji": "守る", "furigana": "まもる", "en": "to protect; to defend" },
+      { "kanji": "大切", "furigana": "たいせつ", "en": "important; precious" }
+    ]
+  },
+  {
+    "id": "58",
+    "sentence": "日本の自動車技術は世界トップクラスだ。",
+    "sentence_furigana": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>自動車<rt>じどうしゃ</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>トップクラスだ。",
+    "sentence_en": "Japan's automotive technology is top class in the world.",
+    "word_kanji": "技術",
+    "word_furigana": "ぎじゅつ",
+    "word_en": "technology; technique; skill",
+    "extra_kanji": [
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "自動車", "furigana": "じどうしゃ", "en": "automobile; car" },
+      { "kanji": "世界", "furigana": "せかい", "en": "world" }
+    ]
+  },
+  {
+    "id": "59",
+    "sentence": "インターネットで旅行の情報を集めた。",
+    "sentence_furigana": "インターネットで<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めた。",
+    "sentence_en": "I gathered travel information on the internet.",
+    "word_kanji": "情報",
+    "word_furigana": "じょうほう",
+    "word_en": "information; news",
+    "extra_kanji": [
+      { "kanji": "旅行", "furigana": "りょこう", "en": "travel; trip" },
+      { "kanji": "集める", "furigana": "あつめる", "en": "to gather; to collect" }
+    ]
+  },
+  {
+    "id": "60",
+    "sentence": "急用のとき、すぐに連絡してください。",
+    "sentence_furigana": "<ruby>急用<rt>きゅうよう</rt></ruby>のとき、すぐに<ruby>連絡<rt>れんらく</rt></ruby>してください。",
+    "sentence_en": "When there's an urgent matter, please contact me right away.",
+    "word_kanji": "連絡",
+    "word_furigana": "れんらく",
+    "word_en": "contact; communication",
+    "extra_kanji": [
+      { "kanji": "急用", "furigana": "きゅうよう", "en": "urgent business" }
+    ]
+  },
+  {
+    "id": "61",
+    "sentence": "予約する前に内容をよく確認する。",
+    "sentence_furigana": "<ruby>予約<rt>よやく</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に<ruby>内容<rt>ないよう</rt></ruby>をよく<ruby>確認<rt>かくにん</rt></ruby>する。",
+    "sentence_en": "Before making a reservation, carefully confirm the details.",
+    "word_kanji": "確認",
+    "word_furigana": "かくにん",
+    "word_en": "confirmation; checking",
+    "extra_kanji": [
+      { "kanji": "予約", "furigana": "よやく", "en": "reservation; booking" },
+      { "kanji": "前", "furigana": "まえ", "en": "before" },
+      { "kanji": "内容", "furigana": "ないよう", "en": "content; details" }
+    ]
+  },
+  {
+    "id": "62",
+    "sentence": "来週の予定はまだ決まっていない。",
+    "sentence_furigana": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>はまだ<ruby>決<rt>き</rt></ruby>まっていない。",
+    "sentence_en": "My schedule for next week hasn't been decided yet.",
+    "word_kanji": "予定",
+    "word_furigana": "よてい",
+    "word_en": "schedule; plan; arrangement",
+    "extra_kanji": [
+      { "kanji": "来週", "furigana": "らいしゅう", "en": "next week" },
+      { "kanji": "決まる", "furigana": "きまる", "en": "to be decided" }
+    ]
+  },
+  {
+    "id": "63",
+    "sentence": "仕事のことで上司に相談した。",
+    "sentence_furigana": "<ruby>仕事<rt>しごと</rt></ruby>のことで<ruby>上司<rt>じょうし</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>した。",
+    "sentence_en": "I consulted my boss about work matters.",
+    "word_kanji": "相談",
+    "word_furigana": "そうだん",
+    "word_en": "consultation; discussion",
+    "extra_kanji": [
+      { "kanji": "仕事", "furigana": "しごと", "en": "work; job" },
+      { "kanji": "上司", "furigana": "じょうし", "en": "boss; superior" }
+    ]
+  },
+  {
+    "id": "64",
+    "sentence": "友達に新しい居酒屋を紹介してもらった。",
+    "sentence_furigana": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>居酒屋<rt>いざかや</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>してもらった。",
+    "sentence_en": "A friend introduced me to a new izakaya.",
+    "word_kanji": "紹介",
+    "word_furigana": "しょうかい",
+    "word_en": "introduction",
+    "extra_kanji": [
+      { "kanji": "友達", "furigana": "ともだち", "en": "friend" },
+      { "kanji": "新しい", "furigana": "あたらしい", "en": "new" },
+      { "kanji": "居酒屋", "furigana": "いざかや", "en": "izakaya; Japanese pub" }
+    ]
+  },
+  {
+    "id": "65",
+    "sentence": "日本人の友達の家に招待された。",
+    "sentence_furigana": "<ruby>日本人<rt>にほんじん</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>招待<rt>しょうたい</rt></ruby>された。",
+    "sentence_en": "I was invited to my Japanese friend's house.",
+    "word_kanji": "招待",
+    "word_furigana": "しょうたい",
+    "word_en": "invitation",
+    "extra_kanji": [
+      { "kanji": "日本人", "furigana": "にほんじん", "en": "Japanese person" },
+      { "kanji": "友達", "furigana": "ともだち", "en": "friend" },
+      { "kanji": "家", "furigana": "いえ", "en": "house; home" }
+    ]
+  },
+  {
+    "id": "66",
+    "sentence": "旅行先について面白い提案をしてくれた。",
+    "sentence_furigana": "<ruby>旅行先<rt>りょこうさき</rt></ruby>について<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>提案<rt>ていあん</rt></ruby>をしてくれた。",
+    "sentence_en": "They made an interesting proposal about the travel destination.",
+    "word_kanji": "提案",
+    "word_furigana": "ていあん",
+    "word_en": "proposal; suggestion",
+    "extra_kanji": [
+      { "kanji": "旅行先", "furigana": "りょこうさき", "en": "travel destination" },
+      { "kanji": "面白い", "furigana": "おもしろい", "en": "interesting; funny" }
+    ]
+  },
+  {
+    "id": "67",
+    "sentence": "親は私の留学計画に反対した。",
+    "sentence_furigana": "<ruby>親<rt>おや</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>留学<rt>りゅうがく</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>した。",
+    "sentence_en": "My parents opposed my study abroad plan.",
+    "word_kanji": "反対",
+    "word_furigana": "はんたい",
+    "word_en": "opposition; opposite",
+    "extra_kanji": [
+      { "kanji": "親", "furigana": "おや", "en": "parent" },
+      { "kanji": "私", "furigana": "わたし", "en": "I; me" },
+      { "kanji": "留学", "furigana": "りゅうがく", "en": "studying abroad" },
+      { "kanji": "計画", "furigana": "けいかく", "en": "plan; project" }
+    ]
+  },
+  {
+    "id": "68",
+    "sentence": "新しい計画に全員が賛成した。",
+    "sentence_furigana": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>計画<rt>けいかく</rt></ruby>に<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>賛成<rt>さんせい</rt></ruby>した。",
+    "sentence_en": "Everyone agreed to the new plan.",
+    "word_kanji": "賛成",
+    "word_furigana": "さんせい",
+    "word_en": "agreement; approval",
+    "extra_kanji": [
+      { "kanji": "新しい", "furigana": "あたらしい", "en": "new" },
+      { "kanji": "計画", "furigana": "けいかく", "en": "plan; project" },
+      { "kanji": "全員", "furigana": "ぜんいん", "en": "everyone; all members" }
+    ]
+  },
+  {
+    "id": "69",
+    "sentence": "三ヶ月かけて作品がついに完成した。",
+    "sentence_furigana": "<ruby>三<rt>さん</rt></ruby>ヶ<ruby>月<rt>げつ</rt></ruby>かけて<ruby>作品<rt>さくひん</rt></ruby>がついに<ruby>完成<rt>かんせい</rt></ruby>した。",
+    "sentence_en": "After three months of work, the piece was finally completed.",
+    "word_kanji": "完成",
+    "word_furigana": "かんせい",
+    "word_en": "completion; perfection",
+    "extra_kanji": [
+      { "kanji": "三ヶ月", "furigana": "さんかげつ", "en": "three months" },
+      { "kanji": "作品", "furigana": "さくひん", "en": "work; piece" }
+    ]
+  },
+  {
+    "id": "70",
+    "sentence": "収入を増やすためにアルバイトを始めた。",
+    "sentence_furigana": "<ruby>収入<rt>しゅうにゅう</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やすためにアルバイトを<ruby>始<rt>はじ</rt></ruby>めた。",
+    "sentence_en": "I started a part-time job to increase my income.",
+    "word_kanji": "収入",
+    "word_furigana": "しゅうにゅう",
+    "word_en": "income; earnings",
+    "extra_kanji": [
+      { "kanji": "増やす", "furigana": "ふやす", "en": "to increase" },
+      { "kanji": "始める", "furigana": "はじめる", "en": "to start; to begin" }
+    ]
+  },
+  {
+    "id": "71",
+    "sentence": "運動を始めてから体重が少し減った。",
+    "sentence_furigana": "<ruby>運動<rt>うんどう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから<ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>減<rt>へ</rt></ruby>った。",
+    "sentence_en": "Since I started exercising, my weight has decreased a little.",
+    "word_kanji": "減る",
+    "word_furigana": "へる",
+    "word_en": "to decrease; to diminish",
+    "extra_kanji": [
+      { "kanji": "運動", "furigana": "うんどう", "en": "exercise; movement" },
+      { "kanji": "始める", "furigana": "はじめる", "en": "to start; to begin" },
+      { "kanji": "体重", "furigana": "たいじゅう", "en": "body weight" },
+      { "kanji": "少し", "furigana": "すこし", "en": "a little; a bit" }
+    ]
+  },
+  {
+    "id": "72",
+    "sentence": "分からない漢字はすぐに辞書で調べる。",
+    "sentence_furigana": "<ruby>分<rt>わ</rt></ruby>からない<ruby>漢字<rt>かんじ</rt></ruby>はすぐに<ruby>辞書<rt>じしょ</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べる。",
+    "sentence_en": "For kanji I don't understand, I immediately look them up in a dictionary.",
+    "word_kanji": "調べる",
+    "word_furigana": "しらべる",
+    "word_en": "to look up; to investigate",
+    "extra_kanji": [
+      { "kanji": "漢字", "furigana": "かんじ", "en": "kanji; Chinese character" },
+      { "kanji": "辞書", "furigana": "じしょ", "en": "dictionary" }
+    ]
+  },
+  {
+    "id": "73",
+    "sentence": "初めて富士山を見たとき、その大きさに驚いた。",
+    "sentence_furigana": "<ruby>初<rt>はじ</rt></ruby>めて<ruby>富士山<rt>ふじさん</rt></ruby>を<ruby>見<rt>み</rt></ruby>たとき、その<ruby>大<rt>おお</rt></ruby>きさに<ruby>驚<rt>おどろ</rt></ruby>いた。",
+    "sentence_en": "When I saw Mount Fuji for the first time, I was surprised by its size.",
+    "word_kanji": "驚く",
+    "word_furigana": "おどろく",
+    "word_en": "to be surprised; to be amazed",
+    "extra_kanji": [
+      { "kanji": "初めて", "furigana": "はじめて", "en": "for the first time" },
+      { "kanji": "富士山", "furigana": "ふじさん", "en": "Mount Fuji" },
+      { "kanji": "見る", "furigana": "みる", "en": "to see; to look" },
+      { "kanji": "大きさ", "furigana": "おおきさ", "en": "size" }
+    ]
+  },
+  {
+    "id": "74",
+    "sentence": "財布を忘れてしまって、とても困った。",
+    "sentence_furigana": "<ruby>財布<rt>さいふ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れてしまって、とても<ruby>困<rt>こま</rt></ruby>った。",
+    "sentence_en": "I forgot my wallet and was in a real fix.",
+    "word_kanji": "困る",
+    "word_furigana": "こまる",
+    "word_en": "to be troubled; to be in difficulty",
+    "extra_kanji": [
+      { "kanji": "財布", "furigana": "さいふ", "en": "wallet; purse" },
+      { "kanji": "忘れる", "furigana": "わすれる", "en": "to forget" }
+    ]
+  },
+  {
+    "id": "75",
+    "sentence": "彼女は謝った彼をすぐに許した。",
+    "sentence_furigana": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>謝<rt>あやま</rt></ruby>った<ruby>彼<rt>かれ</rt></ruby>をすぐに<ruby>許<rt>ゆる</rt></ruby>した。",
+    "sentence_en": "She immediately forgave him when he apologized.",
+    "word_kanji": "許す",
+    "word_furigana": "ゆるす",
+    "word_en": "to forgive; to permit",
+    "extra_kanji": [
+      { "kanji": "彼女", "furigana": "かのじょ", "en": "she; girlfriend" },
+      { "kanji": "謝る", "furigana": "あやまる", "en": "to apologize" },
+      { "kanji": "彼", "furigana": "かれ", "en": "he; boyfriend" }
+    ]
+  },
+  {
+    "id": "76",
+    "sentence": "夕ごはんを何にするか一緒に決めよう。",
+    "sentence_furigana": "<ruby>夕<rt>ゆう</rt></ruby>ごはんを<ruby>何<rt>なに</rt></ruby>にするか<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>決<rt>き</rt></ruby>めよう。",
+    "sentence_en": "Let's decide together what to have for dinner.",
+    "word_kanji": "決める",
+    "word_furigana": "きめる",
+    "word_en": "to decide; to determine",
+    "extra_kanji": [
+      { "kanji": "夕", "furigana": "ゆう", "en": "evening" },
+      { "kanji": "何", "furigana": "なに", "en": "what" },
+      { "kanji": "一緒", "furigana": "いっしょ", "en": "together" }
+    ]
+  },
+  {
+    "id": "77",
+    "sentence": "将来の夢について真剣に考えている。",
+    "sentence_furigana": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>について<ruby>真剣<rt>しんけん</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えている。",
+    "sentence_en": "I am seriously thinking about my dreams for the future.",
+    "word_kanji": "考える",
+    "word_furigana": "かんがえる",
+    "word_en": "to think; to consider",
+    "extra_kanji": [
+      { "kanji": "将来", "furigana": "しょうらい", "en": "future" },
+      { "kanji": "夢", "furigana": "ゆめ", "en": "dream" },
+      { "kanji": "真剣", "furigana": "しんけん", "en": "serious; earnest" }
+    ]
+  },
+  {
+    "id": "78",
+    "sentence": "漢字を覚えるために毎日書いて練習している。",
+    "sentence_furigana": "<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えるために<ruby>毎日<rt>まいにち</rt></ruby><ruby>書<rt>か</rt></ruby>いて<ruby>練習<rt>れんしゅう</rt></ruby>している。",
+    "sentence_en": "I practice writing every day to memorize kanji.",
+    "word_kanji": "覚える",
+    "word_furigana": "おぼえる",
+    "word_en": "to memorize; to remember",
+    "extra_kanji": [
+      { "kanji": "漢字", "furigana": "かんじ", "en": "kanji; Chinese character" },
+      { "kanji": "毎日", "furigana": "まいにち", "en": "every day" },
+      { "kanji": "書く", "furigana": "かく", "en": "to write" },
+      { "kanji": "練習", "furigana": "れんしゅう", "en": "practice" }
+    ]
+  },
+  {
+    "id": "79",
+    "sentence": "彼女は料理が上手で、いつもおいしいものを作る。",
+    "sentence_furigana": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>で、いつもおいしいものを<ruby>作<rt>つく</rt></ruby>る。",
+    "sentence_en": "She is good at cooking and always makes delicious food.",
+    "word_kanji": "上手",
+    "word_furigana": "じょうず",
+    "word_en": "skilled; good at",
+    "extra_kanji": [
+      { "kanji": "彼女", "furigana": "かのじょ", "en": "she; girlfriend" },
+      { "kanji": "料理", "furigana": "りょうり", "en": "cooking; cuisine" },
+      { "kanji": "作る", "furigana": "つくる", "en": "to make; to cook" }
+    ]
+  },
+  {
+    "id": "80",
+    "sentence": "彼は手紙をいつも丁寧な言葉で書く。",
+    "sentence_furigana": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>手紙<rt>てがみ</rt></ruby>をいつも<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>で<ruby>書<rt>か</rt></ruby>く。",
+    "sentence_en": "He always writes letters with polite language.",
+    "word_kanji": "丁寧",
+    "word_furigana": "ていねい",
+    "word_en": "polite; careful; thorough",
+    "extra_kanji": [
+      { "kanji": "彼", "furigana": "かれ", "en": "he; him" },
+      { "kanji": "手紙", "furigana": "てがみ", "en": "letter" },
+      { "kanji": "言葉", "furigana": "ことば", "en": "word; language" },
+      { "kanji": "書く", "furigana": "かく", "en": "to write" }
+    ]
+  },
+  {
+    "id": "81",
+    "sentence": "世界の平和のために多くの人が活動している。",
+    "sentence_furigana": "<ruby>世界<rt>せかい</rt></ruby>の<ruby>平和<rt>へいわ</rt></ruby>のために<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>活動<rt>かつどう</rt></ruby>している。",
+    "sentence_en": "Many people are working for world peace.",
+    "word_kanji": "平和",
+    "word_furigana": "へいわ",
+    "word_en": "peace",
+    "extra_kanji": [
+      { "kanji": "世界", "furigana": "せかい", "en": "world" },
+      { "kanji": "多く", "furigana": "おおく", "en": "many; a lot" },
+      { "kanji": "人", "furigana": "ひと", "en": "person; people" },
+      { "kanji": "活動", "furigana": "かつどう", "en": "activity; action" }
+    ]
+  },
+  {
+    "id": "82",
+    "sentence": "社会のルールを守ることはとても大切だ。",
+    "sentence_furigana": "<ruby>社会<rt>しゃかい</rt></ruby>のルールを<ruby>守<rt>まも</rt></ruby>ることはとても<ruby>大切<rt>たいせつ</rt></ruby>だ。",
+    "sentence_en": "It is very important to follow society's rules.",
+    "word_kanji": "社会",
+    "word_furigana": "しゃかい",
+    "word_en": "society",
+    "extra_kanji": [
+      { "kanji": "守る", "furigana": "まもる", "en": "to follow; to protect" },
+      { "kanji": "大切", "furigana": "たいせつ", "en": "important; precious" }
+    ]
+  },
+  {
+    "id": "83",
+    "sentence": "若者も政治に関心を持つことが大切だ。",
+    "sentence_furigana": "<ruby>若者<rt>わかもの</rt></ruby>も<ruby>政治<rt>せいじ</rt></ruby>に<ruby>関心<rt>かんしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>つことが<ruby>大切<rt>たいせつ</rt></ruby>だ。",
+    "sentence_en": "It is important for young people to take an interest in politics too.",
+    "word_kanji": "政治",
+    "word_furigana": "せいじ",
+    "word_en": "politics; government",
+    "extra_kanji": [
+      { "kanji": "若者", "furigana": "わかもの", "en": "young person; youth" },
+      { "kanji": "関心", "furigana": "かんしん", "en": "interest; concern" },
+      { "kanji": "持つ", "furigana": "もつ", "en": "to have; to hold" },
+      { "kanji": "大切", "furigana": "たいせつ", "en": "important" }
+    ]
+  },
+  {
+    "id": "84",
+    "sentence": "経済の発展のために新しい政策が必要だ。",
+    "sentence_furigana": "<ruby>経済<rt>けいざい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>のために<ruby>新<rt>あたら</rt></ruby>しい<ruby>政策<rt>せいさく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だ。",
+    "sentence_en": "New policies are needed for economic development.",
+    "word_kanji": "経済",
+    "word_furigana": "けいざい",
+    "word_en": "economy; economics",
+    "extra_kanji": [
+      { "kanji": "発展", "furigana": "はってん", "en": "development; growth" },
+      { "kanji": "新しい", "furigana": "あたらしい", "en": "new" },
+      { "kanji": "政策", "furigana": "せいさく", "en": "policy; measure" },
+      { "kanji": "必要", "furigana": "ひつよう", "en": "necessary; essential" }
+    ]
+  },
+  {
+    "id": "85",
+    "sentence": "奈良は日本の歴史を感じられる古い町だ。",
+    "sentence_furigana": "<ruby>奈良<rt>なら</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じられる<ruby>古<rt>ふる</rt></ruby>い<ruby>町<rt>まち</rt></ruby>だ。",
+    "sentence_en": "Nara is an old town where you can feel Japan's history.",
+    "word_kanji": "歴史",
+    "word_furigana": "れきし",
+    "word_en": "history",
+    "extra_kanji": [
+      { "kanji": "奈良", "furigana": "なら", "en": "Nara" },
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "古い", "furigana": "ふるい", "en": "old; ancient" },
+      { "kanji": "町", "furigana": "まち", "en": "town; city" }
+    ]
+  },
+  {
+    "id": "86",
+    "sentence": "科学の力で新しい薬が開発された。",
+    "sentence_furigana": "<ruby>科学<rt>かがく</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>薬<rt>くすり</rt></ruby>が<ruby>開発<rt>かいはつ</rt></ruby>された。",
+    "sentence_en": "A new medicine was developed through the power of science.",
+    "word_kanji": "科学",
+    "word_furigana": "かがく",
+    "word_en": "science",
+    "extra_kanji": [
+      { "kanji": "力", "furigana": "ちから", "en": "power; strength" },
+      { "kanji": "新しい", "furigana": "あたらしい", "en": "new" },
+      { "kanji": "薬", "furigana": "くすり", "en": "medicine; drug" },
+      { "kanji": "開発", "furigana": "かいはつ", "en": "development" }
+    ]
+  },
+  {
+    "id": "87",
+    "sentence": "日本の漫画文化は世界中で愛されている。",
+    "sentence_furigana": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>漫画<rt>まんが</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>は<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>愛<rt>あい</rt></ruby>されている。",
+    "sentence_en": "Japanese manga culture is loved all over the world.",
+    "word_kanji": "文化",
+    "word_furigana": "ぶんか",
+    "word_en": "culture",
+    "extra_kanji": [
+      { "kanji": "日本", "furigana": "にほん", "en": "Japan" },
+      { "kanji": "漫画", "furigana": "まんが", "en": "manga; comic" },
+      { "kanji": "世界中", "furigana": "せかいじゅう", "en": "all over the world" },
+      { "kanji": "愛する", "furigana": "あいする", "en": "to love" }
+    ]
+  },
+  {
+    "id": "88",
+    "sentence": "正直に言うと、この仕事はとても難しかった。",
+    "sentence_furigana": "<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>言<rt>い</rt></ruby>うと、この<ruby>仕事<rt>しごと</rt></ruby>はとても<ruby>難<rt>むずか</rt></ruby>しかった。",
+    "sentence_en": "To be honest, this job was very difficult.",
+    "word_kanji": "正直",
+    "word_furigana": "しょうじき",
+    "word_en": "honest; frankly",
+    "extra_kanji": [
+      { "kanji": "言う", "furigana": "いう", "en": "to say" },
+      { "kanji": "仕事", "furigana": "しごと", "en": "work; job" },
+      { "kanji": "難しい", "furigana": "むずかしい", "en": "difficult" }
+    ]
+  },
+  {
+    "id": "89",
+    "sentence": "初めての発表で緊張しすぎてしまった。",
+    "sentence_furigana": "<ruby>初<rt>はじ</rt></ruby>めての<ruby>発表<rt>はっぴょう</rt></ruby>で<ruby>緊張<rt>きんちょう</rt></ruby>しすぎてしまった。",
+    "sentence_en": "I got too nervous during my first presentation.",
+    "word_kanji": "緊張",
+    "word_furigana": "きんちょう",
+    "word_en": "tension; nervousness",
+    "extra_kanji": [
+      { "kanji": "初めて", "furigana": "はじめて", "en": "for the first time" },
+      { "kanji": "発表", "furigana": "はっぴょう", "en": "presentation; announcement" }
+    ]
+  },
+  {
+    "id": "90",
+    "sentence": "毎日の練習で少しずつ自信がついてきた。",
+    "sentence_furigana": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>で<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>自信<rt>じしん</rt></ruby>がついてきた。",
+    "sentence_en": "Through daily practice, I have gradually gained confidence.",
+    "word_kanji": "自信",
+    "word_furigana": "じしん",
+    "word_en": "confidence; self-confidence",
+    "extra_kanji": [
+      { "kanji": "毎日", "furigana": "まいにち", "en": "every day" },
+      { "kanji": "練習", "furigana": "れんしゅう", "en": "practice" },
+      { "kanji": "少し", "furigana": "すこし", "en": "a little; gradually" }
+    ]
+  },
+  {
+    "id": "91",
+    "sentence": "失礼なことを言ってしまったので、すぐに謝った。",
+    "sentence_furigana": "<ruby>失礼<rt>しつれい</rt></ruby>なことを<ruby>言<rt>い</rt></ruby>ってしまったので、すぐに<ruby>謝<rt>あやま</rt></ruby>った。",
+    "sentence_en": "Since I said something rude, I apologized immediately.",
+    "word_kanji": "謝る",
+    "word_furigana": "あやまる",
+    "word_en": "to apologize",
+    "extra_kanji": [
+      { "kanji": "失礼", "furigana": "しつれい", "en": "rudeness; impoliteness" },
+      { "kanji": "言う", "furigana": "いう", "en": "to say" }
+    ]
+  },
+  {
+    "id": "92",
+    "sentence": "友達の言葉を信じて最後まで頑張った。",
+    "sentence_furigana": "<ruby>友達<rt>ともだち</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>頑張<rt>がんば</rt></ruby>った。",
+    "sentence_en": "I trusted my friend's words and did my best to the end.",
+    "word_kanji": "信じる",
+    "word_furigana": "しんじる",
+    "word_en": "to believe; to trust",
+    "extra_kanji": [
+      { "kanji": "友達", "furigana": "ともだち", "en": "friend" },
+      { "kanji": "言葉", "furigana": "ことば", "en": "word; words" },
+      { "kanji": "最後", "furigana": "さいご", "en": "end; last" },
+      { "kanji": "頑張る", "furigana": "がんばる", "en": "to do one's best" }
+    ]
+  },
+  {
+    "id": "93",
+    "sentence": "プレゼントをもらって、子どもはとても喜んだ。",
+    "sentence_furigana": "プレゼントをもらって、<ruby>子<rt>こ</rt></ruby>どもはとても<ruby>喜<rt>よろこ</rt></ruby>んだ。",
+    "sentence_en": "The child was very happy to receive a present.",
+    "word_kanji": "喜ぶ",
+    "word_furigana": "よろこぶ",
+    "word_en": "to be glad; to rejoice",
+    "extra_kanji": [
+      { "kanji": "子", "furigana": "こ", "en": "child" }
+    ]
+  },
+  {
+    "id": "94",
+    "sentence": "感動的な映画を見て、思わず泣いてしまった。",
+    "sentence_furigana": "<ruby>感動的<rt>かんどうてき</rt></ruby>な<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>思<rt>おも</rt></ruby>わず<ruby>泣<rt>な</rt></ruby>いてしまった。",
+    "sentence_en": "I was so moved by the film that I ended up crying.",
+    "word_kanji": "泣く",
+    "word_furigana": "なく",
+    "word_en": "to cry; to weep",
+    "extra_kanji": [
+      { "kanji": "感動的", "furigana": "かんどうてき", "en": "moving; touching" },
+      { "kanji": "映画", "furigana": "えいが", "en": "movie; film" },
+      { "kanji": "見る", "furigana": "みる", "en": "to see; to watch" },
+      { "kanji": "思わず", "furigana": "おもわず", "en": "unintentionally; without thinking" }
+    ]
+  },
+  {
+    "id": "95",
+    "sentence": "友達の冗談に思わず笑ってしまった。",
+    "sentence_furigana": "<ruby>友達<rt>ともだち</rt></ruby>の<ruby>冗談<rt>じょうだん</rt></ruby>に<ruby>思<rt>おも</rt></ruby>わず<ruby>笑<rt>わら</rt></ruby>ってしまった。",
+    "sentence_en": "I couldn't help laughing at my friend's joke.",
+    "word_kanji": "笑う",
+    "word_furigana": "わらう",
+    "word_en": "to laugh; to smile",
+    "extra_kanji": [
+      { "kanji": "友達", "furigana": "ともだち", "en": "friend" },
+      { "kanji": "冗談", "furigana": "じょうだん", "en": "joke; jest" },
+      { "kanji": "思わず", "furigana": "おもわず", "en": "unintentionally; without thinking" }
+    ]
+  },
+  {
+    "id": "96",
+    "sentence": "台風のため、旅行の計画を変更した。",
+    "sentence_furigana": "<ruby>台風<rt>たいふう</rt></ruby>のため、<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>した。",
+    "sentence_en": "Due to the typhoon, we changed our travel plans.",
+    "word_kanji": "変更",
+    "word_furigana": "へんこう",
+    "word_en": "change; alteration",
+    "extra_kanji": [
+      { "kanji": "台風", "furigana": "たいふう", "en": "typhoon" },
+      { "kanji": "旅行", "furigana": "りょこう", "en": "travel; trip" },
+      { "kanji": "計画", "furigana": "けいかく", "en": "plan; project" }
+    ]
+  },
+  {
+    "id": "97",
+    "sentence": "日本語の試験に申し込んだ。",
+    "sentence_furigana": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>んだ。",
+    "sentence_en": "I applied for the Japanese language exam.",
+    "word_kanji": "申し込む",
+    "word_furigana": "もうしこむ",
+    "word_en": "to apply for; to register",
+    "extra_kanji": [
+      { "kanji": "日本語", "furigana": "にほんご", "en": "Japanese language" },
+      { "kanji": "試験", "furigana": "しけん", "en": "exam; test" }
+    ]
+  },
+  {
+    "id": "98",
+    "sentence": "忙しかったので、パーティーへの招待を断った。",
+    "sentence_furigana": "<ruby>忙<rt>いそが</rt></ruby>しかったので、パーティーへの<ruby>招待<rt>しょうたい</rt></ruby>を<ruby>断<rt>ことわ</rt></ruby>った。",
+    "sentence_en": "Since I was busy, I declined the invitation to the party.",
+    "word_kanji": "断る",
+    "word_furigana": "ことわる",
+    "word_en": "to refuse; to decline",
+    "extra_kanji": [
+      { "kanji": "忙しい", "furigana": "いそがしい", "en": "busy" },
+      { "kanji": "招待", "furigana": "しょうたい", "en": "invitation" }
+    ]
+  },
+  {
+    "id": "99",
+    "sentence": "友達との約束を忘れないようにメモした。",
+    "sentence_furigana": "<ruby>友達<rt>ともだち</rt></ruby>との<ruby>約束<rt>やくそく</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れないようにメモした。",
+    "sentence_en": "I wrote a note so I wouldn't forget my promise to my friend.",
+    "word_kanji": "約束",
+    "word_furigana": "やくそく",
+    "word_en": "promise; appointment",
+    "extra_kanji": [
+      { "kanji": "友達", "furigana": "ともだち", "en": "friend" },
+      { "kanji": "忘れる", "furigana": "わすれる", "en": "to forget" }
+    ]
+  },
+  {
+    "id": "100",
+    "sentence": "家族との時間を大切にしている。",
+    "sentence_furigana": "<ruby>家族<rt>かぞく</rt></ruby>との<ruby>時間<rt>じかん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にしている。",
+    "sentence_en": "I treasure the time I spend with my family.",
+    "word_kanji": "大切",
+    "word_furigana": "たいせつ",
+    "word_en": "important; precious; dear",
+    "extra_kanji": [
+      { "kanji": "家族", "furigana": "かぞく", "en": "family" },
+      { "kanji": "時間", "furigana": "じかん", "en": "time" }
+    ]
   }
 ]

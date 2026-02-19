@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, useCallback, useMemo } from "react"
+import { useState, useMemo } from "react"
 import { motion, AnimatePresence } from "framer-motion"
 import type { Card } from "../types"
 
@@ -6,8 +6,6 @@ interface AllCardsPageProps {
   allCards: Card[]
   onClose: () => void
 }
-
-const BATCH_SIZE = 20
 
 function normalizeQuery(str: string): string {
   return str.toLowerCase().trim()
@@ -123,58 +121,12 @@ function CardRow({ card, isExpanded, onToggle }: CardRowProps) {
 
 export function AllCardsPage({ allCards, onClose }: AllCardsPageProps) {
   const [query, setQuery] = useState("")
-  const [displayCount, setDisplayCount] = useState(BATCH_SIZE)
   const [expandedId, setExpandedId] = useState<string | null>(null)
-  const sentinelRef = useRef<HTMLDivElement>(null)
 
   const filteredCards = useMemo(
     () => allCards.filter((card) => cardMatchesQuery(card, query)),
     [allCards, query]
   )
-
-  const visibleCards = filteredCards.slice(0, displayCount)
-  const hasMore = displayCount < filteredCards.length
-
-  // Reset display count when query changes
-  useEffect(() => {
-    setDisplayCount(BATCH_SIZE)
-    setExpandedId(null)
-  }, [query])
-
-  // Guard prevents firing twice in the same render cycle (e.g. StrictMode double-invoke)
-  const loadingRef = useRef(false)
-
-  const loadMore = useCallback(() => {
-    if (loadingRef.current) return
-    loadingRef.current = true
-    setDisplayCount((prev) => prev + BATCH_SIZE)
-  }, [])
-
-  // Reset the guard after each batch so the next one can fire
-  useEffect(() => {
-    loadingRef.current = false
-  }, [displayCount])
-
-  // Recreate the observer on every batch (displayCount dep). This means:
-  // - if the sentinel is already on-screen after a batch lands, the new
-  //   observer fires immediately and loads the next one automatically
-  // - if the sentinel is below the fold, the observer waits for the user to scroll
-  useEffect(() => {
-    if (!hasMore) return
-    const sentinel = sentinelRef.current
-    if (!sentinel) return
-
-    const observer = new IntersectionObserver(
-      (entries) => {
-        if (entries[0].isIntersecting) {
-          loadMore()
-        }
-      },
-      { threshold: 0 }
-    )
-    observer.observe(sentinel)
-    return () => observer.disconnect()
-  }, [displayCount, hasMore, loadMore])
 
   const handleToggle = (id: string) => {
     setExpandedId((prev) => (prev === id ? null : id))
@@ -231,7 +183,7 @@ export function AllCardsPage({ allCards, onClose }: AllCardsPageProps) {
         </div>
       ) : (
         <div className="flex flex-col gap-3">
-          {visibleCards.map((card) => (
+          {filteredCards.map((card) => (
             <CardRow
               key={card.id}
               card={card}
@@ -239,13 +191,6 @@ export function AllCardsPage({ allCards, onClose }: AllCardsPageProps) {
               onToggle={() => handleToggle(card.id)}
             />
           ))}
-
-          {/* Sentinel for infinite scroll */}
-          {hasMore && (
-            <div ref={sentinelRef} className="py-4 flex justify-center">
-              <span className="text-xs text-gray-300">Loading more…</span>
-            </div>
-          )}
         </div>
       )}
     </div>
