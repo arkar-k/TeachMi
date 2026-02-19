@@ -4,10 +4,11 @@ import type { Card } from "./types"
 import { useProgress } from "./hooks/useProgress"
 import { HomePage } from "./pages/HomePage"
 import { PastWordsPage } from "./pages/PastWordsPage"
+import { AllCardsPage } from "./pages/AllCardsPage"
 
 const allCards: Card[] = cardsData
 
-type Page = "home" | "past-words"
+type Page = "home" | "past-words" | "all-cards"
 
 function App() {
   const [page, setPage] = useState<Page>("home")
@@ -42,6 +43,15 @@ function App() {
     )
   }
 
+  if (page === "all-cards") {
+    return (
+      <AllCardsPage
+        allCards={allCards}
+        onClose={() => setPage("home")}
+      />
+    )
+  }
+
   return (
     <HomePage
       currentCard={currentCard}
@@ -53,6 +63,7 @@ function App() {
       resetProgress={resetProgress}
       isComplete={isComplete}
       onOpenPastWords={() => setPage("past-words")}
+      onOpenAllCards={() => setPage("all-cards")}
     />
   )
 }

@@ -13,6 +13,7 @@ interface HomePageProps {
   resetProgress: () => void
   isComplete: boolean
   onOpenPastWords: () => void
+  onOpenAllCards: () => void
 }
 
 export function HomePage({
@@ -25,6 +26,7 @@ export function HomePage({
   resetProgress,
   isComplete,
   onOpenPastWords,
+  onOpenAllCards,
 }: HomePageProps) {
   useEffect(() => {
     if (!currentCard && !isComplete) {
@@ -67,13 +69,21 @@ export function HomePage({
 
   return (
     <div className="min-h-full flex flex-col items-center px-4 pt-6 pb-8">
-      {/* Past words button */}
-      <button
-        onClick={onOpenPastWords}
-        className="bg-mint-200 hover:bg-mint-300 text-mint-500 font-semibold text-sm py-2 px-5 rounded-full mb-8 transition-colors"
-      >
-        Past words
-      </button>
+      {/* Top buttons */}
+      <div className="flex gap-3 mb-8">
+        <button
+          onClick={onOpenPastWords}
+          className="bg-mint-200 hover:bg-mint-300 text-mint-500 font-semibold text-sm py-2 px-5 rounded-full transition-colors"
+        >
+          Past words
+        </button>
+        <button
+          onClick={onOpenAllCards}
+          className="bg-mint-200 hover:bg-mint-300 text-mint-500 font-semibold text-sm py-2 px-5 rounded-full transition-colors"
+        >
+          All cards
+        </button>
+      </div>
 
       {/* Card area */}
       <div className="flex-1 flex items-center justify-center w-full max-w-sm">
