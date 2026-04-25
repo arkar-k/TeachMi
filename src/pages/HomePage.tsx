@@ -12,6 +12,7 @@ interface HomePageProps {
   rateCard: (cardId: string, rating: "thumbs_up" | "thumbs_down") => void
   resetProgress: () => void
   isComplete: boolean
+  deckName: string
   onOpenPastWords: () => void
   onOpenAllCards: () => void
 }
@@ -25,6 +26,7 @@ export function HomePage({
   rateCard,
   resetProgress,
   isComplete,
+  deckName,
   onOpenPastWords,
   onOpenAllCards,
 }: HomePageProps) {
@@ -54,7 +56,7 @@ export function HomePage({
             Congratulations!
           </h2>
           <p className="text-gray-500 mb-6">
-            You've learned all the N3 words! Amazing work!
+            You've learned all the {deckName}! Amazing work!
           </p>
           <button
             onClick={resetProgress}

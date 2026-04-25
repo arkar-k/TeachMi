@@ -1,0 +1,2139 @@
+[
+  {
+    "id": "preg_01",
+    "sentence": "来月、産婦人科で最初の検診を受ける予定です。",
+    "sentence_furigana": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>産婦人科<rt>さんふじんか</rt></ruby>で<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>検診<rt>けんしん</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける<ruby>予定<rt>よてい</rt></ruby>です。",
+    "sentence_en": "I'm scheduled to have my first checkup at the obstetrics clinic next month.",
+    "word_kanji": "検診",
+    "word_furigana": "けんしん",
+    "word_en": "medical checkup; health examination",
+    "extra_kanji": [
+      { "kanji": "来月", "furigana": "らいげつ", "en": "next month" },
+      { "kanji": "産婦人科", "furigana": "さんふじんか", "en": "obstetrics and gynecology" },
+      { "kanji": "最初", "furigana": "さいしょ", "en": "first; the beginning" },
+      { "kanji": "受ける", "furigana": "うける", "en": "to receive; to undergo" },
+      { "kanji": "予定", "furigana": "よてい", "en": "schedule; plan" }
+    ]
+  },
+  {
+    "id": "preg_02",
+    "sentence": "エコー検査で赤ちゃんの心拍が確認できました。",
+    "sentence_furigana": "エコー<ruby>検査<rt>けんさ</rt></ruby>で<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>心拍<rt>しんぱく</rt></ruby>が<ruby>確認<rt>かくにん</rt></ruby>できました。",
+    "sentence_en": "The baby's heartbeat was confirmed during the ultrasound.",
+    "word_kanji": "心拍",
+    "word_furigana": "しんぱく",
+    "word_en": "heartbeat; pulse",
+    "extra_kanji": [
+      { "kanji": "検査", "furigana": "けんさ", "en": "examination; test" },
+      { "kanji": "赤ちゃん", "furigana": "あかちゃん", "en": "baby" },
+      { "kanji": "確認", "furigana": "かくにん", "en": "confirmation; verification" }
+    ]
+  },
+  {
+    "id": "preg_03",
+    "sentence": "出産予定日は十二月二十日ごろです。",
+    "sentence_furigana": "<ruby>出産予定日<rt>しゅっさんよていび</rt></ruby>は<ruby>十二月<rt>じゅうにがつ</rt></ruby><ruby>二十日<rt>はつか</rt></ruby>ごろです。",
+    "sentence_en": "My due date is around December 20th.",
+    "word_kanji": "出産予定日",
+    "word_furigana": "しゅっさんよていび",
+    "word_en": "due date; expected delivery date",
+    "extra_kanji": [
+      { "kanji": "十二月", "furigana": "じゅうにがつ", "en": "December" },
+      { "kanji": "二十日", "furigana": "はつか", "en": "20th day" }
+    ]
+  },
+  {
+    "id": "preg_04",
+    "sentence": "妊娠初期はつわりがひどくて食事がとれなかった。",
+    "sentence_furigana": "<ruby>妊娠<rt>にんしん</rt></ruby><ruby>初期<rt>しょき</rt></ruby>はつわりがひどくて<ruby>食事<rt>しょくじ</rt></ruby>がとれなかった。",
+    "sentence_en": "In early pregnancy, the morning sickness was so bad I couldn't eat.",
+    "word_kanji": "妊娠",
+    "word_furigana": "にんしん",
+    "word_en": "pregnancy; conception",
+    "extra_kanji": [
+      { "kanji": "初期", "furigana": "しょき", "en": "early stage; initial period" },
+      { "kanji": "食事", "furigana": "しょくじ", "en": "meal; eating" }
+    ]
+  },
+  {
+    "id": "preg_05",
+    "sentence": "つわりがひどいときは、無理をせずに休んでください。",
+    "sentence_furigana": "つわりがひどいときは、<ruby>無理<rt>むり</rt></ruby>をせずに<ruby>休<rt>やす</rt></ruby>んでください。",
+    "sentence_en": "When morning sickness is severe, please rest without pushing yourself.",
+    "word_kanji": "無理",
+    "word_furigana": "むり",
+    "word_en": "overdoing it; unreasonable strain",
+    "extra_kanji": [
+      { "kanji": "休む", "furigana": "やすむ", "en": "to rest; to take a break" }
+    ]
+  },
+  {
+    "id": "preg_06",
+    "sentence": "超音波検査でお腹の赤ちゃんの様子がわかります。",
+    "sentence_furigana": "<ruby>超音波検査<rt>ちょうおんぱけんさ</rt></ruby>でお<ruby>腹<rt>なか</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>様子<rt>ようす</rt></ruby>がわかります。",
+    "sentence_en": "An ultrasound lets you see how your baby is doing in the womb.",
+    "word_kanji": "超音波検査",
+    "word_furigana": "ちょうおんぱけんさ",
+    "word_en": "ultrasound examination",
+    "extra_kanji": [
+      { "kanji": "お腹", "furigana": "おなか", "en": "belly; abdomen" },
+      { "kanji": "様子", "furigana": "ようす", "en": "condition; appearance; how things are" }
+    ]
+  },
+  {
+    "id": "preg_07",
+    "sentence": "妊娠中は葉酸のサプリを毎日飲むように言われました。",
+    "sentence_furigana": "<ruby>妊娠中<rt>にんしんちゅう</rt></ruby>は<ruby>葉酸<rt>ようさん</rt></ruby>のサプリを<ruby>毎日<rt>まいにち</rt></ruby><ruby>飲<rt>の</rt></ruby>むように<ruby>言<rt>い</rt></ruby>われました。",
+    "sentence_en": "I was told to take folic acid supplements every day during pregnancy.",
+    "word_kanji": "葉酸",
+    "word_furigana": "ようさん",
+    "word_en": "folic acid",
+    "extra_kanji": [
+      { "kanji": "妊娠中", "furigana": "にんしんちゅう", "en": "during pregnancy" },
+      { "kanji": "毎日", "furigana": "まいにち", "en": "every day" },
+      { "kanji": "飲む", "furigana": "のむ", "en": "to take; to drink" }
+    ]
+  },
+  {
+    "id": "preg_08",
+    "sentence": "出産後、病院で母子手帳を確認されました。",
+    "sentence_furigana": "<ruby>出産後<rt>しゅっさんご</rt></ruby>、<ruby>病院<rt>びょういん</rt></ruby>で<ruby>母子手帳<rt>ぼしてちょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>されました。",
+    "sentence_en": "After giving birth, the maternity passbook was checked at the hospital.",
+    "word_kanji": "母子手帳",
+    "word_furigana": "ぼしてちょう",
+    "word_en": "maternity and child health handbook",
+    "extra_kanji": [
+      { "kanji": "出産後", "furigana": "しゅっさんご", "en": "after delivery; postpartum" },
+      { "kanji": "病院", "furigana": "びょういん", "en": "hospital" },
+      { "kanji": "確認", "furigana": "かくにん", "en": "confirmation; check" }
+    ]
+  },
+  {
+    "id": "preg_09",
+    "sentence": "陣痛が始まったら、すぐに病院に連絡してください。",
+    "sentence_furigana": "<ruby>陣痛<rt>じんつう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まったら、すぐに<ruby>病院<rt>びょういん</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>してください。",
+    "sentence_en": "Once contractions start, please contact the hospital right away.",
+    "word_kanji": "陣痛",
+    "word_furigana": "じんつう",
+    "word_en": "labor pain; contraction",
+    "extra_kanji": [
+      { "kanji": "始まる", "furigana": "はじまる", "en": "to begin; to start" },
+      { "kanji": "病院", "furigana": "びょういん", "en": "hospital" },
+      { "kanji": "連絡", "furigana": "れんらく", "en": "contact; notification" }
+    ]
+  },
+  {
+    "id": "preg_10",
+    "sentence": "赤ちゃんの頭が骨盤に入ったので、もうすぐ分娩です。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>頭<rt>あたま</rt></ruby>が<ruby>骨盤<rt>こつばん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったので、もうすぐ<ruby>分娩<rt>ぶんべん</rt></ruby>です。",
+    "sentence_en": "Since the baby's head has entered the pelvis, delivery is coming soon.",
+    "word_kanji": "分娩",
+    "word_furigana": "ぶんべん",
+    "word_en": "delivery; childbirth",
+    "extra_kanji": [
+      { "kanji": "頭", "furigana": "あたま", "en": "head" },
+      { "kanji": "骨盤", "furigana": "こつばん", "en": "pelvis" },
+      { "kanji": "入る", "furigana": "はいる", "en": "to enter; to go in" }
+    ]
+  },
+  {
+    "id": "preg_11",
+    "sentence": "帝王切開になる可能性があると医師に言われました。",
+    "sentence_furigana": "<ruby>帝王切開<rt>ていおうせっかい</rt></ruby>になる<ruby>可能性<rt>かのうせい</rt></ruby>があると<ruby>医師<rt>いし</rt></ruby>に<ruby>言<rt>い</rt></ruby>われました。",
+    "sentence_en": "The doctor told me there is a possibility of a caesarean section.",
+    "word_kanji": "帝王切開",
+    "word_furigana": "ていおうせっかい",
+    "word_en": "caesarean section; C-section",
+    "extra_kanji": [
+      { "kanji": "可能性", "furigana": "かのうせい", "en": "possibility; probability" },
+      { "kanji": "医師", "furigana": "いし", "en": "doctor; physician" }
+    ]
+  },
+  {
+    "id": "preg_12",
+    "sentence": "妊娠後期に入ると、足がむくみやすくなります。",
+    "sentence_furigana": "<ruby>妊娠後期<rt>にんしんこうき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると、<ruby>足<rt>あし</rt></ruby>がむくみやすくなります。",
+    "sentence_en": "Once you enter the late stage of pregnancy, your legs tend to swell easily.",
+    "word_kanji": "妊娠後期",
+    "word_furigana": "にんしんこうき",
+    "word_en": "late pregnancy; third trimester",
+    "extra_kanji": [
+      { "kanji": "入る", "furigana": "はいる", "en": "to enter" },
+      { "kanji": "足", "furigana": "あし", "en": "legs; feet" }
+    ]
+  },
+  {
+    "id": "preg_13",
+    "sentence": "妊娠中期は比較的体が楽で、旅行もできました。",
+    "sentence_furigana": "<ruby>妊娠中期<rt>にんしんちゅうき</rt></ruby>は<ruby>比較的<rt>ひかくてき</rt></ruby><ruby>体<rt>からだ</rt></ruby>が<ruby>楽<rt>らく</rt></ruby>で、<ruby>旅行<rt>りょこう</rt></ruby>もできました。",
+    "sentence_en": "During the second trimester, my body felt relatively comfortable and I was even able to travel.",
+    "word_kanji": "妊娠中期",
+    "word_furigana": "にんしんちゅうき",
+    "word_en": "mid-pregnancy; second trimester",
+    "extra_kanji": [
+      { "kanji": "比較的", "furigana": "ひかくてき", "en": "comparatively; relatively" },
+      { "kanji": "体", "furigana": "からだ", "en": "body" },
+      { "kanji": "楽", "furigana": "らく", "en": "comfortable; easy" },
+      { "kanji": "旅行", "furigana": "りょこう", "en": "travel; trip" }
+    ]
+  },
+  {
+    "id": "preg_14",
+    "sentence": "血圧が高いので、妊娠高血圧症候群の疑いがあります。",
+    "sentence_furigana": "<ruby>血圧<rt>けつあつ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いので、<ruby>妊娠高血圧症候群<rt>にんしんこうけつあつしょうこうぐん</rt></ruby>の<ruby>疑<rt>うたが</rt></ruby>いがあります。",
+    "sentence_en": "Since your blood pressure is high, there is a suspicion of gestational hypertension.",
+    "word_kanji": "血圧",
+    "word_furigana": "けつあつ",
+    "word_en": "blood pressure",
+    "extra_kanji": [
+      { "kanji": "高い", "furigana": "たかい", "en": "high" },
+      { "kanji": "疑い", "furigana": "うたがい", "en": "suspicion; doubt" }
+    ]
+  },
+  {
+    "id": "preg_15",
+    "sentence": "出産後に産後うつになる人も少なくありません。",
+    "sentence_furigana": "<ruby>出産後<rt>しゅっさんご</rt></ruby>に<ruby>産後<rt>さんご</rt></ruby>うつになる<ruby>人<rt>ひと</rt></ruby>も<ruby>少<rt>すく</rt></ruby>なくありません。",
+    "sentence_en": "There are quite a few people who develop postpartum depression after giving birth.",
+    "word_kanji": "産後",
+    "word_furigana": "さんご",
+    "word_en": "postpartum; after childbirth",
+    "extra_kanji": [
+      { "kanji": "出産後", "furigana": "しゅっさんご", "en": "after delivery" },
+      { "kanji": "少ない", "furigana": "すくない", "en": "few; little" }
+    ]
+  },
+  {
+    "id": "preg_16",
+    "sentence": "羊水の量が少ないと言われて、入院することになりました。",
+    "sentence_furigana": "<ruby>羊水<rt>ようすい</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないと<ruby>言<rt>い</rt></ruby>われて、<ruby>入院<rt>にゅういん</rt></ruby>することになりました。",
+    "sentence_en": "I was told the amniotic fluid was low, so I ended up being hospitalized.",
+    "word_kanji": "羊水",
+    "word_furigana": "ようすい",
+    "word_en": "amniotic fluid",
+    "extra_kanji": [
+      { "kanji": "量", "furigana": "りょう", "en": "amount; quantity" },
+      { "kanji": "少ない", "furigana": "すくない", "en": "little; few" },
+      { "kanji": "入院", "furigana": "にゅういん", "en": "hospitalization" }
+    ]
+  },
+  {
+    "id": "preg_17",
+    "sentence": "胎動を感じるようになったのは妊娠五ヶ月ごろでした。",
+    "sentence_furigana": "<ruby>胎動<rt>たいどう</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じるようになったのは<ruby>妊娠<rt>にんしん</rt></ruby><ruby>五<rt>ご</rt></ruby>ヶ<ruby>月<rt>げつ</rt></ruby>ごろでした。",
+    "sentence_en": "I started feeling fetal movement around the fifth month of pregnancy.",
+    "word_kanji": "胎動",
+    "word_furigana": "たいどう",
+    "word_en": "fetal movement; quickening",
+    "extra_kanji": [
+      { "kanji": "感じる", "furigana": "かんじる", "en": "to feel; to sense" },
+      { "kanji": "妊娠", "furigana": "にんしん", "en": "pregnancy" }
+    ]
+  },
+  {
+    "id": "preg_18",
+    "sentence": "産後は授乳で夜中に何度も起きなければなりません。",
+    "sentence_furigana": "<ruby>産後<rt>さんご</rt></ruby>は<ruby>授乳<rt>じゅにゅう</rt></ruby>で<ruby>夜中<rt>よなか</rt></ruby>に<ruby>何度<rt>なんど</rt></ruby>も<ruby>起<rt>お</rt></ruby>きなければなりません。",
+    "sentence_en": "After birth, you have to wake up multiple times during the night for breastfeeding.",
+    "word_kanji": "授乳",
+    "word_furigana": "じゅにゅう",
+    "word_en": "breastfeeding; nursing",
+    "extra_kanji": [
+      { "kanji": "産後", "furigana": "さんご", "en": "after childbirth" },
+      { "kanji": "夜中", "furigana": "よなか", "en": "middle of the night" },
+      { "kanji": "何度", "furigana": "なんど", "en": "how many times; repeatedly" },
+      { "kanji": "起きる", "furigana": "おきる", "en": "to wake up; to get up" }
+    ]
+  },
+  {
+    "id": "preg_19",
+    "sentence": "赤ちゃんのへその緒は自然に取れるまで大切に保管します。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんのへその<ruby>緒<rt>お</rt></ruby>は<ruby>自然<rt>しぜん</rt></ruby>に<ruby>取<rt>と</rt></ruby>れるまで<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>保管<rt>ほかん</rt></ruby>します。",
+    "sentence_en": "The baby's umbilical cord is carefully stored until it falls off naturally.",
+    "word_kanji": "へその緒",
+    "word_furigana": "へそのお",
+    "word_en": "umbilical cord",
+    "extra_kanji": [
+      { "kanji": "自然", "furigana": "しぜん", "en": "natural; naturally" },
+      { "kanji": "取れる", "furigana": "とれる", "en": "to come off; to fall off" },
+      { "kanji": "大切", "furigana": "たいせつ", "en": "important; precious" },
+      { "kanji": "保管", "furigana": "ほかん", "en": "storage; keeping safe" }
+    ]
+  },
+  {
+    "id": "preg_20",
+    "sentence": "出産前に無痛分娩を希望するか医師に相談しました。",
+    "sentence_furigana": "<ruby>出産前<rt>しゅっさんまえ</rt></ruby>に<ruby>無痛分娩<rt>むつうぶんべん</rt></ruby>を<ruby>希望<rt>きぼう</rt></ruby>するか<ruby>医師<rt>いし</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>しました。",
+    "sentence_en": "Before giving birth, I consulted with the doctor about whether I wanted an epidural delivery.",
+    "word_kanji": "無痛分娩",
+    "word_furigana": "むつうぶんべん",
+    "word_en": "epidural delivery; painless childbirth",
+    "extra_kanji": [
+      { "kanji": "出産前", "furigana": "しゅっさんまえ", "en": "before delivery" },
+      { "kanji": "希望", "furigana": "きぼう", "en": "hope; wish; preference" },
+      { "kanji": "医師", "furigana": "いし", "en": "doctor; physician" },
+      { "kanji": "相談", "furigana": "そうだん", "en": "consultation; discussion" }
+    ]
+  },
+  {
+    "id": "preg_21",
+    "sentence": "妊娠糖尿病の検査のため、ブドウ糖を飲みました。",
+    "sentence_furigana": "<ruby>妊娠糖尿病<rt>にんしんとうにょうびょう</rt></ruby>の<ruby>検査<rt>けんさ</rt></ruby>のため、ブドウ<ruby>糖<rt>とう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みました。",
+    "sentence_en": "I drank glucose as part of the gestational diabetes screening.",
+    "word_kanji": "妊娠糖尿病",
+    "word_furigana": "にんしんとうにょうびょう",
+    "word_en": "gestational diabetes",
+    "extra_kanji": [
+      { "kanji": "検査", "furigana": "けんさ", "en": "examination; test" },
+      { "kanji": "飲む", "furigana": "のむ", "en": "to drink" }
+    ]
+  },
+  {
+    "id": "preg_22",
+    "sentence": "赤ちゃんの体重が少ないので、低出生体重児と診断されました。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないので、<ruby>低出生体重児<rt>ていしゅっせいたいじゅうじ</rt></ruby>と<ruby>診断<rt>しんだん</rt></ruby>されました。",
+    "sentence_en": "Since the baby's weight was low, it was diagnosed as a low birth weight baby.",
+    "word_kanji": "体重",
+    "word_furigana": "たいじゅう",
+    "word_en": "body weight",
+    "extra_kanji": [
+      { "kanji": "少ない", "furigana": "すくない", "en": "low; little" },
+      { "kanji": "診断", "furigana": "しんだん", "en": "diagnosis" }
+    ]
+  },
+  {
+    "id": "preg_23",
+    "sentence": "出産後、助産師さんが母乳の飲ませ方を教えてくれました。",
+    "sentence_furigana": "<ruby>出産後<rt>しゅっさんご</rt></ruby>、<ruby>助産師<rt>じょさんし</rt></ruby>さんが<ruby>母乳<rt>ぼにゅう</rt></ruby>の<ruby>飲<rt>の</rt></ruby>ませ<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてくれました。",
+    "sentence_en": "After delivery, the midwife showed me how to breastfeed.",
+    "word_kanji": "助産師",
+    "word_furigana": "じょさんし",
+    "word_en": "midwife",
+    "extra_kanji": [
+      { "kanji": "出産後", "furigana": "しゅっさんご", "en": "after delivery" },
+      { "kanji": "母乳", "furigana": "ぼにゅう", "en": "breast milk" },
+      { "kanji": "教える", "furigana": "おしえる", "en": "to teach; to show" }
+    ]
+  },
+  {
+    "id": "preg_24",
+    "sentence": "父親学級に参加して、沐浴の練習をしました。",
+    "sentence_furigana": "<ruby>父親学級<rt>ちちおやがっきゅう</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>して、<ruby>沐浴<rt>もくよく</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>をしました。",
+    "sentence_en": "I attended a fathers' class and practiced giving a baby bath.",
+    "word_kanji": "沐浴",
+    "word_furigana": "もくよく",
+    "word_en": "baby bath; bathing a newborn",
+    "extra_kanji": [
+      { "kanji": "父親学級", "furigana": "ちちおやがっきゅう", "en": "fathers' class; paternity class" },
+      { "kanji": "参加", "furigana": "さんか", "en": "participation" },
+      { "kanji": "練習", "furigana": "れんしゅう", "en": "practice; exercise" }
+    ]
+  },
+  {
+    "id": "preg_25",
+    "sentence": "妊娠中は定期的に尿検査と血液検査を受けます。",
+    "sentence_furigana": "<ruby>妊娠中<rt>にんしんちゅう</rt></ruby>は<ruby>定期的<rt>ていきてき</rt></ruby>に<ruby>尿検査<rt>にょうけんさ</rt></ruby>と<ruby>血液検査<rt>けつえきけんさ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けます。",
+    "sentence_en": "During pregnancy, urine tests and blood tests are done regularly.",
+    "word_kanji": "血液検査",
+    "word_furigana": "けつえきけんさ",
+    "word_en": "blood test",
+    "extra_kanji": [
+      { "kanji": "妊娠中", "furigana": "にんしんちゅう", "en": "during pregnancy" },
+      { "kanji": "定期的", "furigana": "ていきてき", "en": "regular; periodic" },
+      { "kanji": "尿検査", "furigana": "にょうけんさ", "en": "urine test" },
+      { "kanji": "受ける", "furigana": "うける", "en": "to undergo; to receive" }
+    ]
+  },
+  {
+    "id": "preg_26",
+    "sentence": "先生に「胎盤が低い位置にあります」と言われました。",
+    "sentence_furigana": "<ruby>先生<rt>せんせい</rt></ruby>に「<ruby>胎盤<rt>たいばん</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>い<ruby>位置<rt>いち</rt></ruby>にあります」と<ruby>言<rt>い</rt></ruby>われました。",
+    "sentence_en": "The doctor told me, \"The placenta is in a low position.\"",
+    "word_kanji": "胎盤",
+    "word_furigana": "たいばん",
+    "word_en": "placenta",
+    "extra_kanji": [
+      { "kanji": "先生", "furigana": "せんせい", "en": "doctor; teacher" },
+      { "kanji": "低い", "furigana": "ひくい", "en": "low" },
+      { "kanji": "位置", "furigana": "いち", "en": "position; location" }
+    ]
+  },
+  {
+    "id": "preg_27",
+    "sentence": "赤ちゃんが逆子の場合、帝王切開になることが多いです。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>逆子<rt>さかご</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>、<ruby>帝王切開<rt>ていおうせっかい</rt></ruby>になることが<ruby>多<rt>おお</rt></ruby>いです。",
+    "sentence_en": "When a baby is in a breech position, a caesarean section is often necessary.",
+    "word_kanji": "逆子",
+    "word_furigana": "さかご",
+    "word_en": "breech baby; breech position",
+    "extra_kanji": [
+      { "kanji": "場合", "furigana": "ばあい", "en": "case; situation" },
+      { "kanji": "帝王切開", "furigana": "ていおうせっかい", "en": "caesarean section" },
+      { "kanji": "多い", "furigana": "おおい", "en": "many; frequent" }
+    ]
+  },
+  {
+    "id": "preg_28",
+    "sentence": "産前産後休業を取得して、出産に備えました。",
+    "sentence_furigana": "<ruby>産前産後休業<rt>さんぜんさんごきゅうぎょう</rt></ruby>を<ruby>取得<rt>しゅとく</rt></ruby>して、<ruby>出産<rt>しゅっさん</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えました。",
+    "sentence_en": "I took maternity leave to prepare for giving birth.",
+    "word_kanji": "産前産後休業",
+    "word_furigana": "さんぜんさんごきゅうぎょう",
+    "word_en": "maternity leave (before and after birth)",
+    "extra_kanji": [
+      { "kanji": "取得", "furigana": "しゅとく", "en": "acquisition; obtaining" },
+      { "kanji": "出産", "furigana": "しゅっさん", "en": "childbirth; delivery" },
+      { "kanji": "備える", "furigana": "そなえる", "en": "to prepare for" }
+    ]
+  },
+  {
+    "id": "preg_29",
+    "sentence": "出産後、夫が育児休業を取ってくれてとても助かりました。",
+    "sentence_furigana": "<ruby>出産後<rt>しゅっさんご</rt></ruby>、<ruby>夫<rt>おっと</rt></ruby>が<ruby>育児休業<rt>いくじきゅうぎょう</rt></ruby>を<ruby>取<rt>と</rt></ruby>ってくれてとても<ruby>助<rt>たす</rt></ruby>かりました。",
+    "sentence_en": "After giving birth, it was a great help that my husband took paternity leave.",
+    "word_kanji": "育児休業",
+    "word_furigana": "いくじきゅうぎょう",
+    "word_en": "parental leave; childcare leave",
+    "extra_kanji": [
+      { "kanji": "出産後", "furigana": "しゅっさんご", "en": "after delivery" },
+      { "kanji": "夫", "furigana": "おっと", "en": "husband" },
+      { "kanji": "助かる", "furigana": "たすかる", "en": "to be helped; to be saved" }
+    ]
+  },
+  {
+    "id": "preg_30",
+    "sentence": "新生児のうちはおむつ替えが一日に十回以上あります。",
+    "sentence_furigana": "<ruby>新生児<rt>しんせいじ</rt></ruby>のうちはおむつ<ruby>替<rt>が</rt></ruby>えが<ruby>一日<rt>いちにち</rt></ruby>に<ruby>十回以上<rt>じゅっかいいじょう</rt></ruby>あります。",
+    "sentence_en": "While still a newborn, diaper changes happen more than ten times a day.",
+    "word_kanji": "新生児",
+    "word_furigana": "しんせいじ",
+    "word_en": "newborn; neonate",
+    "extra_kanji": [
+      { "kanji": "一日", "furigana": "いちにち", "en": "one day" },
+      { "kanji": "十回以上", "furigana": "じゅっかいいじょう", "en": "ten times or more" }
+    ]
+  },
+  {
+    "id": "preg_31",
+    "sentence": "不妊治療の末、ようやく妊娠が確認できました。",
+    "sentence_furigana": "<ruby>不妊治療<rt>ふにんちりょう</rt></ruby>の<ruby>末<rt>すえ</rt></ruby>、ようやく<ruby>妊娠<rt>にんしん</rt></ruby>が<ruby>確認<rt>かくにん</rt></ruby>できました。",
+    "sentence_en": "After fertility treatment, we were finally able to confirm a pregnancy.",
+    "word_kanji": "不妊治療",
+    "word_furigana": "ふにんちりょう",
+    "word_en": "fertility treatment; infertility treatment",
+    "extra_kanji": [
+      { "kanji": "末", "furigana": "すえ", "en": "after; at the end of" },
+      { "kanji": "妊娠", "furigana": "にんしん", "en": "pregnancy" },
+      { "kanji": "確認", "furigana": "かくにん", "en": "confirmation" }
+    ]
+  },
+  {
+    "id": "preg_32",
+    "sentence": "子宮口が開いてきたので、そろそろ入院の準備をしてください。",
+    "sentence_furigana": "<ruby>子宮口<rt>しきゅうこう</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>いてきたので、そろそろ<ruby>入院<rt>にゅういん</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>をしてください。",
+    "sentence_en": "Since the cervix has started to open, please start preparing for hospitalization.",
+    "word_kanji": "子宮口",
+    "word_furigana": "しきゅうこう",
+    "word_en": "cervix; cervical opening",
+    "extra_kanji": [
+      { "kanji": "開く", "furigana": "ひらく", "en": "to open" },
+      { "kanji": "入院", "furigana": "にゅういん", "en": "hospitalization; admission" },
+      { "kanji": "準備", "furigana": "じゅんび", "en": "preparation; readiness" }
+    ]
+  },
+  {
+    "id": "preg_33",
+    "sentence": "妊婦健診の結果を母子手帳に記録してもらいます。",
+    "sentence_furigana": "<ruby>妊婦健診<rt>にんぷけんしん</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>を<ruby>母子手帳<rt>ぼしてちょう</rt></ruby>に<ruby>記録<rt>きろく</rt></ruby>してもらいます。",
+    "sentence_en": "The results of the prenatal checkup are recorded in the maternity passbook.",
+    "word_kanji": "妊婦健診",
+    "word_furigana": "にんぷけんしん",
+    "word_en": "prenatal checkup; antenatal examination",
+    "extra_kanji": [
+      { "kanji": "結果", "furigana": "けっか", "en": "result; outcome" },
+      { "kanji": "母子手帳", "furigana": "ぼしてちょう", "en": "maternity passbook" },
+      { "kanji": "記録", "furigana": "きろく", "en": "record; note" }
+    ]
+  },
+  {
+    "id": "preg_34",
+    "sentence": "出産後も定期的な乳幼児健診があります。",
+    "sentence_furigana": "<ruby>出産後<rt>しゅっさんご</rt></ruby>も<ruby>定期的<rt>ていきてき</rt></ruby>な<ruby>乳幼児健診<rt>にゅうようじけんしん</rt></ruby>があります。",
+    "sentence_en": "Even after birth, there are regular infant health checkups.",
+    "word_kanji": "乳幼児健診",
+    "word_furigana": "にゅうようじけんしん",
+    "word_en": "infant health checkup; well-baby visit",
+    "extra_kanji": [
+      { "kanji": "出産後", "furigana": "しゅっさんご", "en": "after delivery" },
+      { "kanji": "定期的", "furigana": "ていきてき", "en": "regular; periodic" }
+    ]
+  },
+  {
+    "id": "preg_35",
+    "sentence": "赤ちゃんは生後三日目に黄疸が出ましたが、すぐに治りました。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんは<ruby>生後<rt>せいご</rt></ruby><ruby>三日目<rt>みっかめ</rt></ruby>に<ruby>黄疸<rt>おうだん</rt></ruby>が<ruby>出<rt>で</rt></ruby>ましたが、すぐに<ruby>治<rt>なお</rt></ruby>りました。",
+    "sentence_en": "The baby developed jaundice on the third day after birth, but it cleared up quickly.",
+    "word_kanji": "黄疸",
+    "word_furigana": "おうだん",
+    "word_en": "jaundice",
+    "extra_kanji": [
+      { "kanji": "生後", "furigana": "せいご", "en": "after birth; postnatal" },
+      { "kanji": "三日目", "furigana": "みっかめ", "en": "third day" },
+      { "kanji": "治る", "furigana": "なおる", "en": "to heal; to recover" }
+    ]
+  },
+  {
+    "id": "preg_36",
+    "sentence": "破水したので、急いで産院に向かいました。",
+    "sentence_furigana": "<ruby>破水<rt>はすい</rt></ruby>したので、<ruby>急<rt>いそ</rt></ruby>いで<ruby>産院<rt>さんいん</rt></ruby>に<ruby>向<rt>む</rt></ruby>かいました。",
+    "sentence_en": "My water broke, so I hurried to the maternity clinic.",
+    "word_kanji": "破水",
+    "word_furigana": "はすい",
+    "word_en": "water breaking; rupture of membranes",
+    "extra_kanji": [
+      { "kanji": "急ぐ", "furigana": "いそぐ", "en": "to hurry; to rush" },
+      { "kanji": "産院", "furigana": "さんいん", "en": "maternity clinic; birth center" },
+      { "kanji": "向かう", "furigana": "むかう", "en": "to head toward; to go to" }
+    ]
+  },
+  {
+    "id": "preg_37",
+    "sentence": "夫は立会い出産を希望していましたが、間に合いませんでした。",
+    "sentence_furigana": "<ruby>夫<rt>おっと</rt></ruby>は<ruby>立会い出産<rt>たちあいしゅっさん</rt></ruby>を<ruby>希望<rt>きぼう</rt></ruby>していましたが、<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いませんでした。",
+    "sentence_en": "My husband had hoped to be present at the birth, but didn't make it in time.",
+    "word_kanji": "立会い出産",
+    "word_furigana": "たちあいしゅっさん",
+    "word_en": "partner-assisted birth; being present at delivery",
+    "extra_kanji": [
+      { "kanji": "夫", "furigana": "おっと", "en": "husband" },
+      { "kanji": "希望", "furigana": "きぼう", "en": "wish; hope" },
+      { "kanji": "間に合う", "furigana": "まにあう", "en": "to make it in time" }
+    ]
+  },
+  {
+    "id": "preg_38",
+    "sentence": "妊婦は電車の優先席を利用することができます。",
+    "sentence_furigana": "<ruby>妊婦<rt>にんぷ</rt></ruby>は<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>優先席<rt>ゆうせんせき</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>することができます。",
+    "sentence_en": "Pregnant women can use priority seats on the train.",
+    "word_kanji": "妊婦",
+    "word_furigana": "にんぷ",
+    "word_en": "pregnant woman",
+    "extra_kanji": [
+      { "kanji": "電車", "furigana": "でんしゃ", "en": "train" },
+      { "kanji": "優先席", "furigana": "ゆうせんせき", "en": "priority seat" },
+      { "kanji": "利用", "furigana": "りよう", "en": "use; utilization" }
+    ]
+  },
+  {
+    "id": "preg_39",
+    "sentence": "切迫早産のため、安静にしているように言われました。",
+    "sentence_furigana": "<ruby>切迫早産<rt>せっぱくそうざん</rt></ruby>のため、<ruby>安静<rt>あんせい</rt></ruby>にしているように<ruby>言<rt>い</rt></ruby>われました。",
+    "sentence_en": "I was told to stay on bed rest due to threatened preterm labor.",
+    "word_kanji": "切迫早産",
+    "word_furigana": "せっぱくそうざん",
+    "word_en": "threatened preterm labor; risk of premature birth",
+    "extra_kanji": [
+      { "kanji": "安静", "furigana": "あんせい", "en": "rest; bed rest" }
+    ]
+  },
+  {
+    "id": "preg_40",
+    "sentence": "出産後一ヶ月健診で、赤ちゃんの成長を確認しました。",
+    "sentence_furigana": "<ruby>出産後<rt>しゅっさんご</rt></ruby><ruby>一ヶ月健診<rt>いっかげつけんしん</rt></ruby>で、<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>成長<rt>せいちょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>しました。",
+    "sentence_en": "At the one-month checkup after birth, the baby's growth was confirmed.",
+    "word_kanji": "成長",
+    "word_furigana": "せいちょう",
+    "word_en": "growth; development",
+    "extra_kanji": [
+      { "kanji": "出産後", "furigana": "しゅっさんご", "en": "after delivery" },
+      { "kanji": "一ヶ月健診", "furigana": "いっかげつけんしん", "en": "one-month checkup" },
+      { "kanji": "確認", "furigana": "かくにん", "en": "confirmation; verification" }
+    ]
+  },
+  {
+    "id": "preg_41",
+    "sentence": "お腹が張るときは横になって休んでください。",
+    "sentence_furigana": "お<ruby>腹<rt>なか</rt></ruby>が<ruby>張<rt>は</rt></ruby>るときは<ruby>横<rt>よこ</rt></ruby>になって<ruby>休<rt>やす</rt></ruby>んでください。",
+    "sentence_en": "When your belly tightens, please lie down and rest.",
+    "word_kanji": "お腹が張る",
+    "word_furigana": "おなかがはる",
+    "word_en": "belly tightening; Braxton Hicks; uterine tension",
+    "extra_kanji": [
+      { "kanji": "横になる", "furigana": "よこになる", "en": "to lie down" },
+      { "kanji": "休む", "furigana": "やすむ", "en": "to rest" }
+    ]
+  },
+  {
+    "id": "preg_42",
+    "sentence": "赤ちゃんの首が据わったら、縦抱きができるようになります。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>首<rt>くび</rt></ruby>が<ruby>据<rt>す</rt></ruby>わったら、<ruby>縦抱<rt>たてだ</rt></ruby>きができるようになります。",
+    "sentence_en": "Once the baby can hold its head up, you'll be able to carry it upright.",
+    "word_kanji": "首が据わる",
+    "word_furigana": "くびがすわる",
+    "word_en": "baby gaining head control; neck becoming steady",
+    "extra_kanji": [
+      { "kanji": "首", "furigana": "くび", "en": "neck; head" },
+      { "kanji": "縦抱き", "furigana": "たてだき", "en": "holding upright; vertical hold" }
+    ]
+  },
+  {
+    "id": "preg_43",
+    "sentence": "分娩室では助産師と医師が立ち会ってくれます。",
+    "sentence_furigana": "<ruby>分娩室<rt>ぶんべんしつ</rt></ruby>では<ruby>助産師<rt>じょさんし</rt></ruby>と<ruby>医師<rt>いし</rt></ruby>が<ruby>立<rt>た</rt></ruby>ち<ruby>会<rt>あ</rt></ruby>ってくれます。",
+    "sentence_en": "In the delivery room, a midwife and doctor will be present.",
+    "word_kanji": "分娩室",
+    "word_furigana": "ぶんべんしつ",
+    "word_en": "delivery room; labor room",
+    "extra_kanji": [
+      { "kanji": "助産師", "furigana": "じょさんし", "en": "midwife" },
+      { "kanji": "医師", "furigana": "いし", "en": "doctor; physician" },
+      { "kanji": "立ち会う", "furigana": "たちあう", "en": "to be present; to attend" }
+    ]
+  },
+  {
+    "id": "preg_44",
+    "sentence": "産後の体力回復のために、無理をしないことが大切です。",
+    "sentence_furigana": "<ruby>産後<rt>さんご</rt></ruby>の<ruby>体力<rt>たいりょく</rt></ruby><ruby>回復<rt>かいふく</rt></ruby>のために、<ruby>無理<rt>むり</rt></ruby>をしないことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
+    "sentence_en": "For postpartum physical recovery, it is important not to overdo things.",
+    "word_kanji": "回復",
+    "word_furigana": "かいふく",
+    "word_en": "recovery; restoration",
+    "extra_kanji": [
+      { "kanji": "産後", "furigana": "さんご", "en": "postpartum; after childbirth" },
+      { "kanji": "体力", "furigana": "たいりょく", "en": "physical strength; stamina" },
+      { "kanji": "無理", "furigana": "むり", "en": "overdoing it; strain" },
+      { "kanji": "大切", "furigana": "たいせつ", "en": "important; precious" }
+    ]
+  },
+  {
+    "id": "preg_45",
+    "sentence": "赤ちゃんにおっぱいをあげると、子宮が収縮するのを感じます。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんにおっぱいをあげると、<ruby>子宮<rt>しきゅう</rt></ruby>が<ruby>収縮<rt>しゅうしゅく</rt></ruby>するのを<ruby>感<rt>かん</rt></ruby>じます。",
+    "sentence_en": "When I breastfeed the baby, I can feel my uterus contracting.",
+    "word_kanji": "子宮",
+    "word_furigana": "しきゅう",
+    "word_en": "uterus; womb",
+    "extra_kanji": [
+      { "kanji": "収縮", "furigana": "しゅうしゅく", "en": "contraction; constriction" },
+      { "kanji": "感じる", "furigana": "かんじる", "en": "to feel; to sense" }
+    ]
+  },
+  {
+    "id": "preg_46",
+    "sentence": "妊娠中はカフェインの摂取量を減らすように言われています。",
+    "sentence_furigana": "<ruby>妊娠中<rt>にんしんちゅう</rt></ruby>はカフェインの<ruby>摂取量<rt>せっしゅりょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らすように<ruby>言<rt>い</rt></ruby>われています。",
+    "sentence_en": "During pregnancy, you are told to reduce your caffeine intake.",
+    "word_kanji": "摂取量",
+    "word_furigana": "せっしゅりょう",
+    "word_en": "intake amount; consumption level",
+    "extra_kanji": [
+      { "kanji": "妊娠中", "furigana": "にんしんちゅう", "en": "during pregnancy" },
+      { "kanji": "減らす", "furigana": "へらす", "en": "to reduce; to decrease" }
+    ]
+  },
+  {
+    "id": "preg_47",
+    "sentence": "赤ちゃんの名前を出生届に記入して役所に提出しました。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>名前<rt>なまえ</rt></ruby>を<ruby>出生届<rt>しゅっせいとどけ</rt></ruby>に<ruby>記入<rt>きにゅう</rt></ruby>して<ruby>役所<rt>やくしょ</rt></ruby>に<ruby>提出<rt>ていしゅつ</rt></ruby>しました。",
+    "sentence_en": "I filled in the baby's name on the birth registration form and submitted it to the city hall.",
+    "word_kanji": "出生届",
+    "word_furigana": "しゅっせいとどけ",
+    "word_en": "birth registration; birth notification form",
+    "extra_kanji": [
+      { "kanji": "名前", "furigana": "なまえ", "en": "name" },
+      { "kanji": "記入", "furigana": "きにゅう", "en": "fill in; entry" },
+      { "kanji": "役所", "furigana": "やくしょ", "en": "municipal office; city hall" },
+      { "kanji": "提出", "furigana": "ていしゅつ", "en": "submission; filing" }
+    ]
+  },
+  {
+    "id": "preg_48",
+    "sentence": "妊娠中は免疫力が下がるので、感染症に注意が必要です。",
+    "sentence_furigana": "<ruby>妊娠中<rt>にんしんちゅう</rt></ruby>は<ruby>免疫力<rt>めんえきりょく</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がるので、<ruby>感染症<rt>かんせんしょう</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+    "sentence_en": "During pregnancy, since immunity decreases, you need to be careful about infections.",
+    "word_kanji": "免疫力",
+    "word_furigana": "めんえきりょく",
+    "word_en": "immune strength; immunity",
+    "extra_kanji": [
+      { "kanji": "妊娠中", "furigana": "にんしんちゅう", "en": "during pregnancy" },
+      { "kanji": "下がる", "furigana": "さがる", "en": "to decrease; to drop" },
+      { "kanji": "感染症", "furigana": "かんせんしょう", "en": "infectious disease" },
+      { "kanji": "注意", "furigana": "ちゅうい", "en": "caution; attention" },
+      { "kanji": "必要", "furigana": "ひつよう", "en": "necessary; essential" }
+    ]
+  },
+  {
+    "id": "preg_49",
+    "sentence": "妊娠初期に流産のリスクが最も高いと言われています。",
+    "sentence_furigana": "<ruby>妊娠初期<rt>にんしんしょき</rt></ruby>に<ruby>流産<rt>りゅうざん</rt></ruby>のリスクが<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>いと<ruby>言<rt>い</rt></ruby>われています。",
+    "sentence_en": "It is said that the risk of miscarriage is highest in early pregnancy.",
+    "word_kanji": "流産",
+    "word_furigana": "りゅうざん",
+    "word_en": "miscarriage; spontaneous abortion",
+    "extra_kanji": [
+      { "kanji": "妊娠初期", "furigana": "にんしんしょき", "en": "early pregnancy; first trimester" },
+      { "kanji": "最も", "furigana": "もっとも", "en": "most; extremely" },
+      { "kanji": "高い", "furigana": "たかい", "en": "high" }
+    ]
+  },
+  {
+    "id": "preg_50",
+    "sentence": "父親も育児に積極的に参加することが大切だと思います。",
+    "sentence_furigana": "<ruby>父親<rt>ちちおや</rt></ruby>も<ruby>育児<rt>いくじ</rt></ruby>に<ruby>積極的<rt>せっきょくてき</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>することが<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。",
+    "sentence_en": "I think it is important for fathers to actively participate in childcare too.",
+    "word_kanji": "育児",
+    "word_furigana": "いくじ",
+    "word_en": "childcare; child-rearing",
+    "extra_kanji": [
+      { "kanji": "父親", "furigana": "ちちおや", "en": "father" },
+      { "kanji": "積極的", "furigana": "せっきょくてき", "en": "proactive; active; positive" },
+      { "kanji": "参加", "furigana": "さんか", "en": "participation" },
+      { "kanji": "大切", "furigana": "たいせつ", "en": "important; precious" }
+    ]
+  },
+  {
+    "id": "preg_51",
+    "sentence": "妊娠検査薬で陽性反応が出たので、すぐに病院へ行きました。",
+    "sentence_furigana": "<ruby>妊娠検査薬<rt>にんしんけんさやく</rt></ruby>で<ruby>陽性反応<rt>ようせいはんのう</rt></ruby>が<ruby>出<rt>で</rt></ruby>たので、すぐに<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
+    "sentence_en": "When the pregnancy test showed a positive result, I went to the hospital right away.",
+    "word_kanji": "妊娠検査薬",
+    "word_furigana": "にんしんけんさやく",
+    "word_en": "pregnancy test kit",
+    "extra_kanji": [
+      { "kanji": "陽性反応", "furigana": "ようせいはんのう", "en": "positive result" },
+      { "kanji": "病院", "furigana": "びょういん", "en": "hospital" },
+      { "kanji": "行く", "furigana": "いく", "en": "to go" }
+    ]
+  },
+  {
+    "id": "preg_52",
+    "sentence": "里帰り出産のため、実家の近くの産婦人科を予約しました。",
+    "sentence_furigana": "<ruby>里帰り出産<rt>さとがえりしゅっさん</rt></ruby>のため、<ruby>実家<rt>じっか</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>産婦人科<rt>さんふじんか</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>しました。",
+    "sentence_en": "For my hometown birth, I booked an obstetrics clinic near my parents' home.",
+    "word_kanji": "里帰り出産",
+    "word_furigana": "さとがえりしゅっさん",
+    "word_en": "giving birth at one's parents' home",
+    "extra_kanji": [
+      { "kanji": "実家", "furigana": "じっか", "en": "parents' home; family home" },
+      { "kanji": "産婦人科", "furigana": "さんふじんか", "en": "obstetrics clinic" },
+      { "kanji": "予約", "furigana": "よやく", "en": "reservation; booking" }
+    ]
+  },
+  {
+    "id": "preg_53",
+    "sentence": "妊娠中は貧血になりやすいので、鉄分を意識して摂っています。",
+    "sentence_furigana": "<ruby>妊娠中<rt>にんしんちゅう</rt></ruby>は<ruby>貧血<rt>ひんけつ</rt></ruby>になりやすいので、<ruby>鉄分<rt>てつぶん</rt></ruby>を<ruby>意識<rt>いしき</rt></ruby>して<ruby>摂<rt>と</rt></ruby>っています。",
+    "sentence_en": "Since anemia is easy to develop during pregnancy, I am consciously taking in iron.",
+    "word_kanji": "貧血",
+    "word_furigana": "ひんけつ",
+    "word_en": "anemia",
+    "extra_kanji": [
+      { "kanji": "妊娠中", "furigana": "にんしんちゅう", "en": "during pregnancy" },
+      { "kanji": "鉄分", "furigana": "てつぶん", "en": "iron (nutrient)" },
+      { "kanji": "意識", "furigana": "いしき", "en": "awareness; consciousness" },
+      { "kanji": "摂る", "furigana": "とる", "en": "to take in; to consume" }
+    ]
+  },
+  {
+    "id": "preg_54",
+    "sentence": "産後に妊娠線が残りましたが、徐々に薄くなっています。",
+    "sentence_furigana": "<ruby>産後<rt>さんご</rt></ruby>に<ruby>妊娠線<rt>にんしんせん</rt></ruby>が<ruby>残<rt>のこ</rt></ruby>りましたが、<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>薄<rt>うす</rt></ruby>くなっています。",
+    "sentence_en": "Stretch marks remained after birth, but they are gradually fading.",
+    "word_kanji": "妊娠線",
+    "word_furigana": "にんしんせん",
+    "word_en": "stretch marks (from pregnancy)",
+    "extra_kanji": [
+      { "kanji": "産後", "furigana": "さんご", "en": "postpartum" },
+      { "kanji": "残る", "furigana": "のこる", "en": "to remain" },
+      { "kanji": "徐々に", "furigana": "じょじょに", "en": "gradually; little by little" },
+      { "kanji": "薄い", "furigana": "うすい", "en": "faint; light; thin" }
+    ]
+  },
+  {
+    "id": "preg_55",
+    "sentence": "会陰切開の傷が痛くて、産後しばらく座るのが辛かった。",
+    "sentence_furigana": "<ruby>会陰切開<rt>えいんせっかい</rt></ruby>の<ruby>傷<rt>きず</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くて、<ruby>産後<rt>さんご</rt></ruby>しばらく<ruby>座<rt>すわ</rt></ruby>るのが<ruby>辛<rt>つら</rt></ruby>かった。",
+    "sentence_en": "The episiotomy wound was painful and sitting was difficult for a while after delivery.",
+    "word_kanji": "会陰切開",
+    "word_furigana": "えいんせっかい",
+    "word_en": "episiotomy",
+    "extra_kanji": [
+      { "kanji": "傷", "furigana": "きず", "en": "wound; injury" },
+      { "kanji": "痛い", "furigana": "いたい", "en": "painful" },
+      { "kanji": "産後", "furigana": "さんご", "en": "postpartum" },
+      { "kanji": "座る", "furigana": "すわる", "en": "to sit" },
+      { "kanji": "辛い", "furigana": "つらい", "en": "painful; difficult" }
+    ]
+  },
+  {
+    "id": "preg_56",
+    "sentence": "産後の抜け毛がひどくて、排水口がすぐに詰まってしまいます。",
+    "sentence_furigana": "<ruby>産後<rt>さんご</rt></ruby>の<ruby>抜<rt>ぬ</rt></ruby>け<ruby>毛<rt>げ</rt></ruby>がひどくて、<ruby>排水口<rt>はいすいこう</rt></ruby>がすぐに<ruby>詰<rt>つ</rt></ruby>まってしまいます。",
+    "sentence_en": "Postpartum hair loss is so bad that the drain gets clogged right away.",
+    "word_kanji": "抜け毛",
+    "word_furigana": "ぬけげ",
+    "word_en": "hair loss; falling hair",
+    "extra_kanji": [
+      { "kanji": "産後", "furigana": "さんご", "en": "postpartum" },
+      { "kanji": "排水口", "furigana": "はいすいこう", "en": "drain" },
+      { "kanji": "詰まる", "furigana": "つまる", "en": "to clog; to get blocked" }
+    ]
+  },
+  {
+    "id": "preg_57",
+    "sentence": "おっぱいが張って乳腺炎になりかけたので、よく搾乳しました。",
+    "sentence_furigana": "おっぱいが<ruby>張<rt>は</rt></ruby>って<ruby>乳腺炎<rt>にゅうせんえん</rt></ruby>になりかけたので、よく<ruby>搾乳<rt>さくにゅう</rt></ruby>しました。",
+    "sentence_en": "My breasts were engorged and I was on the verge of mastitis, so I pumped often.",
+    "word_kanji": "乳腺炎",
+    "word_furigana": "にゅうせんえん",
+    "word_en": "mastitis; breast inflammation",
+    "extra_kanji": [
+      { "kanji": "張る", "furigana": "はる", "en": "to become engorged; to swell" },
+      { "kanji": "搾乳", "furigana": "さくにゅう", "en": "milk expression; pumping breast milk" }
+    ]
+  },
+  {
+    "id": "preg_58",
+    "sentence": "赤ちゃんが夜泣きをして、毎晩なかなか眠れませんでした。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>夜泣<rt>よな</rt></ruby>きをして、<ruby>毎晩<rt>まいばん</rt></ruby>なかなか<ruby>眠<rt>ねむ</rt></ruby>れませんでした。",
+    "sentence_en": "The baby was crying at night and I couldn't sleep well every night.",
+    "word_kanji": "夜泣き",
+    "word_furigana": "よなき",
+    "word_en": "nighttime crying; baby crying at night",
+    "extra_kanji": [
+      { "kanji": "毎晩", "furigana": "まいばん", "en": "every night" },
+      { "kanji": "眠る", "furigana": "ねむる", "en": "to sleep" }
+    ]
+  },
+  {
+    "id": "preg_59",
+    "sentence": "初乳には免疫成分が多く含まれているので、大切にあげてください。",
+    "sentence_furigana": "<ruby>初乳<rt>しょにゅう</rt></ruby>には<ruby>免疫成分<rt>めんえきせいぶん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>く<ruby>含<rt>ふく</rt></ruby>まれているので、<ruby>大切<rt>たいせつ</rt></ruby>にあげてください。",
+    "sentence_en": "Colostrum contains many immune components, so please make sure to give it to your baby.",
+    "word_kanji": "初乳",
+    "word_furigana": "しょにゅう",
+    "word_en": "colostrum; first milk",
+    "extra_kanji": [
+      { "kanji": "免疫成分", "furigana": "めんえきせいぶん", "en": "immune components" },
+      { "kanji": "多い", "furigana": "おおい", "en": "many; much" },
+      { "kanji": "含む", "furigana": "ふくむ", "en": "to contain; to include" },
+      { "kanji": "大切に", "furigana": "たいせつに", "en": "carefully; with care" }
+    ]
+  },
+  {
+    "id": "preg_60",
+    "sentence": "多胎妊娠のため、通常より頻繁に検診を受けています。",
+    "sentence_furigana": "<ruby>多胎妊娠<rt>たたいにんしん</rt></ruby>のため、<ruby>通常<rt>つうじょう</rt></ruby>より<ruby>頻繁<rt>ひんぱん</rt></ruby>に<ruby>検診<rt>けんしん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けています。",
+    "sentence_en": "Because of multiple pregnancy, I am having checkups more frequently than usual.",
+    "word_kanji": "多胎妊娠",
+    "word_furigana": "たたいにんしん",
+    "word_en": "multiple pregnancy; carrying twins or more",
+    "extra_kanji": [
+      { "kanji": "通常", "furigana": "つうじょう", "en": "usual; normal" },
+      { "kanji": "頻繁", "furigana": "ひんぱん", "en": "frequent; often" },
+      { "kanji": "検診", "furigana": "けんしん", "en": "checkup; examination" },
+      { "kanji": "受ける", "furigana": "うける", "en": "to receive; to undergo" }
+    ]
+  },
+  {
+    "id": "preg_61",
+    "sentence": "双子の出産は早産になることが多いと説明されました。",
+    "sentence_furigana": "<ruby>双子<rt>ふたご</rt></ruby>の<ruby>出産<rt>しゅっさん</rt></ruby>は<ruby>早産<rt>そうざん</rt></ruby>になることが<ruby>多<rt>おお</rt></ruby>いと<ruby>説明<rt>せつめい</rt></ruby>されました。",
+    "sentence_en": "I was told that twin births often result in premature delivery.",
+    "word_kanji": "双子",
+    "word_furigana": "ふたご",
+    "word_en": "twins",
+    "extra_kanji": [
+      { "kanji": "出産", "furigana": "しゅっさん", "en": "childbirth; delivery" },
+      { "kanji": "早産", "furigana": "そうざん", "en": "premature birth" },
+      { "kanji": "多い", "furigana": "おおい", "en": "many; common" },
+      { "kanji": "説明", "furigana": "せつめい", "en": "explanation" }
+    ]
+  },
+  {
+    "id": "preg_62",
+    "sentence": "臍帯血を保存するかどうか、夫婦でよく話し合いました。",
+    "sentence_furigana": "<ruby>臍帯血<rt>さいたいけつ</rt></ruby>を<ruby>保存<rt>ほぞん</rt></ruby>するかどうか、<ruby>夫婦<rt>ふうふ</rt></ruby>でよく<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いました。",
+    "sentence_en": "My partner and I discussed at length whether to bank the cord blood.",
+    "word_kanji": "臍帯血",
+    "word_furigana": "さいたいけつ",
+    "word_en": "cord blood; umbilical cord blood",
+    "extra_kanji": [
+      { "kanji": "保存", "furigana": "ほぞん", "en": "preservation; storage" },
+      { "kanji": "夫婦", "furigana": "ふうふ", "en": "married couple; husband and wife" },
+      { "kanji": "話し合う", "furigana": "はなしあう", "en": "to discuss; to talk over" }
+    ]
+  },
+  {
+    "id": "preg_63",
+    "sentence": "出産育児一時金の申請をしたら、四十二万円が支給されました。",
+    "sentence_furigana": "<ruby>出産育児一時金<rt>しゅっさんいくじいちじきん</rt></ruby>の<ruby>申請<rt>しんせい</rt></ruby>をしたら、<ruby>四十二万円<rt>よんじゅうにまんえん</rt></ruby>が<ruby>支給<rt>しきゅう</rt></ruby>されました。",
+    "sentence_en": "After applying for the lump-sum childbirth allowance, 420,000 yen was paid out.",
+    "word_kanji": "出産育児一時金",
+    "word_furigana": "しゅっさんいくじいちじきん",
+    "word_en": "lump-sum childbirth and childcare allowance",
+    "extra_kanji": [
+      { "kanji": "申請", "furigana": "しんせい", "en": "application; request" },
+      { "kanji": "支給", "furigana": "しきゅう", "en": "payment; provision" }
+    ]
+  },
+  {
+    "id": "preg_64",
+    "sentence": "NICU（新生児集中治療室）で赤ちゃんは三週間お世話になりました。",
+    "sentence_furigana": "NICU（<ruby>新生児集中治療室<rt>しんせいじしゅうちゅうちりょうしつ</rt></ruby>）で<ruby>赤<rt>あか</rt></ruby>ちゃんは<ruby>三週間<rt>さんしゅうかん</rt></ruby>お<ruby>世話<rt>せわ</rt></ruby>になりました。",
+    "sentence_en": "The baby was cared for in the NICU (neonatal intensive care unit) for three weeks.",
+    "word_kanji": "新生児集中治療室",
+    "word_furigana": "しんせいじしゅうちゅうちりょうしつ",
+    "word_en": "NICU; neonatal intensive care unit",
+    "extra_kanji": [
+      { "kanji": "三週間", "furigana": "さんしゅうかん", "en": "three weeks" },
+      { "kanji": "世話になる", "furigana": "せわになる", "en": "to be cared for; to be looked after" }
+    ]
+  },
+  {
+    "id": "preg_65",
+    "sentence": "産褥期は無理をせず、できるだけ横になって過ごしましょう。",
+    "sentence_furigana": "<ruby>産褥期<rt>さんじょくき</rt></ruby>は<ruby>無理<rt>むり</rt></ruby>をせず、できるだけ<ruby>横<rt>よこ</rt></ruby>になって<ruby>過<rt>す</rt></ruby>ごしましょう。",
+    "sentence_en": "During the postpartum confinement period, don't push yourself and spend as much time lying down as possible.",
+    "word_kanji": "産褥期",
+    "word_furigana": "さんじょくき",
+    "word_en": "postpartum confinement period; lying-in period",
+    "extra_kanji": [
+      { "kanji": "無理", "furigana": "むり", "en": "overdoing it; strain" },
+      { "kanji": "横になる", "furigana": "よこになる", "en": "to lie down" },
+      { "kanji": "過ごす", "furigana": "すごす", "en": "to spend time; to get through" }
+    ]
+  },
+  {
+    "id": "preg_66",
+    "sentence": "哺乳瓶は使う前に必ず消毒してください。",
+    "sentence_furigana": "<ruby>哺乳瓶<rt>ほにゅうびん</rt></ruby>は<ruby>使<rt>つか</rt></ruby>う<ruby>前<rt>まえ</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ず<ruby>消毒<rt>しょうどく</rt></ruby>してください。",
+    "sentence_en": "Please make sure to sterilize the baby bottle before using it.",
+    "word_kanji": "哺乳瓶",
+    "word_furigana": "ほにゅうびん",
+    "word_en": "baby bottle; feeding bottle",
+    "extra_kanji": [
+      { "kanji": "使う", "furigana": "つかう", "en": "to use" },
+      { "kanji": "前", "furigana": "まえ", "en": "before" },
+      { "kanji": "必ず", "furigana": "かならず", "en": "without fail; always" },
+      { "kanji": "消毒", "furigana": "しょうどく", "en": "sterilization; disinfection" }
+    ]
+  },
+  {
+    "id": "preg_67",
+    "sentence": "離乳食は生後五〜六ヶ月ごろから始めるのが一般的です。",
+    "sentence_furigana": "<ruby>離乳食<rt>りにゅうしょく</rt></ruby>は<ruby>生後<rt>せいご</rt></ruby><ruby>五<rt>ご</rt></ruby>〜<ruby>六<rt>ろく</rt></ruby>ヶ<ruby>月<rt>げつ</rt></ruby>ごろから<ruby>始<rt>はじ</rt></ruby>めるのが<ruby>一般的<rt>いっぱんてき</rt></ruby>です。",
+    "sentence_en": "It is common to start baby food around five to six months after birth.",
+    "word_kanji": "離乳食",
+    "word_furigana": "りにゅうしょく",
+    "word_en": "baby food; weaning food",
+    "extra_kanji": [
+      { "kanji": "生後", "furigana": "せいご", "en": "after birth" },
+      { "kanji": "始める", "furigana": "はじめる", "en": "to start; to begin" },
+      { "kanji": "一般的", "furigana": "いっぱんてき", "en": "common; general; typical" }
+    ]
+  },
+  {
+    "id": "preg_68",
+    "sentence": "赤ちゃんを病院に連れて行くために、チャイルドシートを購入しました。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>病院<rt>びょういん</rt></ruby>に<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>くために、チャイルドシートを<ruby>購入<rt>こうにゅう</rt></ruby>しました。",
+    "sentence_en": "I bought a child car seat to take the baby to the hospital.",
+    "word_kanji": "購入",
+    "word_furigana": "こうにゅう",
+    "word_en": "purchase; buying",
+    "extra_kanji": [
+      { "kanji": "病院", "furigana": "びょういん", "en": "hospital" },
+      { "kanji": "連れて行く", "furigana": "つれていく", "en": "to take (someone) along" }
+    ]
+  },
+  {
+    "id": "preg_69",
+    "sentence": "赤ちゃんの予防接種スケジュールを小児科で確認しました。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>予防接種<rt>よぼうせっしゅ</rt></ruby>スケジュールを<ruby>小児科<rt>しょうにか</rt></ruby>で<ruby>確認<rt>かくにん</rt></ruby>しました。",
+    "sentence_en": "I confirmed the baby's vaccination schedule at the pediatrics clinic.",
+    "word_kanji": "予防接種",
+    "word_furigana": "よぼうせっしゅ",
+    "word_en": "vaccination; immunization",
+    "extra_kanji": [
+      { "kanji": "小児科", "furigana": "しょうにか", "en": "pediatrics; children's clinic" },
+      { "kanji": "確認", "furigana": "かくにん", "en": "confirmation; check" }
+    ]
+  },
+  {
+    "id": "preg_70",
+    "sentence": "内診で子宮の状態を確認してもらいました。",
+    "sentence_furigana": "<ruby>内診<rt>ないしん</rt></ruby>で<ruby>子宮<rt>しきゅう</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>してもらいました。",
+    "sentence_en": "I had an internal examination to check the condition of my uterus.",
+    "word_kanji": "内診",
+    "word_furigana": "ないしん",
+    "word_en": "internal (pelvic) examination",
+    "extra_kanji": [
+      { "kanji": "子宮", "furigana": "しきゅう", "en": "uterus; womb" },
+      { "kanji": "状態", "furigana": "じょうたい", "en": "condition; state" },
+      { "kanji": "確認", "furigana": "かくにん", "en": "confirmation; check" }
+    ]
+  },
+  {
+    "id": "preg_71",
+    "sentence": "産婦人科の問診票に症状や体調を詳しく記入しました。",
+    "sentence_furigana": "<ruby>産婦人科<rt>さんふじんか</rt></ruby>の<ruby>問診票<rt>もんしんひょう</rt></ruby>に<ruby>症状<rt>しょうじょう</rt></ruby>や<ruby>体調<rt>たいちょう</rt></ruby>を<ruby>詳<rt>くわ</rt></ruby>しく<ruby>記入<rt>きにゅう</rt></ruby>しました。",
+    "sentence_en": "I filled in my symptoms and physical condition in detail on the obstetrics clinic's medical questionnaire.",
+    "word_kanji": "問診票",
+    "word_furigana": "もんしんひょう",
+    "word_en": "medical questionnaire; symptom inquiry form",
+    "extra_kanji": [
+      { "kanji": "産婦人科", "furigana": "さんふじんか", "en": "obstetrics clinic" },
+      { "kanji": "症状", "furigana": "しょうじょう", "en": "symptom" },
+      { "kanji": "体調", "furigana": "たいちょう", "en": "physical condition" },
+      { "kanji": "詳しく", "furigana": "くわしく", "en": "in detail; thoroughly" },
+      { "kanji": "記入", "furigana": "きにゅう", "en": "fill in; entry" }
+    ]
+  },
+  {
+    "id": "preg_72",
+    "sentence": "出産後、骨盤がゆるんだため、骨盤ベルトを使っています。",
+    "sentence_furigana": "<ruby>出産後<rt>しゅっさんご</rt></ruby>、<ruby>骨盤<rt>こつばん</rt></ruby>がゆるんだため、<ruby>骨盤<rt>こつばん</rt></ruby>ベルトを<ruby>使<rt>つか</rt></ruby>っています。",
+    "sentence_en": "After delivery, my pelvis became loose so I am using a pelvic support belt.",
+    "word_kanji": "骨盤ベルト",
+    "word_furigana": "こつばんベルト",
+    "word_en": "pelvic support belt; maternity girdle",
+    "extra_kanji": [
+      { "kanji": "出産後", "furigana": "しゅっさんご", "en": "after delivery" },
+      { "kanji": "骨盤", "furigana": "こつばん", "en": "pelvis" },
+      { "kanji": "使う", "furigana": "つかう", "en": "to use" }
+    ]
+  },
+  {
+    "id": "preg_73",
+    "sentence": "胃もたれがひどくて、妊娠後期は少量ずつ食事をとっていました。",
+    "sentence_furigana": "<ruby>胃<rt>い</rt></ruby>もたれがひどくて、<ruby>妊娠後期<rt>にんしんこうき</rt></ruby>は<ruby>少量<rt>しょうりょう</rt></ruby>ずつ<ruby>食事<rt>しょくじ</rt></ruby>をとっていました。",
+    "sentence_en": "Heartburn was so bad that in late pregnancy I was eating in small amounts at a time.",
+    "word_kanji": "胃もたれ",
+    "word_furigana": "いもたれ",
+    "word_en": "heartburn; indigestion; heavy stomach",
+    "extra_kanji": [
+      { "kanji": "妊娠後期", "furigana": "にんしんこうき", "en": "late pregnancy; third trimester" },
+      { "kanji": "少量", "furigana": "しょうりょう", "en": "small amount; small quantity" },
+      { "kanji": "食事", "furigana": "しょくじ", "en": "meal; eating" }
+    ]
+  },
+  {
+    "id": "preg_74",
+    "sentence": "陣痛促進剤を使って、自然に近い形で出産しました。",
+    "sentence_furigana": "<ruby>陣痛促進剤<rt>じんつうそくしんざい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<ruby>自然<rt>しぜん</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>い<ruby>形<rt>かたち</rt></ruby>で<ruby>出産<rt>しゅっさん</rt></ruby>しました。",
+    "sentence_en": "I gave birth in a way close to natural delivery using a labor-inducing drug.",
+    "word_kanji": "陣痛促進剤",
+    "word_furigana": "じんつうそくしんざい",
+    "word_en": "labor induction drug; oxytocin",
+    "extra_kanji": [
+      { "kanji": "使う", "furigana": "つかう", "en": "to use" },
+      { "kanji": "自然", "furigana": "しぜん", "en": "natural" },
+      { "kanji": "出産", "furigana": "しゅっさん", "en": "childbirth; delivery" }
+    ]
+  },
+  {
+    "id": "preg_75",
+    "sentence": "妊娠後期にノンストレステストで胎児の心拍を確認します。",
+    "sentence_furigana": "<ruby>妊娠後期<rt>にんしんこうき</rt></ruby>にノンストレステストで<ruby>胎児<rt>たいじ</rt></ruby>の<ruby>心拍<rt>しんぱく</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
+    "sentence_en": "In late pregnancy, the fetal heartbeat is checked with a non-stress test.",
+    "word_kanji": "胎児",
+    "word_furigana": "たいじ",
+    "word_en": "fetus; unborn baby",
+    "extra_kanji": [
+      { "kanji": "妊娠後期", "furigana": "にんしんこうき", "en": "late pregnancy" },
+      { "kanji": "心拍", "furigana": "しんぱく", "en": "heartbeat; pulse" },
+      { "kanji": "確認", "furigana": "かくにん", "en": "confirmation; check" }
+    ]
+  },
+  {
+    "id": "preg_76",
+    "sentence": "赤ちゃんの寝かしつけに毎晩一時間以上かかることもあります。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>寝<rt>ね</rt></ruby>かしつけに<ruby>毎晩<rt>まいばん</rt></ruby><ruby>一時間以上<rt>いちじかんいじょう</rt></ruby>かかることもあります。",
+    "sentence_en": "Putting the baby to sleep can sometimes take more than an hour every night.",
+    "word_kanji": "寝かしつけ",
+    "word_furigana": "ねかしつけ",
+    "word_en": "putting a baby to sleep; settling a child",
+    "extra_kanji": [
+      { "kanji": "毎晩", "furigana": "まいばん", "en": "every night" },
+      { "kanji": "一時間以上", "furigana": "いちじかんいじょう", "en": "more than one hour" }
+    ]
+  },
+  {
+    "id": "preg_77",
+    "sentence": "マタニティウェアはお腹が大きくなっても着られるので便利です。",
+    "sentence_furigana": "マタニティウェアはお<ruby>腹<rt>なか</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きくなっても<ruby>着<rt>き</rt></ruby>られるので<ruby>便利<rt>べんり</rt></ruby>です。",
+    "sentence_en": "Maternity wear is convenient because you can wear it even as your belly grows.",
+    "word_kanji": "便利",
+    "word_furigana": "べんり",
+    "word_en": "convenient; handy; useful",
+    "extra_kanji": [
+      { "kanji": "お腹", "furigana": "おなか", "en": "belly; abdomen" },
+      { "kanji": "大きい", "furigana": "おおきい", "en": "big; large" },
+      { "kanji": "着る", "furigana": "きる", "en": "to wear; to put on" }
+    ]
+  },
+  {
+    "id": "preg_78",
+    "sentence": "産後ケアセンターで一週間、育児のサポートを受けました。",
+    "sentence_furigana": "<ruby>産後<rt>さんご</rt></ruby>ケアセンターで<ruby>一週間<rt>いっしゅうかん</rt></ruby>、<ruby>育児<rt>いくじ</rt></ruby>のサポートを<ruby>受<rt>う</rt></ruby>けました。",
+    "sentence_en": "I received childcare support for one week at a postpartum care center.",
+    "word_kanji": "産後ケア",
+    "word_furigana": "さんごケア",
+    "word_en": "postpartum care; postnatal support",
+    "extra_kanji": [
+      { "kanji": "一週間", "furigana": "いっしゅうかん", "en": "one week" },
+      { "kanji": "育児", "furigana": "いくじ", "en": "childcare" },
+      { "kanji": "受ける", "furigana": "うける", "en": "to receive" }
+    ]
+  },
+  {
+    "id": "preg_79",
+    "sentence": "上の子が赤ちゃん返りをして、少し大変でした。",
+    "sentence_furigana": "<ruby>上<rt>うえ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>ちゃん<ruby>返<rt>がえ</rt></ruby>りをして、<ruby>少<rt>すこ</rt></ruby>し<ruby>大変<rt>たいへん</rt></ruby>でした。",
+    "sentence_en": "Our older child regressed to baby-like behavior, which was a little tough.",
+    "word_kanji": "赤ちゃん返り",
+    "word_furigana": "あかちゃんがえり",
+    "word_en": "regression; acting like a baby (older sibling after new baby arrives)",
+    "extra_kanji": [
+      { "kanji": "上の子", "furigana": "うえのこ", "en": "older child" },
+      { "kanji": "少し", "furigana": "すこし", "en": "a little; slightly" },
+      { "kanji": "大変", "furigana": "たいへん", "en": "tough; difficult; hard" }
+    ]
+  },
+  {
+    "id": "preg_80",
+    "sentence": "自然分娩か無痛分娩かを、出産前に決めておく必要があります。",
+    "sentence_furigana": "<ruby>自然分娩<rt>しぜんぶんべん</rt></ruby>か<ruby>無痛分娩<rt>むつうぶんべん</rt></ruby>かを、<ruby>出産前<rt>しゅっさんまえ</rt></ruby>に<ruby>決<rt>き</rt></ruby>めておく<ruby>必要<rt>ひつよう</rt></ruby>があります。",
+    "sentence_en": "You need to decide before birth whether to have a natural delivery or an epidural.",
+    "word_kanji": "自然分娩",
+    "word_furigana": "しぜんぶんべん",
+    "word_en": "natural childbirth; unmedicated delivery",
+    "extra_kanji": [
+      { "kanji": "無痛分娩", "furigana": "むつうぶんべん", "en": "epidural delivery" },
+      { "kanji": "出産前", "furigana": "しゅっさんまえ", "en": "before delivery" },
+      { "kanji": "決める", "furigana": "きめる", "en": "to decide" },
+      { "kanji": "必要", "furigana": "ひつよう", "en": "necessary; essential" }
+    ]
+  },
+  {
+    "id": "preg_81",
+    "sentence": "妊娠中は腰痛がひどくなったので、マタニティヨガを始めました。",
+    "sentence_furigana": "<ruby>妊娠中<rt>にんしんちゅう</rt></ruby>は<ruby>腰痛<rt>ようつう</rt></ruby>がひどくなったので、マタニティヨガを<ruby>始<rt>はじ</rt></ruby>めました。",
+    "sentence_en": "My back pain got worse during pregnancy, so I started prenatal yoga.",
+    "word_kanji": "腰痛",
+    "word_furigana": "ようつう",
+    "word_en": "lower back pain; lumbago",
+    "extra_kanji": [
+      { "kanji": "妊娠中", "furigana": "にんしんちゅう", "en": "during pregnancy" },
+      { "kanji": "始める", "furigana": "はじめる", "en": "to start; to begin" }
+    ]
+  },
+  {
+    "id": "preg_82",
+    "sentence": "妊娠後期は頻尿になって、夜中に何度もトイレに起きました。",
+    "sentence_furigana": "<ruby>妊娠後期<rt>にんしんこうき</rt></ruby>は<ruby>頻尿<rt>ひんにょう</rt></ruby>になって、<ruby>夜中<rt>よなか</rt></ruby>に<ruby>何度<rt>なんど</rt></ruby>もトイレに<ruby>起<rt>お</rt></ruby>きました。",
+    "sentence_en": "In late pregnancy I developed frequent urination and woke up to go to the bathroom many times at night.",
+    "word_kanji": "頻尿",
+    "word_furigana": "ひんにょう",
+    "word_en": "frequent urination; urinary frequency",
+    "extra_kanji": [
+      { "kanji": "妊娠後期", "furigana": "にんしんこうき", "en": "late pregnancy" },
+      { "kanji": "夜中", "furigana": "よなか", "en": "middle of the night" },
+      { "kanji": "何度も", "furigana": "なんども", "en": "many times; repeatedly" },
+      { "kanji": "起きる", "furigana": "おきる", "en": "to wake up" }
+    ]
+  },
+  {
+    "id": "preg_83",
+    "sentence": "出産後、悪露が続く間は激しい運動を避けてください。",
+    "sentence_furigana": "<ruby>出産後<rt>しゅっさんご</rt></ruby>、<ruby>悪露<rt>おろ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く<ruby>間<rt>あいだ</rt></ruby>は<ruby>激<rt>はげ</rt></ruby>しい<ruby>運動<rt>うんどう</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けてください。",
+    "sentence_en": "After delivery, please avoid strenuous exercise while lochia continues.",
+    "word_kanji": "悪露",
+    "word_furigana": "おろ",
+    "word_en": "lochia; postpartum vaginal discharge",
+    "extra_kanji": [
+      { "kanji": "出産後", "furigana": "しゅっさんご", "en": "after delivery" },
+      { "kanji": "続く", "furigana": "つづく", "en": "to continue; to go on" },
+      { "kanji": "激しい", "furigana": "はげしい", "en": "intense; strenuous" },
+      { "kanji": "運動", "furigana": "うんどう", "en": "exercise; physical activity" },
+      { "kanji": "避ける", "furigana": "さける", "en": "to avoid" }
+    ]
+  },
+  {
+    "id": "preg_84",
+    "sentence": "産後体操をすると、骨盤底筋の回復に役立ちます。",
+    "sentence_furigana": "<ruby>産後体操<rt>さんごたいそう</rt></ruby>をすると、<ruby>骨盤底筋<rt>こつばんていきん</rt></ruby>の<ruby>回復<rt>かいふく</rt></ruby>に<ruby>役立<rt>やくだ</rt></ruby>ちます。",
+    "sentence_en": "Doing postpartum exercises helps with recovery of the pelvic floor muscles.",
+    "word_kanji": "産後体操",
+    "word_furigana": "さんごたいそう",
+    "word_en": "postpartum exercises",
+    "extra_kanji": [
+      { "kanji": "骨盤底筋", "furigana": "こつばんていきん", "en": "pelvic floor muscles" },
+      { "kanji": "回復", "furigana": "かいふく", "en": "recovery" },
+      { "kanji": "役立つ", "furigana": "やくだつ", "en": "to be useful; to help" }
+    ]
+  },
+  {
+    "id": "preg_85",
+    "sentence": "妊娠中の体重増加の目安を先生に確認しました。",
+    "sentence_furigana": "<ruby>妊娠中<rt>にんしんちゅう</rt></ruby>の<ruby>体重増加<rt>たいじゅうぞうか</rt></ruby>の<ruby>目安<rt>めやす</rt></ruby>を<ruby>先生<rt>せんせい</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>しました。",
+    "sentence_en": "I confirmed with the doctor the recommended weight gain guideline during pregnancy.",
+    "word_kanji": "体重増加",
+    "word_furigana": "たいじゅうぞうか",
+    "word_en": "weight gain",
+    "extra_kanji": [
+      { "kanji": "妊娠中", "furigana": "にんしんちゅう", "en": "during pregnancy" },
+      { "kanji": "目安", "furigana": "めやす", "en": "guideline; rough standard" },
+      { "kanji": "先生", "furigana": "せんせい", "en": "doctor; teacher" },
+      { "kanji": "確認", "furigana": "かくにん", "en": "confirmation; check" }
+    ]
+  },
+  {
+    "id": "preg_86",
+    "sentence": "夫が積極的に家事を手伝ってくれたので、安心して妊娠生活を送れました。",
+    "sentence_furigana": "<ruby>夫<rt>おっと</rt></ruby>が<ruby>積極的<rt>せっきょくてき</rt></ruby>に<ruby>家事<rt>かじ</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>ってくれたので、<ruby>安心<rt>あんしん</rt></ruby>して<ruby>妊娠生活<rt>にんしんせいかつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>れました。",
+    "sentence_en": "Since my husband actively helped with household chores, I was able to go through pregnancy with peace of mind.",
+    "word_kanji": "家事",
+    "word_furigana": "かじ",
+    "word_en": "household chores; housework",
+    "extra_kanji": [
+      { "kanji": "夫", "furigana": "おっと", "en": "husband" },
+      { "kanji": "積極的", "furigana": "せっきょくてき", "en": "proactive; actively" },
+      { "kanji": "手伝う", "furigana": "てつだう", "en": "to help; to assist" },
+      { "kanji": "安心", "furigana": "あんしん", "en": "peace of mind; relief" }
+    ]
+  },
+  {
+    "id": "preg_87",
+    "sentence": "抱っこ紐を使えば、両手が自由になって家事もしやすいです。",
+    "sentence_furigana": "<ruby>抱<rt>だ</rt></ruby>っこ<ruby>紐<rt>ひも</rt></ruby>を<ruby>使<rt>つか</rt></ruby>えば、<ruby>両手<rt>りょうて</rt></ruby>が<ruby>自由<rt>じゆう</rt></ruby>になって<ruby>家事<rt>かじ</rt></ruby>もしやすいです。",
+    "sentence_en": "If you use a baby carrier, your hands are free, making housework easier too.",
+    "word_kanji": "抱っこ紐",
+    "word_furigana": "だっこひも",
+    "word_en": "baby carrier; baby sling",
+    "extra_kanji": [
+      { "kanji": "両手", "furigana": "りょうて", "en": "both hands" },
+      { "kanji": "自由", "furigana": "じゆう", "en": "free; freedom" },
+      { "kanji": "家事", "furigana": "かじ", "en": "household chores" }
+    ]
+  },
+  {
+    "id": "preg_88",
+    "sentence": "分娩台の上で、助産師に「いきんで」と言われながら出産しました。",
+    "sentence_furigana": "<ruby>分娩台<rt>ぶんべんだい</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>で、<ruby>助産師<rt>じょさんし</rt></ruby>に「いきんで」と<ruby>言<rt>い</rt></ruby>われながら<ruby>出産<rt>しゅっさん</rt></ruby>しました。",
+    "sentence_en": "On the delivery table, I gave birth while the midwife told me to \"push.\"",
+    "word_kanji": "分娩台",
+    "word_furigana": "ぶんべんだい",
+    "word_en": "delivery table; birthing table",
+    "extra_kanji": [
+      { "kanji": "助産師", "furigana": "じょさんし", "en": "midwife" },
+      { "kanji": "出産", "furigana": "しゅっさん", "en": "childbirth; delivery" }
+    ]
+  },
+  {
+    "id": "preg_89",
+    "sentence": "妊娠中の適度な運動は、安産につながると言われています。",
+    "sentence_furigana": "<ruby>妊娠中<rt>にんしんちゅう</rt></ruby>の<ruby>適度<rt>てきど</rt></ruby>な<ruby>運動<rt>うんどう</rt></ruby>は、<ruby>安産<rt>あんざん</rt></ruby>につながると<ruby>言<rt>い</rt></ruby>われています。",
+    "sentence_en": "It is said that moderate exercise during pregnancy leads to an easy delivery.",
+    "word_kanji": "安産",
+    "word_furigana": "あんざん",
+    "word_en": "easy delivery; safe childbirth",
+    "extra_kanji": [
+      { "kanji": "妊娠中", "furigana": "にんしんちゅう", "en": "during pregnancy" },
+      { "kanji": "適度", "furigana": "てきど", "en": "moderate; appropriate" },
+      { "kanji": "運動", "furigana": "うんどう", "en": "exercise" }
+    ]
+  },
+  {
+    "id": "preg_90",
+    "sentence": "産後一ヶ月は外出を控えて、体を休めるのが大切です。",
+    "sentence_furigana": "<ruby>産後<rt>さんご</rt></ruby><ruby>一ヶ月<rt>いっかげつ</rt></ruby>は<ruby>外出<rt>がいしゅつ</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>えて、<ruby>体<rt>からだ</rt></ruby>を<ruby>休<rt>やす</rt></ruby>めるのが<ruby>大切<rt>たいせつ</rt></ruby>です。",
+    "sentence_en": "For one month after birth, it is important to refrain from going out and let your body rest.",
+    "word_kanji": "外出",
+    "word_furigana": "がいしゅつ",
+    "word_en": "going out; outing",
+    "extra_kanji": [
+      { "kanji": "産後", "furigana": "さんご", "en": "postpartum" },
+      { "kanji": "一ヶ月", "furigana": "いっかげつ", "en": "one month" },
+      { "kanji": "控える", "furigana": "ひかえる", "en": "to refrain from; to hold back" },
+      { "kanji": "体", "furigana": "からだ", "en": "body" },
+      { "kanji": "大切", "furigana": "たいせつ", "en": "important" }
+    ]
+  },
+  {
+    "id": "preg_91",
+    "sentence": "羊水検査で染色体の異常がないか調べることができます。",
+    "sentence_furigana": "<ruby>羊水検査<rt>ようすいけんさ</rt></ruby>で<ruby>染色体<rt>せんしょくたい</rt></ruby>の<ruby>異常<rt>いじょう</rt></ruby>がないか<ruby>調<rt>しら</rt></ruby>べることができます。",
+    "sentence_en": "An amniocentesis can check whether there are any chromosomal abnormalities.",
+    "word_kanji": "羊水検査",
+    "word_furigana": "ようすいけんさ",
+    "word_en": "amniocentesis",
+    "extra_kanji": [
+      { "kanji": "染色体", "furigana": "せんしょくたい", "en": "chromosome" },
+      { "kanji": "異常", "furigana": "いじょう", "en": "abnormality; anomaly" },
+      { "kanji": "調べる", "furigana": "しらべる", "en": "to examine; to check" }
+    ]
+  },
+  {
+    "id": "preg_92",
+    "sentence": "出産に備えて、入院バッグを早めに用意しておきました。",
+    "sentence_furigana": "<ruby>出産<rt>しゅっさん</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えて、<ruby>入院<rt>にゅういん</rt></ruby>バッグを<ruby>早<rt>はや</rt></ruby>めに<ruby>用意<rt>ようい</rt></ruby>しておきました。",
+    "sentence_en": "In preparation for delivery, I got the hospital bag ready early.",
+    "word_kanji": "用意",
+    "word_furigana": "ようい",
+    "word_en": "preparation; readiness",
+    "extra_kanji": [
+      { "kanji": "出産", "furigana": "しゅっさん", "en": "childbirth; delivery" },
+      { "kanji": "備える", "furigana": "そなえる", "en": "to prepare for" },
+      { "kanji": "入院", "furigana": "にゅういん", "en": "hospitalization" },
+      { "kanji": "早めに", "furigana": "はやめに", "en": "early; ahead of time" }
+    ]
+  },
+  {
+    "id": "preg_93",
+    "sentence": "妊娠悪阻がひどくて入院が必要になる人もいます。",
+    "sentence_furigana": "<ruby>妊娠悪阻<rt>にんしんおそ</rt></ruby>がひどくて<ruby>入院<rt>にゅういん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になる<ruby>人<rt>ひと</rt></ruby>もいます。",
+    "sentence_en": "Some people experience hyperemesis gravidarum so severely that hospitalization becomes necessary.",
+    "word_kanji": "妊娠悪阻",
+    "word_furigana": "にんしんおそ",
+    "word_en": "hyperemesis gravidarum; severe morning sickness",
+    "extra_kanji": [
+      { "kanji": "入院", "furigana": "にゅういん", "en": "hospitalization" },
+      { "kanji": "必要", "furigana": "ひつよう", "en": "necessary; essential" }
+    ]
+  },
+  {
+    "id": "preg_94",
+    "sentence": "赤ちゃんが生まれたあと、肌の触れ合いを大切にするカンガルーケアをしました。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれたあと、<ruby>肌<rt>はだ</rt></ruby>の<ruby>触<rt>ふ</rt></ruby>れ<ruby>合<rt>あ</rt></ruby>いを<ruby>大切<rt>たいせつ</rt></ruby>にするカンガルーケアをしました。",
+    "sentence_en": "After the baby was born, we did kangaroo care to cherish skin-to-skin contact.",
+    "word_kanji": "肌の触れ合い",
+    "word_furigana": "はだのふれあい",
+    "word_en": "skin-to-skin contact; physical closeness",
+    "extra_kanji": [
+      { "kanji": "生まれる", "furigana": "うまれる", "en": "to be born" },
+      { "kanji": "肌", "furigana": "はだ", "en": "skin" },
+      { "kanji": "大切にする", "furigana": "たいせつにする", "en": "to cherish; to value" }
+    ]
+  },
+  {
+    "id": "preg_95",
+    "sentence": "産婦人科の先生に、妊娠中に避けるべき食べ物を聞きました。",
+    "sentence_furigana": "<ruby>産婦人科<rt>さんふじんか</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>に、<ruby>妊娠中<rt>にんしんちゅう</rt></ruby>に<ruby>避<rt>さ</rt></ruby>けるべき<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。",
+    "sentence_en": "I asked the obstetrician about foods to avoid during pregnancy.",
+    "word_kanji": "避ける",
+    "word_furigana": "さける",
+    "word_en": "to avoid; to stay away from",
+    "extra_kanji": [
+      { "kanji": "産婦人科", "furigana": "さんふじんか", "en": "obstetrics clinic" },
+      { "kanji": "先生", "furigana": "せんせい", "en": "doctor; teacher" },
+      { "kanji": "妊娠中", "furigana": "にんしんちゅう", "en": "during pregnancy" },
+      { "kanji": "食べ物", "furigana": "たべもの", "en": "food" }
+    ]
+  },
+  {
+    "id": "preg_96",
+    "sentence": "夫がバースプランを一緒に考えてくれて、とても心強かった。",
+    "sentence_furigana": "<ruby>夫<rt>おっと</rt></ruby>がバースプランを<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えてくれて、とても<ruby>心強<rt>こころづよ</rt></ruby>かった。",
+    "sentence_en": "My husband helped me think through the birth plan together, and it was very reassuring.",
+    "word_kanji": "心強い",
+    "word_furigana": "こころづよい",
+    "word_en": "reassuring; encouraging; heartening",
+    "extra_kanji": [
+      { "kanji": "夫", "furigana": "おっと", "en": "husband" },
+      { "kanji": "一緒に", "furigana": "いっしょに", "en": "together" },
+      { "kanji": "考える", "furigana": "かんがえる", "en": "to think; to consider" }
+    ]
+  },
+  {
+    "id": "preg_97",
+    "sentence": "産後に骨盤が開いたままだと、体型が戻りにくくなります。",
+    "sentence_furigana": "<ruby>産後<rt>さんご</rt></ruby>に<ruby>骨盤<rt>こつばん</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>いたままだと、<ruby>体型<rt>たいけい</rt></ruby>が<ruby>戻<rt>もど</rt></ruby>りにくくなります。",
+    "sentence_en": "If the pelvis remains open after birth, it becomes harder for your figure to return to normal.",
+    "word_kanji": "体型",
+    "word_furigana": "たいけい",
+    "word_en": "body shape; figure; physique",
+    "extra_kanji": [
+      { "kanji": "産後", "furigana": "さんご", "en": "postpartum" },
+      { "kanji": "骨盤", "furigana": "こつばん", "en": "pelvis" },
+      { "kanji": "開く", "furigana": "ひらく", "en": "to open; to spread" },
+      { "kanji": "戻る", "furigana": "もどる", "en": "to return; to go back" }
+    ]
+  },
+  {
+    "id": "preg_98",
+    "sentence": "妊娠中は感情の起伏が激しくなることがあります。",
+    "sentence_furigana": "<ruby>妊娠中<rt>にんしんちゅう</rt></ruby>は<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>起伏<rt>きふく</rt></ruby>が<ruby>激<rt>はげ</rt></ruby>しくなることがあります。",
+    "sentence_en": "During pregnancy, emotional ups and downs can become intense.",
+    "word_kanji": "感情の起伏",
+    "word_furigana": "かんじょうのきふく",
+    "word_en": "emotional ups and downs; mood swings",
+    "extra_kanji": [
+      { "kanji": "妊娠中", "furigana": "にんしんちゅう", "en": "during pregnancy" },
+      { "kanji": "感情", "furigana": "かんじょう", "en": "emotion; feeling" },
+      { "kanji": "激しい", "furigana": "はげしい", "en": "intense; severe" }
+    ]
+  },
+  {
+    "id": "preg_99",
+    "sentence": "赤ちゃんが生まれて、育児の喜びとともに責任も感じました。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれて、<ruby>育児<rt>いくじ</rt></ruby>の<ruby>喜<rt>よろこ</rt></ruby>びとともに<ruby>責任<rt>せきにん</rt></ruby>も<ruby>感<rt>かん</rt></ruby>じました。",
+    "sentence_en": "When the baby was born, I felt both the joy of raising a child and a sense of responsibility.",
+    "word_kanji": "責任",
+    "word_furigana": "せきにん",
+    "word_en": "responsibility; duty",
+    "extra_kanji": [
+      { "kanji": "生まれる", "furigana": "うまれる", "en": "to be born" },
+      { "kanji": "育児", "furigana": "いくじ", "en": "childcare" },
+      { "kanji": "喜び", "furigana": "よろこび", "en": "joy; delight" },
+      { "kanji": "感じる", "furigana": "かんじる", "en": "to feel; to sense" }
+    ]
+  },
+  {
+    "id": "preg_100",
+    "sentence": "妊娠中から出産後まで、パートナーの寄り添いが何より大切です。",
+    "sentence_furigana": "<ruby>妊娠中<rt>にんしんちゅう</rt></ruby>から<ruby>出産後<rt>しゅっさんご</rt></ruby>まで、パートナーの<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>いが<ruby>何<rt>なに</rt></ruby>より<ruby>大切<rt>たいせつ</rt></ruby>です。",
+    "sentence_en": "From pregnancy through the postpartum period, a partner's emotional support is more important than anything.",
+    "word_kanji": "寄り添い",
+    "word_furigana": "よりそい",
+    "word_en": "being by someone's side; emotional support; accompaniment",
+    "extra_kanji": [
+      { "kanji": "妊娠中", "furigana": "にんしんちゅう", "en": "during pregnancy" },
+      { "kanji": "出産後", "furigana": "しゅっさんご", "en": "after delivery" },
+      { "kanji": "何より", "furigana": "なにより", "en": "more than anything; above all" },
+      { "kanji": "大切", "furigana": "たいせつ", "en": "important; precious" }
+    ]
+  },
+  {
+    "id": "preg_101",
+    "sentence": "おしるしが出たので、今夜か明日には陣痛が来るかもしれません。",
+    "sentence_furigana": "おしるしが<ruby>出<rt>で</rt></ruby>たので、<ruby>今夜<rt>こんや</rt></ruby>か<ruby>明日<rt>あした</rt></ruby>には<ruby>陣痛<rt>じんつう</rt></ruby>が<ruby>来<rt>く</rt></ruby>るかもしれません。",
+    "sentence_en": "My bloody show appeared, so contractions might come tonight or tomorrow.",
+    "word_kanji": "おしるし",
+    "word_furigana": "おしるし",
+    "word_en": "bloody show; pre-labor discharge",
+    "extra_kanji": [
+      { "kanji": "今夜", "furigana": "こんや", "en": "tonight" },
+      { "kanji": "明日", "furigana": "あした", "en": "tomorrow" },
+      { "kanji": "陣痛", "furigana": "じんつう", "en": "labor contraction" }
+    ]
+  },
+  {
+    "id": "preg_102",
+    "sentence": "前駆陣痛が三日続いたあと、本格的な陣痛が始まりました。",
+    "sentence_furigana": "<ruby>前駆陣痛<rt>ぜんくじんつう</rt></ruby>が<ruby>三日<rt>みっか</rt></ruby><ruby>続<rt>つづ</rt></ruby>いたあと、<ruby>本格的<rt>ほんかくてき</rt></ruby>な<ruby>陣痛<rt>じんつう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まりました。",
+    "sentence_en": "After three days of false labor, full contractions finally began.",
+    "word_kanji": "前駆陣痛",
+    "word_furigana": "ぜんくじんつう",
+    "word_en": "false labor; Braxton Hicks contractions",
+    "extra_kanji": [
+      { "kanji": "三日", "furigana": "みっか", "en": "three days" },
+      { "kanji": "続く", "furigana": "つづく", "en": "to continue" },
+      { "kanji": "本格的", "furigana": "ほんかくてき", "en": "full-scale; genuine" },
+      { "kanji": "始まる", "furigana": "はじまる", "en": "to begin" }
+    ]
+  },
+  {
+    "id": "preg_103",
+    "sentence": "臨月に入ったので、いつ産まれてもいいように準備しています。",
+    "sentence_furigana": "<ruby>臨月<rt>りんげつ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったので、いつ<ruby>産<rt>う</rt></ruby>まれてもいいように<ruby>準備<rt>じゅんび</rt></ruby>しています。",
+    "sentence_en": "Since I've entered the final month, I'm preparing for the baby to come at any time.",
+    "word_kanji": "臨月",
+    "word_furigana": "りんげつ",
+    "word_en": "last month of pregnancy; near term",
+    "extra_kanji": [
+      { "kanji": "入る", "furigana": "はいる", "en": "to enter" },
+      { "kanji": "産まれる", "furigana": "うまれる", "en": "to be born" },
+      { "kanji": "準備", "furigana": "じゅんび", "en": "preparation" }
+    ]
+  },
+  {
+    "id": "preg_104",
+    "sentence": "安定期に入ってから、周りの人に妊娠を報告しました。",
+    "sentence_furigana": "<ruby>安定期<rt>あんていき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってから、<ruby>周<rt>まわ</rt></ruby>りの<ruby>人<rt>ひと</rt></ruby>に<ruby>妊娠<rt>にんしん</rt></ruby>を<ruby>報告<rt>ほうこく</rt></ruby>しました。",
+    "sentence_en": "After entering the stable period, I announced my pregnancy to the people around me.",
+    "word_kanji": "安定期",
+    "word_furigana": "あんていき",
+    "word_en": "stable period; second trimester (low miscarriage risk)",
+    "extra_kanji": [
+      { "kanji": "入る", "furigana": "はいる", "en": "to enter" },
+      { "kanji": "周り", "furigana": "まわり", "en": "surroundings; people around" },
+      { "kanji": "妊娠", "furigana": "にんしん", "en": "pregnancy" },
+      { "kanji": "報告", "furigana": "ほうこく", "en": "report; announcement" }
+    ]
+  },
+  {
+    "id": "preg_105",
+    "sentence": "体外受精で妊娠に成功し、待望の赤ちゃんが生まれました。",
+    "sentence_furigana": "<ruby>体外受精<rt>たいがいじゅせい</rt></ruby>で<ruby>妊娠<rt>にんしん</rt></ruby>に<ruby>成功<rt>せいこう</rt></ruby>し、<ruby>待望<rt>たいぼう</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれました。",
+    "sentence_en": "We succeeded in getting pregnant through IVF, and our long-awaited baby was born.",
+    "word_kanji": "体外受精",
+    "word_furigana": "たいがいじゅせい",
+    "word_en": "in vitro fertilization; IVF",
+    "extra_kanji": [
+      { "kanji": "妊娠", "furigana": "にんしん", "en": "pregnancy" },
+      { "kanji": "成功", "furigana": "せいこう", "en": "success" },
+      { "kanji": "待望", "furigana": "たいぼう", "en": "long-awaited; eagerly hoped for" },
+      { "kanji": "生まれる", "furigana": "うまれる", "en": "to be born" }
+    ]
+  },
+  {
+    "id": "preg_106",
+    "sentence": "人工授精を数回試みた末に、妊娠が確認できました。",
+    "sentence_furigana": "<ruby>人工授精<rt>じんこうじゅせい</rt></ruby>を<ruby>数回<rt>すうかい</rt></ruby><ruby>試<rt>こころ</rt></ruby>みた<ruby>末<rt>すえ</rt></ruby>に、<ruby>妊娠<rt>にんしん</rt></ruby>が<ruby>確認<rt>かくにん</rt></ruby>できました。",
+    "sentence_en": "After several attempts at artificial insemination, we were able to confirm a pregnancy.",
+    "word_kanji": "人工授精",
+    "word_furigana": "じんこうじゅせい",
+    "word_en": "artificial insemination",
+    "extra_kanji": [
+      { "kanji": "数回", "furigana": "すうかい", "en": "several times" },
+      { "kanji": "試みる", "furigana": "こころみる", "en": "to attempt; to try" },
+      { "kanji": "末に", "furigana": "すえに", "en": "after; at the end of" },
+      { "kanji": "確認", "furigana": "かくにん", "en": "confirmation" }
+    ]
+  },
+  {
+    "id": "preg_107",
+    "sentence": "排卵日を予測して妊活を続けた結果、妊娠しました。",
+    "sentence_furigana": "<ruby>排卵日<rt>はいらんび</rt></ruby>を<ruby>予測<rt>よそく</rt></ruby>して<ruby>妊活<rt>にんかつ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けた<ruby>結果<rt>けっか</rt></ruby>、<ruby>妊娠<rt>にんしん</rt></ruby>しました。",
+    "sentence_en": "By predicting my ovulation day and continuing fertility activities, I became pregnant.",
+    "word_kanji": "排卵日",
+    "word_furigana": "はいらんび",
+    "word_en": "ovulation day",
+    "extra_kanji": [
+      { "kanji": "予測", "furigana": "よそく", "en": "prediction; forecast" },
+      { "kanji": "妊活", "furigana": "にんかつ", "en": "trying to conceive; fertility activities" },
+      { "kanji": "続ける", "furigana": "つづける", "en": "to continue" },
+      { "kanji": "結果", "furigana": "けっか", "en": "result; outcome" }
+    ]
+  },
+  {
+    "id": "preg_108",
+    "sentence": "受精卵が着床しないと、妊娠は成立しません。",
+    "sentence_furigana": "<ruby>受精卵<rt>じゅせいらん</rt></ruby>が<ruby>着床<rt>ちゃくしょう</rt></ruby>しないと、<ruby>妊娠<rt>にんしん</rt></ruby>は<ruby>成立<rt>せいりつ</rt></ruby>しません。",
+    "sentence_en": "If the fertilized egg does not implant, a pregnancy cannot be established.",
+    "word_kanji": "着床",
+    "word_furigana": "ちゃくしょう",
+    "word_en": "implantation (of a fertilized egg)",
+    "extra_kanji": [
+      { "kanji": "受精卵", "furigana": "じゅせいらん", "en": "fertilized egg" },
+      { "kanji": "妊娠", "furigana": "にんしん", "en": "pregnancy" },
+      { "kanji": "成立", "furigana": "せいりつ", "en": "establishment; coming into being" }
+    ]
+  },
+  {
+    "id": "preg_109",
+    "sentence": "妊娠週数が進むにつれて、定期健診の頻度が上がります。",
+    "sentence_furigana": "<ruby>妊娠週数<rt>にんしんしゅうすう</rt></ruby>が<ruby>進<rt>すす</rt></ruby>むにつれて、<ruby>定期健診<rt>ていきけんしん</rt></ruby>の<ruby>頻度<rt>ひんど</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がります。",
+    "sentence_en": "As the gestational weeks progress, the frequency of regular checkups increases.",
+    "word_kanji": "妊娠週数",
+    "word_furigana": "にんしんしゅうすう",
+    "word_en": "gestational age; weeks of pregnancy",
+    "extra_kanji": [
+      { "kanji": "進む", "furigana": "すすむ", "en": "to advance; to progress" },
+      { "kanji": "定期健診", "furigana": "ていきけんしん", "en": "regular checkup" },
+      { "kanji": "頻度", "furigana": "ひんど", "en": "frequency" },
+      { "kanji": "上がる", "furigana": "あがる", "en": "to go up; to increase" }
+    ]
+  },
+  {
+    "id": "preg_110",
+    "sentence": "前置胎盤と診断されたので、安静と定期的な管理が必要です。",
+    "sentence_furigana": "<ruby>前置胎盤<rt>ぜんちたいばん</rt></ruby>と<ruby>診断<rt>しんだん</rt></ruby>されたので、<ruby>安静<rt>あんせい</rt></ruby>と<ruby>定期的<rt>ていきてき</rt></ruby>な<ruby>管理<rt>かんり</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+    "sentence_en": "Since I was diagnosed with placenta previa, rest and regular monitoring are necessary.",
+    "word_kanji": "前置胎盤",
+    "word_furigana": "ぜんちたいばん",
+    "word_en": "placenta previa",
+    "extra_kanji": [
+      { "kanji": "診断", "furigana": "しんだん", "en": "diagnosis" },
+      { "kanji": "安静", "furigana": "あんせい", "en": "rest; bed rest" },
+      { "kanji": "管理", "furigana": "かんり", "en": "management; monitoring" },
+      { "kanji": "必要", "furigana": "ひつよう", "en": "necessary" }
+    ]
+  },
+  {
+    "id": "preg_111",
+    "sentence": "胎盤早期剥離は緊急の帝王切開が必要な場合があります。",
+    "sentence_furigana": "<ruby>胎盤早期剥離<rt>たいばんそうきはくり</rt></ruby>は<ruby>緊急<rt>きんきゅう</rt></ruby>の<ruby>帝王切開<rt>ていおうせっかい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>場合<rt>ばあい</rt></ruby>があります。",
+    "sentence_en": "Placental abruption may require an emergency caesarean section.",
+    "word_kanji": "胎盤早期剥離",
+    "word_furigana": "たいばんそうきはくり",
+    "word_en": "placental abruption",
+    "extra_kanji": [
+      { "kanji": "緊急", "furigana": "きんきゅう", "en": "emergency; urgent" },
+      { "kanji": "帝王切開", "furigana": "ていおうせっかい", "en": "caesarean section" },
+      { "kanji": "必要", "furigana": "ひつよう", "en": "necessary" },
+      { "kanji": "場合", "furigana": "ばあい", "en": "case; situation" }
+    ]
+  },
+  {
+    "id": "preg_112",
+    "sentence": "初産婦は経産婦に比べて、分娩時間が長くなる傾向があります。",
+    "sentence_furigana": "<ruby>初産婦<rt>しょさんぷ</rt></ruby>は<ruby>経産婦<rt>けいさんぷ</rt></ruby>に<ruby>比<rt>くら</rt></ruby>べて、<ruby>分娩<rt>ぶんべん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>くなる<ruby>傾向<rt>けいこう</rt></ruby>があります。",
+    "sentence_en": "First-time mothers tend to have longer labor times compared to experienced mothers.",
+    "word_kanji": "初産婦",
+    "word_furigana": "しょさんぷ",
+    "word_en": "first-time mother; primipara",
+    "extra_kanji": [
+      { "kanji": "経産婦", "furigana": "けいさんぷ", "en": "multiparous woman; experienced mother" },
+      { "kanji": "比べる", "furigana": "くらべる", "en": "to compare" },
+      { "kanji": "分娩", "furigana": "ぶんべん", "en": "delivery; childbirth" },
+      { "kanji": "傾向", "furigana": "けいこう", "en": "tendency; trend" }
+    ]
+  },
+  {
+    "id": "preg_113",
+    "sentence": "経産婦は二人目からお産が早い場合が多いそうです。",
+    "sentence_furigana": "<ruby>経産婦<rt>けいさんぷ</rt></ruby>は<ruby>二人目<rt>ふたりめ</rt></ruby>からお<ruby>産<rt>さん</rt></ruby>が<ruby>早<rt>はや</rt></ruby>い<ruby>場合<rt>ばあい</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いそうです。",
+    "sentence_en": "I hear that multiparous women often have faster deliveries from the second child onward.",
+    "word_kanji": "経産婦",
+    "word_furigana": "けいさんぷ",
+    "word_en": "multiparous woman; mother who has given birth before",
+    "extra_kanji": [
+      { "kanji": "二人目", "furigana": "ふたりめ", "en": "second child" },
+      { "kanji": "早い", "furigana": "はやい", "en": "fast; quick" },
+      { "kanji": "場合", "furigana": "ばあい", "en": "case; situation" },
+      { "kanji": "多い", "furigana": "おおい", "en": "many; common" }
+    ]
+  },
+  {
+    "id": "preg_114",
+    "sentence": "助産院での出産は、自然に近い形で産むことができます。",
+    "sentence_furigana": "<ruby>助産院<rt>じょさんいん</rt></ruby>での<ruby>出産<rt>しゅっさん</rt></ruby>は、<ruby>自然<rt>しぜん</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>い<ruby>形<rt>かたち</rt></ruby>で<ruby>産<rt>う</rt></ruby>むことができます。",
+    "sentence_en": "Giving birth at a midwifery clinic allows you to deliver in a way close to nature.",
+    "word_kanji": "助産院",
+    "word_furigana": "じょさんいん",
+    "word_en": "midwifery clinic; birthing center",
+    "extra_kanji": [
+      { "kanji": "出産", "furigana": "しゅっさん", "en": "childbirth; delivery" },
+      { "kanji": "自然", "furigana": "しぜん", "en": "natural; nature" },
+      { "kanji": "形", "furigana": "かたち", "en": "form; way; manner" },
+      { "kanji": "産む", "furigana": "うむ", "en": "to give birth; to deliver" }
+    ]
+  },
+  {
+    "id": "preg_115",
+    "sentence": "胎教として、毎日お腹に話しかけたり音楽を聞かせたりしました。",
+    "sentence_furigana": "<ruby>胎教<rt>たいきょう</rt></ruby>として、<ruby>毎日<rt>まいにち</rt></ruby>お<ruby>腹<rt>なか</rt></ruby>に<ruby>話<rt>はな</rt></ruby>しかけたり<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>かせたりしました。",
+    "sentence_en": "As prenatal education, I talked to my belly and let the baby listen to music every day.",
+    "word_kanji": "胎教",
+    "word_furigana": "たいきょう",
+    "word_en": "prenatal education; talking and playing music to an unborn baby",
+    "extra_kanji": [
+      { "kanji": "毎日", "furigana": "まいにち", "en": "every day" },
+      { "kanji": "話しかける", "furigana": "はなしかける", "en": "to speak to; to talk to" },
+      { "kanji": "音楽", "furigana": "おんがく", "en": "music" },
+      { "kanji": "聞かせる", "furigana": "きかせる", "en": "to let someone hear; to play for" }
+    ]
+  },
+  {
+    "id": "preg_116",
+    "sentence": "妊婦マークをカバンにつけると、電車で席を譲ってもらいやすいです。",
+    "sentence_furigana": "<ruby>妊婦<rt>にんぷ</rt></ruby>マークをカバンにつけると、<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>ってもらいやすいです。",
+    "sentence_en": "Attaching a maternity badge to your bag makes it easier to be offered a seat on the train.",
+    "word_kanji": "妊婦マーク",
+    "word_furigana": "にんぷマーク",
+    "word_en": "maternity badge; pregnancy mark",
+    "extra_kanji": [
+      { "kanji": "電車", "furigana": "でんしゃ", "en": "train" },
+      { "kanji": "席", "furigana": "せき", "en": "seat" },
+      { "kanji": "譲る", "furigana": "ゆずる", "en": "to give up (a seat); to yield" }
+    ]
+  },
+  {
+    "id": "preg_117",
+    "sentence": "母親学級で呼吸法や分娩の流れを学びました。",
+    "sentence_furigana": "<ruby>母親学級<rt>ははおやがっきゅう</rt></ruby>で<ruby>呼吸法<rt>こきゅうほう</rt></ruby>や<ruby>分娩<rt>ぶんべん</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れを<ruby>学<rt>まな</rt></ruby>びました。",
+    "sentence_en": "At the childbirth preparation class, I learned breathing techniques and the flow of delivery.",
+    "word_kanji": "母親学級",
+    "word_furigana": "ははおやがっきゅう",
+    "word_en": "childbirth preparation class; antenatal class for mothers",
+    "extra_kanji": [
+      { "kanji": "呼吸法", "furigana": "こきゅうほう", "en": "breathing technique" },
+      { "kanji": "分娩", "furigana": "ぶんべん", "en": "delivery; childbirth" },
+      { "kanji": "流れ", "furigana": "ながれ", "en": "flow; sequence" },
+      { "kanji": "学ぶ", "furigana": "まなぶ", "en": "to learn; to study" }
+    ]
+  },
+  {
+    "id": "preg_118",
+    "sentence": "妊婦体操を続けることで、体力をつけて出産に備えました。",
+    "sentence_furigana": "<ruby>妊婦体操<rt>にんぷたいそう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることで、<ruby>体力<rt>たいりょく</rt></ruby>をつけて<ruby>出産<rt>しゅっさん</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えました。",
+    "sentence_en": "By continuing prenatal exercises, I built up my physical strength in preparation for delivery.",
+    "word_kanji": "妊婦体操",
+    "word_furigana": "にんぷたいそう",
+    "word_en": "prenatal exercises; maternity gymnastics",
+    "extra_kanji": [
+      { "kanji": "続ける", "furigana": "つづける", "en": "to continue" },
+      { "kanji": "体力", "furigana": "たいりょく", "en": "physical strength; stamina" },
+      { "kanji": "出産", "furigana": "しゅっさん", "en": "childbirth; delivery" },
+      { "kanji": "備える", "furigana": "そなえる", "en": "to prepare for" }
+    ]
+  },
+  {
+    "id": "preg_119",
+    "sentence": "後産が出るまで、分娩は完全に終わったとは言えません。",
+    "sentence_furigana": "<ruby>後産<rt>あとざん</rt></ruby>が<ruby>出<rt>で</rt></ruby>るまで、<ruby>分娩<rt>ぶんべん</rt></ruby>は<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>終<rt>お</rt></ruby>わったとは<ruby>言<rt>い</rt></ruby>えません。",
+    "sentence_en": "Until the afterbirth is delivered, it cannot be said that the delivery is completely over.",
+    "word_kanji": "後産",
+    "word_furigana": "あとざん",
+    "word_en": "afterbirth; delivery of the placenta",
+    "extra_kanji": [
+      { "kanji": "分娩", "furigana": "ぶんべん", "en": "delivery; childbirth" },
+      { "kanji": "完全に", "furigana": "かんぜんに", "en": "completely; fully" },
+      { "kanji": "終わる", "furigana": "おわる", "en": "to end; to finish" }
+    ]
+  },
+  {
+    "id": "preg_120",
+    "sentence": "陣痛間隔が十分に縮まったら、病院に向かう合図です。",
+    "sentence_furigana": "<ruby>陣痛間隔<rt>じんつうかんかく</rt></ruby>が<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>縮<rt>ちぢ</rt></ruby>まったら、<ruby>病院<rt>びょういん</rt></ruby>に<ruby>向<rt>む</rt></ruby>かう<ruby>合図<rt>あいず</rt></ruby>です。",
+    "sentence_en": "When the contraction interval has shortened sufficiently, that is the signal to head to the hospital.",
+    "word_kanji": "陣痛間隔",
+    "word_furigana": "じんつうかんかく",
+    "word_en": "contraction interval; time between contractions",
+    "extra_kanji": [
+      { "kanji": "十分に", "furigana": "じゅうぶんに", "en": "sufficiently; enough" },
+      { "kanji": "縮まる", "furigana": "ちぢまる", "en": "to shorten; to narrow" },
+      { "kanji": "病院", "furigana": "びょういん", "en": "hospital" },
+      { "kanji": "合図", "furigana": "あいず", "en": "signal; cue" }
+    ]
+  },
+  {
+    "id": "preg_121",
+    "sentence": "粉ミルクは母乳が出ない場合や混合育児の際に使われます。",
+    "sentence_furigana": "<ruby>粉<rt>こな</rt></ruby>ミルクは<ruby>母乳<rt>ぼにゅう</rt></ruby>が<ruby>出<rt>で</rt></ruby>ない<ruby>場合<rt>ばあい</rt></ruby>や<ruby>混合育児<rt>こんごういくじ</rt></ruby>の<ruby>際<rt>さい</rt></ruby>に<ruby>使<rt>つか</rt></ruby>われます。",
+    "sentence_en": "Formula milk is used when breast milk does not come in or for mixed feeding.",
+    "word_kanji": "粉ミルク",
+    "word_furigana": "こなミルク",
+    "word_en": "formula milk; powdered milk",
+    "extra_kanji": [
+      { "kanji": "母乳", "furigana": "ぼにゅう", "en": "breast milk" },
+      { "kanji": "場合", "furigana": "ばあい", "en": "case; situation" },
+      { "kanji": "混合育児", "furigana": "こんごういくじ", "en": "mixed feeding (breast and formula)" },
+      { "kanji": "使う", "furigana": "つかう", "en": "to use" }
+    ]
+  },
+  {
+    "id": "preg_122",
+    "sentence": "母乳育児を続けるために、授乳クッションがとても役に立ちました。",
+    "sentence_furigana": "<ruby>母乳育児<rt>ぼにゅういくじ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けるために、<ruby>授乳<rt>じゅにゅう</rt></ruby>クッションがとても<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>ちました。",
+    "sentence_en": "A nursing pillow was very helpful for continuing breastfeeding.",
+    "word_kanji": "母乳育児",
+    "word_furigana": "ぼにゅういくじ",
+    "word_en": "breastfeeding; breast milk feeding",
+    "extra_kanji": [
+      { "kanji": "続ける", "furigana": "つづける", "en": "to continue" },
+      { "kanji": "授乳", "furigana": "じゅにゅう", "en": "nursing; breastfeeding" },
+      { "kanji": "役に立つ", "furigana": "やくにたつ", "en": "to be useful; to be helpful" }
+    ]
+  },
+  {
+    "id": "preg_123",
+    "sentence": "混合育児にしてから、夫にも授乳を手伝ってもらえるようになりました。",
+    "sentence_furigana": "<ruby>混合育児<rt>こんごういくじ</rt></ruby>にしてから、<ruby>夫<rt>おっと</rt></ruby>にも<ruby>授乳<rt>じゅにゅう</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>ってもらえるようになりました。",
+    "sentence_en": "Since switching to mixed feeding, my husband has been able to help with feedings too.",
+    "word_kanji": "混合育児",
+    "word_furigana": "こんごういくじ",
+    "word_en": "mixed feeding; combination of breastfeeding and formula",
+    "extra_kanji": [
+      { "kanji": "夫", "furigana": "おっと", "en": "husband" },
+      { "kanji": "授乳", "furigana": "じゅにゅう", "en": "feeding; nursing" },
+      { "kanji": "手伝う", "furigana": "てつだう", "en": "to help; to assist" }
+    ]
+  },
+  {
+    "id": "preg_124",
+    "sentence": "おしゃぶりを使うと赤ちゃんが落ち着いて、寝かしつけが楽になりました。",
+    "sentence_furigana": "おしゃぶりを<ruby>使<rt>つか</rt></ruby>うと<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いて、<ruby>寝<rt>ね</rt></ruby>かしつけが<ruby>楽<rt>らく</rt></ruby>になりました。",
+    "sentence_en": "Using a pacifier calmed the baby down and made putting her to sleep easier.",
+    "word_kanji": "おしゃぶり",
+    "word_furigana": "おしゃぶり",
+    "word_en": "pacifier; dummy",
+    "extra_kanji": [
+      { "kanji": "使う", "furigana": "つかう", "en": "to use" },
+      { "kanji": "落ち着く", "furigana": "おちつく", "en": "to calm down; to settle" },
+      { "kanji": "寝かしつけ", "furigana": "ねかしつけ", "en": "putting to sleep" },
+      { "kanji": "楽", "furigana": "らく", "en": "easy; comfortable" }
+    ]
+  },
+  {
+    "id": "preg_125",
+    "sentence": "ベビーベッドは赤ちゃんを安全に寝かせるために欠かせません。",
+    "sentence_furigana": "ベビーベッドは<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>かせるために<ruby>欠<rt>か</rt></ruby>かせません。",
+    "sentence_en": "A baby cot is indispensable for putting the baby to sleep safely.",
+    "word_kanji": "欠かせない",
+    "word_furigana": "かかせない",
+    "word_en": "indispensable; essential; cannot do without",
+    "extra_kanji": [
+      { "kanji": "安全", "furigana": "あんぜん", "en": "safe; safety" },
+      { "kanji": "寝かせる", "furigana": "ねかせる", "en": "to put to sleep; to lay down" }
+    ]
+  },
+  {
+    "id": "preg_126",
+    "sentence": "赤ちゃんが寝返りを打てるようになったのは、生後四ヶ月でした。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>寝返<rt>ねがえ</rt></ruby>りを<ruby>打<rt>う</rt></ruby>てるようになったのは、<ruby>生後<rt>せいご</rt></ruby><ruby>四ヶ月<rt>よんかげつ</rt></ruby>でした。",
+    "sentence_en": "The baby was able to roll over at four months after birth.",
+    "word_kanji": "寝返り",
+    "word_furigana": "ねがえり",
+    "word_en": "rolling over (baby milestone)",
+    "extra_kanji": [
+      { "kanji": "打つ", "furigana": "うつ", "en": "to do; to make (a movement)" },
+      { "kanji": "生後", "furigana": "せいご", "en": "after birth; postnatal" },
+      { "kanji": "四ヶ月", "furigana": "よんかげつ", "en": "four months" }
+    ]
+  },
+  {
+    "id": "preg_127",
+    "sentence": "高額療養費制度を使えば、出産や入院にかかる費用が抑えられます。",
+    "sentence_furigana": "<ruby>高額療養費制度<rt>こうがくりょうようひせいど</rt></ruby>を<ruby>使<rt>つか</rt></ruby>えば、<ruby>出産<rt>しゅっさん</rt></ruby>や<ruby>入院<rt>にゅういん</rt></ruby>にかかる<ruby>費用<rt>ひよう</rt></ruby>が<ruby>抑<rt>おさ</rt></ruby>えられます。",
+    "sentence_en": "If you use the high-cost medical care system, you can keep down costs for delivery and hospitalization.",
+    "word_kanji": "高額療養費制度",
+    "word_furigana": "こうがくりょうようひせいど",
+    "word_en": "high-cost medical care system; catastrophic illness benefit",
+    "extra_kanji": [
+      { "kanji": "出産", "furigana": "しゅっさん", "en": "childbirth; delivery" },
+      { "kanji": "入院", "furigana": "にゅういん", "en": "hospitalization" },
+      { "kanji": "費用", "furigana": "ひよう", "en": "cost; expense" },
+      { "kanji": "抑える", "furigana": "おさえる", "en": "to suppress; to keep down" }
+    ]
+  },
+  {
+    "id": "preg_128",
+    "sentence": "産後の肥立ちが悪いと、体の回復が遅くなることがあります。",
+    "sentence_furigana": "<ruby>産後<rt>さんご</rt></ruby>の<ruby>肥立<rt>ひだ</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>いと、<ruby>体<rt>からだ</rt></ruby>の<ruby>回復<rt>かいふく</rt></ruby>が<ruby>遅<rt>おそ</rt></ruby>くなることがあります。",
+    "sentence_en": "If postpartum recovery goes poorly, the body's healing can be delayed.",
+    "word_kanji": "産後の肥立ち",
+    "word_furigana": "さんごのひだち",
+    "word_en": "postpartum recovery; getting back on one's feet after birth",
+    "extra_kanji": [
+      { "kanji": "産後", "furigana": "さんご", "en": "postpartum" },
+      { "kanji": "悪い", "furigana": "わるい", "en": "bad; poor" },
+      { "kanji": "体", "furigana": "からだ", "en": "body" },
+      { "kanji": "回復", "furigana": "かいふく", "en": "recovery" },
+      { "kanji": "遅い", "furigana": "おそい", "en": "slow; late" }
+    ]
+  },
+  {
+    "id": "preg_129",
+    "sentence": "眠気が強い場合は、無理して起きていないで横になりましょう。",
+    "sentence_furigana": "<ruby>眠気<rt>ねむけ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>い<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>無理<rt>むり</rt></ruby>して<ruby>起<rt>お</rt></ruby>きていないで<ruby>横<rt>よこ</rt></ruby>になりましょう。",
+    "sentence_en": "If sleepiness is strong, don't force yourself to stay awake — lie down.",
+    "word_kanji": "眠気",
+    "word_furigana": "ねむけ",
+    "word_en": "sleepiness; drowsiness",
+    "extra_kanji": [
+      { "kanji": "強い", "furigana": "つよい", "en": "strong; intense" },
+      { "kanji": "場合", "furigana": "ばあい", "en": "case; situation" },
+      { "kanji": "無理して", "furigana": "むりして", "en": "forcing oneself; pushing through" },
+      { "kanji": "横になる", "furigana": "よこになる", "en": "to lie down" }
+    ]
+  },
+  {
+    "id": "preg_130",
+    "sentence": "妊娠後期になると胸焼けがひどくなる人が多いです。",
+    "sentence_furigana": "<ruby>妊娠後期<rt>にんしんこうき</rt></ruby>になると<ruby>胸焼<rt>むねや</rt></ruby>けがひどくなる<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。",
+    "sentence_en": "Many people experience worsening heartburn when they reach late pregnancy.",
+    "word_kanji": "胸焼け",
+    "word_furigana": "むねやけ",
+    "word_en": "heartburn; acid reflux",
+    "extra_kanji": [
+      { "kanji": "妊娠後期", "furigana": "にんしんこうき", "en": "late pregnancy; third trimester" },
+      { "kanji": "多い", "furigana": "おおい", "en": "many" }
+    ]
+  },
+  {
+    "id": "preg_131",
+    "sentence": "お腹が大きくなると子宮が肺を圧迫して息切れしやすくなります。",
+    "sentence_furigana": "お<ruby>腹<rt>なか</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きくなると<ruby>子宮<rt>しきゅう</rt></ruby>が<ruby>肺<rt>はい</rt></ruby>を<ruby>圧迫<rt>あっぱく</rt></ruby>して<ruby>息切<rt>いきぎ</rt></ruby>れしやすくなります。",
+    "sentence_en": "As the belly grows, the uterus presses on the lungs, making shortness of breath more likely.",
+    "word_kanji": "息切れ",
+    "word_furigana": "いきぎれ",
+    "word_en": "shortness of breath; breathlessness",
+    "extra_kanji": [
+      { "kanji": "子宮", "furigana": "しきゅう", "en": "uterus" },
+      { "kanji": "肺", "furigana": "はい", "en": "lungs" },
+      { "kanji": "圧迫", "furigana": "あっぱく", "en": "pressure; compression" }
+    ]
+  },
+  {
+    "id": "preg_132",
+    "sentence": "妊娠中に静脈瘤ができて、足が重く感じることがありました。",
+    "sentence_furigana": "<ruby>妊娠中<rt>にんしんちゅう</rt></ruby>に<ruby>静脈瘤<rt>じょうみゃくりゅう</rt></ruby>ができて、<ruby>足<rt>あし</rt></ruby>が<ruby>重<rt>おも</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じることがありました。",
+    "sentence_en": "I developed varicose veins during pregnancy and sometimes felt heaviness in my legs.",
+    "word_kanji": "静脈瘤",
+    "word_furigana": "じょうみゃくりゅう",
+    "word_en": "varicose veins",
+    "extra_kanji": [
+      { "kanji": "妊娠中", "furigana": "にんしんちゅう", "en": "during pregnancy" },
+      { "kanji": "足", "furigana": "あし", "en": "legs; feet" },
+      { "kanji": "重い", "furigana": "おもい", "en": "heavy" },
+      { "kanji": "感じる", "furigana": "かんじる", "en": "to feel; to sense" }
+    ]
+  },
+  {
+    "id": "preg_133",
+    "sentence": "正期産は妊娠三十七週から四十二週未満の出産のことです。",
+    "sentence_furigana": "<ruby>正期産<rt>せいきざん</rt></ruby>は<ruby>妊娠<rt>にんしん</rt></ruby><ruby>三十七週<rt>さんじゅうしちしゅう</rt></ruby>から<ruby>四十二週未満<rt>よんじゅうにしゅうみまん</rt></ruby>の<ruby>出産<rt>しゅっさん</rt></ruby>のことです。",
+    "sentence_en": "A term birth refers to delivery between 37 and less than 42 weeks of pregnancy.",
+    "word_kanji": "正期産",
+    "word_furigana": "せいきざん",
+    "word_en": "term birth; full-term delivery (37–42 weeks)",
+    "extra_kanji": [
+      { "kanji": "妊娠", "furigana": "にんしん", "en": "pregnancy" },
+      { "kanji": "出産", "furigana": "しゅっさん", "en": "childbirth; delivery" },
+      { "kanji": "未満", "furigana": "みまん", "en": "less than; under" }
+    ]
+  },
+  {
+    "id": "preg_134",
+    "sentence": "過期産にならないように、予定日を過ぎたら誘発分娩を検討します。",
+    "sentence_furigana": "<ruby>過期産<rt>かきざん</rt></ruby>にならないように、<ruby>予定日<rt>よていび</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎたら<ruby>誘発分娩<rt>ゆうはつぶんべん</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>します。",
+    "sentence_en": "To avoid a post-term birth, induced labor is considered if the due date passes.",
+    "word_kanji": "過期産",
+    "word_furigana": "かきざん",
+    "word_en": "post-term birth; overdue delivery (42 weeks or more)",
+    "extra_kanji": [
+      { "kanji": "予定日", "furigana": "よていび", "en": "due date; scheduled date" },
+      { "kanji": "過ぎる", "furigana": "すぎる", "en": "to pass; to go over" },
+      { "kanji": "誘発分娩", "furigana": "ゆうはつぶんべん", "en": "induced labor" },
+      { "kanji": "検討", "furigana": "けんとう", "en": "consideration; deliberation" }
+    ]
+  },
+  {
+    "id": "preg_135",
+    "sentence": "産後クライシスにならないよう、夫婦でこまめにコミュニケーションをとりました。",
+    "sentence_furigana": "<ruby>産後<rt>さんご</rt></ruby>クライシスにならないよう、<ruby>夫婦<rt>ふうふ</rt></ruby>でこまめにコミュニケーションをとりました。",
+    "sentence_en": "To avoid a postpartum relationship crisis, my partner and I communicated frequently.",
+    "word_kanji": "産後クライシス",
+    "word_furigana": "さんごクライシス",
+    "word_en": "postpartum relationship crisis; marital strain after birth",
+    "extra_kanji": [
+      { "kanji": "産後", "furigana": "さんご", "en": "postpartum" },
+      { "kanji": "夫婦", "furigana": "ふうふ", "en": "married couple" },
+      { "kanji": "こまめに", "furigana": "こまめに", "en": "frequently; diligently" }
+    ]
+  },
+  {
+    "id": "preg_136",
+    "sentence": "夫が単身赴任中のため、ワンオペ育児で毎日奮闘しています。",
+    "sentence_furigana": "<ruby>夫<rt>おっと</rt></ruby>が<ruby>単身赴任<rt>たんしんふにん</rt></ruby>中のため、ワンオペ<ruby>育児<rt>いくじ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>奮闘<rt>ふんとう</rt></ruby>しています。",
+    "sentence_en": "Since my husband is away for work, I am struggling through solo parenting every day.",
+    "word_kanji": "ワンオペ育児",
+    "word_furigana": "ワンオペいくじ",
+    "word_en": "solo parenting; one-person childcare",
+    "extra_kanji": [
+      { "kanji": "夫", "furigana": "おっと", "en": "husband" },
+      { "kanji": "単身赴任", "furigana": "たんしんふにん", "en": "working away from family; solo assignment posting" },
+      { "kanji": "育児", "furigana": "いくじ", "en": "childcare" },
+      { "kanji": "毎日", "furigana": "まいにち", "en": "every day" },
+      { "kanji": "奮闘", "furigana": "ふんとう", "en": "struggle; fighting hard" }
+    ]
+  },
+  {
+    "id": "preg_137",
+    "sentence": "腹帯を巻くと、お腹が安定して動きやすくなります。",
+    "sentence_furigana": "<ruby>腹帯<rt>はらおび</rt></ruby>を<ruby>巻<rt>ま</rt></ruby>くと、お<ruby>腹<rt>なか</rt></ruby>が<ruby>安定<rt>あんてい</rt></ruby>して<ruby>動<rt>うご</rt></ruby>きやすくなります。",
+    "sentence_en": "Wrapping a maternity belly band stabilizes the belly and makes it easier to move.",
+    "word_kanji": "腹帯",
+    "word_furigana": "はらおび",
+    "word_en": "maternity belly band; abdominal support wrap",
+    "extra_kanji": [
+      { "kanji": "巻く", "furigana": "まく", "en": "to wrap; to wind" },
+      { "kanji": "お腹", "furigana": "おなか", "en": "belly; abdomen" },
+      { "kanji": "安定", "furigana": "あんてい", "en": "stability; stable" },
+      { "kanji": "動く", "furigana": "うごく", "en": "to move" }
+    ]
+  },
+  {
+    "id": "preg_138",
+    "sentence": "骨盤底筋体操は尿漏れ予防にも産後の回復にも効果的です。",
+    "sentence_furigana": "<ruby>骨盤底筋体操<rt>こつばんていきんたいそう</rt></ruby>は<ruby>尿漏<rt>にょうも</rt></ruby>れ<ruby>予防<rt>よぼう</rt></ruby>にも<ruby>産後<rt>さんご</rt></ruby>の<ruby>回復<rt>かいふく</rt></ruby>にも<ruby>効果的<rt>こうかてき</rt></ruby>です。",
+    "sentence_en": "Pelvic floor exercises are effective for both preventing urinary leakage and postpartum recovery.",
+    "word_kanji": "骨盤底筋体操",
+    "word_furigana": "こつばんていきんたいそう",
+    "word_en": "pelvic floor exercises; Kegel exercises",
+    "extra_kanji": [
+      { "kanji": "尿漏れ", "furigana": "にょうもれ", "en": "urinary leakage; incontinence" },
+      { "kanji": "予防", "furigana": "よぼう", "en": "prevention" },
+      { "kanji": "産後", "furigana": "さんご", "en": "postpartum" },
+      { "kanji": "回復", "furigana": "かいふく", "en": "recovery" },
+      { "kanji": "効果的", "furigana": "こうかてき", "en": "effective" }
+    ]
+  },
+  {
+    "id": "preg_139",
+    "sentence": "乳幼児突然死症候群を防ぐために、うつぶせ寝をさせないようにします。",
+    "sentence_furigana": "<ruby>乳幼児突然死症候群<rt>にゅうようじとつぜんししょうこうぐん</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐために、うつぶせ<ruby>寝<rt>ね</rt></ruby>をさせないようにします。",
+    "sentence_en": "To prevent SIDS, we make sure not to put the baby to sleep face down.",
+    "word_kanji": "乳幼児突然死症候群",
+    "word_furigana": "にゅうようじとつぜんししょうこうぐん",
+    "word_en": "SIDS; sudden infant death syndrome",
+    "extra_kanji": [
+      { "kanji": "防ぐ", "furigana": "ふせぐ", "en": "to prevent; to guard against" },
+      { "kanji": "うつぶせ寝", "furigana": "うつぶせね", "en": "sleeping face down; prone sleeping" }
+    ]
+  },
+  {
+    "id": "preg_140",
+    "sentence": "産科病棟の個室は費用が高いですが、ゆっくり休めました。",
+    "sentence_furigana": "<ruby>産科病棟<rt>さんかびょうとう</rt></ruby>の<ruby>個室<rt>こしつ</rt></ruby>は<ruby>費用<rt>ひよう</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いですが、ゆっくり<ruby>休<rt>やす</rt></ruby>めました。",
+    "sentence_en": "The private room in the maternity ward was expensive, but I was able to rest comfortably.",
+    "word_kanji": "産科病棟",
+    "word_furigana": "さんかびょうとう",
+    "word_en": "maternity ward; obstetrics ward",
+    "extra_kanji": [
+      { "kanji": "個室", "furigana": "こしつ", "en": "private room" },
+      { "kanji": "費用", "furigana": "ひよう", "en": "cost; expense" },
+      { "kanji": "高い", "furigana": "たかい", "en": "expensive; high" },
+      { "kanji": "休む", "furigana": "やすむ", "en": "to rest" }
+    ]
+  },
+  {
+    "id": "preg_141",
+    "sentence": "新生児室では助産師が赤ちゃんの様子を二十四時間見てくれます。",
+    "sentence_furigana": "<ruby>新生児室<rt>しんせいじしつ</rt></ruby>では<ruby>助産師<rt>じょさんし</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>様子<rt>ようす</rt></ruby>を<ruby>二十四時間<rt>にじゅうよじかん</rt></ruby><ruby>見<rt>み</rt></ruby>てくれます。",
+    "sentence_en": "In the nursery, midwives watch over the babies around the clock.",
+    "word_kanji": "新生児室",
+    "word_furigana": "しんせいじしつ",
+    "word_en": "nursery; newborn room",
+    "extra_kanji": [
+      { "kanji": "助産師", "furigana": "じょさんし", "en": "midwife" },
+      { "kanji": "様子", "furigana": "ようす", "en": "condition; how things are" },
+      { "kanji": "二十四時間", "furigana": "にじゅうよじかん", "en": "twenty-four hours; around the clock" }
+    ]
+  },
+  {
+    "id": "preg_142",
+    "sentence": "搾乳器を使えば、外出中でも母乳を保存しておくことができます。",
+    "sentence_furigana": "<ruby>搾乳器<rt>さくにゅうき</rt></ruby>を<ruby>使<rt>つか</rt></ruby>えば、<ruby>外出中<rt>がいしゅつちゅう</rt></ruby>でも<ruby>母乳<rt>ぼにゅう</rt></ruby>を<ruby>保存<rt>ほぞん</rt></ruby>しておくことができます。",
+    "sentence_en": "With a breast pump, you can store breast milk even while you are out.",
+    "word_kanji": "搾乳器",
+    "word_furigana": "さくにゅうき",
+    "word_en": "breast pump",
+    "extra_kanji": [
+      { "kanji": "外出中", "furigana": "がいしゅつちゅう", "en": "while going out; while away" },
+      { "kanji": "母乳", "furigana": "ぼにゅう", "en": "breast milk" },
+      { "kanji": "保存", "furigana": "ほぞん", "en": "storage; preservation" }
+    ]
+  },
+  {
+    "id": "preg_143",
+    "sentence": "授乳クッションを使うと、正しい姿勢で授乳しやすくなります。",
+    "sentence_furigana": "<ruby>授乳<rt>じゅにゅう</rt></ruby>クッションを<ruby>使<rt>つか</rt></ruby>うと、<ruby>正<rt>ただ</rt></ruby>しい<ruby>姿勢<rt>しせい</rt></ruby>で<ruby>授乳<rt>じゅにゅう</rt></ruby>しやすくなります。",
+    "sentence_en": "Using a nursing pillow makes it easier to breastfeed in the correct posture.",
+    "word_kanji": "授乳クッション",
+    "word_furigana": "じゅにゅうクッション",
+    "word_en": "nursing pillow; breastfeeding cushion",
+    "extra_kanji": [
+      { "kanji": "正しい", "furigana": "ただしい", "en": "correct; proper" },
+      { "kanji": "姿勢", "furigana": "しせい", "en": "posture; position" },
+      { "kanji": "授乳", "furigana": "じゅにゅう", "en": "nursing; breastfeeding" }
+    ]
+  },
+  {
+    "id": "preg_144",
+    "sentence": "赤ちゃんをあやすとき、子守唄を歌うと落ち着くことがあります。",
+    "sentence_furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんをあやすとき、<ruby>子守唄<rt>こもりうた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>うと<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>くことがあります。",
+    "sentence_en": "When soothing a baby, singing a lullaby sometimes calms them down.",
+    "word_kanji": "子守唄",
+    "word_furigana": "こもりうた",
+    "word_en": "lullaby",
+    "extra_kanji": [
+      { "kanji": "あやす", "furigana": "あやす", "en": "to soothe; to calm a baby" },
+      { "kanji": "歌う", "furigana": "うたう", "en": "to sing" },
+      { "kanji": "落ち着く", "furigana": "おちつく", "en": "to calm down; to settle" }
+    ]
+  },
+  {
+    "id": "preg_145",
+    "sentence": "泣いている赤ちゃんをあやす方法を、育児書で調べました。",
+    "sentence_furigana": "<ruby>泣<rt>な</rt></ruby>いている<ruby>赤<rt>あか</rt></ruby>ちゃんをあやす<ruby>方法<rt>ほうほう</rt></ruby>を、<ruby>育児書<rt>いくじしょ</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べました。",
+    "sentence_en": "I looked up ways to soothe a crying baby in a childcare book.",
+    "word_kanji": "あやす",
+    "word_furigana": "あやす",
+    "word_en": "to soothe a baby; to calm a crying infant",
+    "extra_kanji": [
+      { "kanji": "泣く", "furigana": "なく", "en": "to cry" },
+      { "kanji": "方法", "furigana": "ほうほう", "en": "method; way" },
+      { "kanji": "育児書", "furigana": "いくじしょ", "en": "childcare book; parenting book" },
+      { "kanji": "調べる", "furigana": "しらべる", "en": "to look up; to research" }
+    ]
+  },
+  {
+    "id": "preg_146",
+    "sentence": "羊水過多の場合、早産のリスクが高まることがあります。",
+    "sentence_furigana": "<ruby>羊水過多<rt>ようすいかた</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>、<ruby>早産<rt>そうざん</rt></ruby>のリスクが<ruby>高<rt>たか</rt></ruby>まることがあります。",
+    "sentence_en": "In cases of polyhydramnios, the risk of premature birth may increase.",
+    "word_kanji": "羊水過多",
+    "word_furigana": "ようすいかた",
+    "word_en": "polyhydramnios; excess amniotic fluid",
+    "extra_kanji": [
+      { "kanji": "場合", "furigana": "ばあい", "en": "case; situation" },
+      { "kanji": "早産", "furigana": "そうざん", "en": "premature birth" },
+      { "kanji": "高まる", "furigana": "たかまる", "en": "to increase; to rise" }
+    ]
+  },
+  {
+    "id": "preg_147",
+    "sentence": "周産期センターでは、ハイリスク妊娠に対応できる体制が整っています。",
+    "sentence_furigana": "<ruby>周産期<rt>しゅうさんき</rt></ruby>センターでは、ハイリスク<ruby>妊娠<rt>にんしん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>できる<ruby>体制<rt>たいせい</rt></ruby>が<ruby>整<rt>ととの</rt></ruby>っています。",
+    "sentence_en": "The perinatal center is equipped to handle high-risk pregnancies.",
+    "word_kanji": "周産期センター",
+    "word_furigana": "しゅうさんきセンター",
+    "word_en": "perinatal center; maternal and neonatal care center",
+    "extra_kanji": [
+      { "kanji": "妊娠", "furigana": "にんしん", "en": "pregnancy" },
+      { "kanji": "対応", "furigana": "たいおう", "en": "response; handling" },
+      { "kanji": "体制", "furigana": "たいせい", "en": "system; structure; setup" },
+      { "kanji": "整う", "furigana": "ととのう", "en": "to be in order; to be ready" }
+    ]
+  },
+  {
+    "id": "preg_148",
+    "sentence": "沐浴剤を使えば、石鹸で洗い流す手間が省けて便利です。",
+    "sentence_furigana": "<ruby>沐浴剤<rt>もくよくざい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>えば、<ruby>石鹸<rt>せっけん</rt></ruby>で<ruby>洗<rt>あら</rt></ruby>い<ruby>流<rt>なが</rt></ruby>す<ruby>手間<rt>てま</rt></ruby>が<ruby>省<rt>はぶ</rt></ruby>けて<ruby>便利<rt>べんり</rt></ruby>です。",
+    "sentence_en": "Using a baby bath wash saves the trouble of rinsing with soap and is convenient.",
+    "word_kanji": "沐浴剤",
+    "word_furigana": "もくよくざい",
+    "word_en": "baby bath wash; rinse-free newborn bath liquid",
+    "extra_kanji": [
+      { "kanji": "石鹸", "furigana": "せっけん", "en": "soap" },
+      { "kanji": "洗い流す", "furigana": "あらいながす", "en": "to rinse off; to wash away" },
+      { "kanji": "手間", "furigana": "てま", "en": "trouble; effort" },
+      { "kanji": "省く", "furigana": "はぶく", "en": "to save; to omit; to skip" },
+      { "kanji": "便利", "furigana": "べんり", "en": "convenient; handy" }
+    ]
+  },
+  {
+    "id": "preg_149",
+    "sentence": "神社で安産お守りをいただき、お腹の赤ちゃんの無事を祈りました。",
+    "sentence_furigana": "<ruby>神社<rt>じんじゃ</rt></ruby>で<ruby>安産<rt>あんざん</rt></ruby>お<ruby>守<rt>まも</rt></ruby>りをいただき、お<ruby>腹<rt>なか</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>無事<rt>ぶじ</rt></ruby>を<ruby>祈<rt>いの</rt></ruby>りました。",
+    "sentence_en": "I received a safe-birth amulet at the shrine and prayed for the safety of the baby in my belly.",
+    "word_kanji": "安産お守り",
+    "word_furigana": "あんざんおまもり",
+    "word_en": "safe-birth amulet; good-luck charm for easy delivery",
+    "extra_kanji": [
+      { "kanji": "神社", "furigana": "じんじゃ", "en": "Shinto shrine" },
+      { "kanji": "安産", "furigana": "あんざん", "en": "easy delivery; safe birth" },
+      { "kanji": "無事", "furigana": "ぶじ", "en": "safety; well-being" },
+      { "kanji": "祈る", "furigana": "いのる", "en": "to pray; to wish" }
+    ]
+  },
+  {
+    "id": "preg_150",
+    "sentence": "生まれたての赤ちゃんはとても小さくて、感動で涙が止まりませんでした。",
+    "sentence_furigana": "<ruby>生<rt>う</rt></ruby>まれたての<ruby>赤<rt>あか</rt></ruby>ちゃんはとても<ruby>小<rt>ちい</rt></ruby>さくて、<ruby>感動<rt>かんどう</rt></ruby>で<ruby>涙<rt>なみだ</rt></ruby>が<ruby>止<rt>と</rt></ruby>まりませんでした。",
+    "sentence_en": "The newborn baby was so tiny that I couldn't stop crying from the emotion.",
+    "word_kanji": "生まれたて",
+    "word_furigana": "うまれたて",
+    "word_en": "newborn; just born; fresh into the world",
+    "extra_kanji": [
+      { "kanji": "小さい", "furigana": "ちいさい", "en": "small; tiny" },
+      { "kanji": "感動", "furigana": "かんどう", "en": "being moved; deep emotion" },
+      { "kanji": "涙", "furigana": "なみだ", "en": "tears" },
+      { "kanji": "止まる", "furigana": "とまる", "en": "to stop" }
+    ]
+  }
+]
